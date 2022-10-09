@@ -1,0 +1,6453 @@
+,County,Zip_Code
+0,Kern County,93225
+1,Los Angeles County,91206
+2,Orange County,92627
+3,Contra Costa County,94553
+4,Ventura County,93010
+5,Mariposa County,95345
+6,Santa Barbara County,93437
+7,Napa County,94558
+8,Ventura County,93063
+9,Placer County,95681
+10,San Diego County,92091
+11,Santa Clara County,94086
+12,Sacramento County,95843
+13,San Diego County,91942
+14,Tulare County,93286
+15,Marin County,94956
+16,San Diego County,92078
+17,San Mateo County,94015
+18,Santa Clara County,95037
+19,Madera County,93601
+20,Humboldt County,95550
+21,Fresno County,93648
+22,Stanislaus County,95358
+23,Sonoma County,95442
+24,Humboldt County,95503
+25,San Mateo County,94038
+26,Los Angeles County,90058
+27,Los Angeles County,90063
+28,Imperial County,92231
+29,Shasta County,96003
+30,Santa Clara County,95046
+31,San Joaquin County,95209
+32,Los Angeles County,90003
+33,Los Angeles County,90255
+34,San Diego County,92129
+35,Alameda County,94539
+36,Sonoma County,95405
+37,Santa Clara County,95126
+38,Los Angeles County,91042
+39,Tulare County,93291
+40,San Joaquin County,95240
+41,Napa County,94515
+42,San Joaquin County,95230
+43,Siskiyou County,96134
+44,Mono County,96107
+45,Ventura County,93023
+46,Riverside County,92241
+47,Los Angeles County,91605
+48,Marin County,94937
+49,Sonoma County,95404
+50,Santa Clara County,95131
+51,Los Angeles County,90744
+52,Stanislaus County,95357
+53,San Diego County,92113
+54,Los Angeles County,90275
+55,Sonoma County,95452
+56,Calaveras County,95255
+57,Los Angeles County,90062
+58,San Bernardino County,92256
+59,Los Angeles County,93563
+60,San Luis Obispo County,93428
+61,Del Norte County,95548
+62,Fresno County,93650
+63,Napa County,94508
+64,Merced County,95333
+65,Humboldt County,95560
+66,San Diego County,92122
+67,Los Angeles County,91755
+68,Los Angeles County,91381
+69,Sacramento County,95660
+70,Los Angeles County,91746
+71,Lake County,95443
+72,Los Angeles County,91803
+73,Los Angeles County,90403
+74,San Joaquin County,95240
+75,Los Angeles County,90001
+76,Solano County,94533
+77,San Joaquin County,95204
+78,Riverside County,92592
+79,San Diego County,92028
+80,San Luis Obispo County,93422
+81,Merced County,95365
+82,Ventura County,93021
+83,Santa Barbara County,93463
+84,Napa County,94515
+85,Los Angeles County,90638
+86,Kern County,93516
+87,San Diego County,92078
+88,Stanislaus County,95313
+89,Tuolumne County,95379
+90,San Diego County,92120
+91,Placer County,95603
+92,Fresno County,93725
+93,Fresno County,93616
+94,San Mateo County,94065
+95,San Bernardino County,92285
+96,Los Angeles County,90250
+97,San Luis Obispo County,93445
+98,Kings County,93202
+99,Yolo County,95612
+100,Orange County,92620
+101,Santa Cruz County,95066
+102,Stanislaus County,95368
+103,Humboldt County,95519
+104,San Mateo County,94027
+105,Orange County,92649
+106,Riverside County,92320
+107,San Mateo County,94014
+108,Lake County,95461
+109,Alameda County,94705
+110,Kern County,93249
+111,Orange County,92844
+112,Riverside County,92203
+113,Ventura County,93033
+114,San Diego County,92122
+115,San Diego County,92027
+116,Riverside County,92553
+117,San Bernardino County,91710
+118,Sacramento County,95820
+119,San Diego County,92117
+120,Stanislaus County,95380
+121,Imperial County,92231
+122,Tuolumne County,95321
+123,Santa Cruz County,95033
+124,Fresno County,93611
+125,Los Angeles County,91364
+126,Riverside County,92592
+127,Merced County,95334
+128,Tulare County,93274
+129,Santa Barbara County,93427
+130,Los Angeles County,93552
+131,Orange County,92655
+132,Sacramento County,95630
+133,Alameda County,94619
+134,Marin County,94960
+135,Los Angeles County,91010
+136,Riverside County,92530
+137,Orange County,92672
+138,Los Angeles County,90004
+139,Los Angeles County,90241
+140,Sonoma County,94923
+141,Yuba County,95925
+142,San Bernardino County,92338
+143,Santa Clara County,95051
+144,Riverside County,92571
+145,Humboldt County,95540
+146,San Diego County,92122
+147,Los Angeles County,91773
+148,El Dorado County,95672
+149,San Diego County,92122
+150,El Dorado County,95651
+151,San Diego County,92078
+152,Santa Barbara County,93436
+153,El Dorado County,95664
+154,San Francisco County,94133
+155,Los Angeles County,91345
+156,Los Angeles County,90040
+157,Los Angeles County,90710
+158,San Francisco County,94108
+159,Los Angeles County,90301
+160,Los Angeles County,90015
+161,San Mateo County,94060
+162,Monterey County,95004
+163,Tulare County,93603
+164,Fresno County,93648
+165,Inyo County,92328
+166,Los Angeles County,91744
+167,Fresno County,93656
+168,San Francisco County,94104
+169,Butte County,95916
+170,Sonoma County,95439
+171,Santa Cruz County,95010
+172,San Diego County,92109
+173,Los Angeles County,91711
+174,Los Angeles County,91207
+175,Los Angeles County,90248
+176,San Diego County,92028
+177,San Francisco County,94134
+178,San Diego County,92126
+179,Orange County,92703
+180,Merced County,95369
+181,San Bernardino County,92404
+182,Humboldt County,95542
+183,Los Angeles County,90807
+184,San Bernardino County,91784
+185,El Dorado County,95762
+186,Sonoma County,95403
+187,Los Angeles County,90265
+188,Sonoma County,95401
+189,Fresno County,93656
+190,Ventura County,93035
+191,Los Angeles County,93591
+192,Los Angeles County,91723
+193,Los Angeles County,93591
+194,Humboldt County,95546
+195,Los Angeles County,90802
+196,Humboldt County,95564
+197,Trinity County,95527
+198,Orange County,92844
+199,Lassen County,96121
+200,Shasta County,96007
+201,San Diego County,92122
+202,San Diego County,92123
+203,San Luis Obispo County,93453
+204,Orange County,92869
+205,Los Angeles County,90033
+206,Santa Clara County,95111
+207,San Diego County,92109
+208,Amador County,95640
+209,San Mateo County,94404
+210,San Diego County,92117
+211,Los Angeles County,90034
+212,San Francisco County,94130
+213,Santa Cruz County,95062
+214,Riverside County,92596
+215,San Diego County,92021
+216,Los Angeles County,91403
+217,Riverside County,92860
+218,Los Angeles County,93532
+219,Los Angeles County,90723
+220,Orange County,92675
+221,Calaveras County,95228
+222,Los Angeles County,91724
+223,Colusa County,95932
+224,Orange County,90630
+225,Sacramento County,95814
+226,Los Angeles County,93534
+227,Orange County,92867
+228,Monterey County,93926
+229,Los Angeles County,90045
+230,San Diego County,92173
+231,Marin County,94949
+232,Santa Clara County,95020
+233,Ventura County,91377
+234,San Mateo County,94080
+235,Stanislaus County,95385
+236,Santa Clara County,95117
+237,Santa Clara County,94089
+238,Orange County,92660
+239,San Francisco County,94133
+240,Santa Clara County,94305
+241,Los Angeles County,90041
+242,Stanislaus County,95380
+243,Los Angeles County,90210
+244,Riverside County,92503
+245,Orange County,90720
+246,Fresno County,93710
+247,San Diego County,92025
+248,Los Angeles County,90247
+249,San Diego County,92024
+250,Sacramento County,95829
+251,Humboldt County,95555
+252,Santa Clara County,95118
+253,Los Angeles County,91732
+254,Los Angeles County,90212
+255,Orange County,90631
+256,Tulare County,93277
+257,San Francisco County,94114
+258,Los Angeles County,90602
+259,Los Angeles County,90822
+260,San Joaquin County,95215
+261,San Bernardino County,92332
+262,Santa Clara County,95030
+263,Nevada County,95949
+264,San Diego County,92117
+265,Tulare County,93291
+266,Santa Clara County,95112
+267,Fresno County,93722
+268,San Diego County,92117
+269,Merced County,95369
+270,Los Angeles County,91316
+271,Los Angeles County,90706
+272,Tuolumne County,95370
+273,San Bernardino County,92346
+274,Marin County,94949
+275,Riverside County,92592
+276,Los Angeles County,90071
+277,Los Angeles County,90805
+278,San Diego County,92027
+279,Sonoma County,94954
+280,Kern County,93501
+281,Siskiyou County,96014
+282,Sonoma County,94922
+283,Stanislaus County,95316
+284,San Bernardino County,92397
+285,Monterey County,93940
+286,Santa Clara County,94301
+287,Tuolumne County,95327
+288,Santa Clara County,95008
+289,Humboldt County,95511
+290,Orange County,92843
+291,Shasta County,96069
+292,Los Angeles County,91406
+293,San Diego County,92026
+294,Modoc County,96104
+295,Los Angeles County,90717
+296,Lake County,95451
+297,Sacramento County,95662
+298,Tuolumne County,95364
+299,Orange County,92672
+300,Yuba County,95903
+301,Sacramento County,95835
+302,Plumas County,95947
+303,Mendocino County,95437
+304,Sonoma County,94954
+305,Riverside County,92254
+306,Los Angeles County,90504
+307,San Bernardino County,92394
+308,San Diego County,92064
+309,Santa Barbara County,93109
+310,Plumas County,95983
+311,Humboldt County,95550
+312,San Diego County,91962
+313,Sonoma County,95401
+314,San Mateo County,94021
+315,Butte County,95914
+316,Yolo County,95637
+317,Riverside County,92508
+318,Sacramento County,95742
+319,San Bernardino County,92310
+320,San Diego County,91941
+321,Plumas County,95923
+322,San Diego County,92091
+323,Santa Clara County,95116
+324,Los Angeles County,90290
+325,Yolo County,95607
+326,Ventura County,93033
+327,Orange County,90680
+328,Sacramento County,95818
+329,San Joaquin County,95219
+330,Santa Cruz County,95018
+331,Trinity County,96052
+332,Los Angeles County,91352
+333,Riverside County,92539
+334,Los Angeles County,90201
+335,Butte County,95942
+336,San Diego County,91935
+337,Los Angeles County,91702
+338,San Diego County,92028
+339,San Diego County,92122
+340,Shasta County,96065
+341,San Joaquin County,95242
+342,Mendocino County,95585
+343,Nevada County,95975
+344,Sonoma County,94952
+345,Mariposa County,95325
+346,Solano County,95620
+347,Tehama County,96029
+348,Riverside County,92274
+349,Contra Costa County,94549
+350,Los Angeles County,90210
+351,Alameda County,94588
+352,Shasta County,96096
+353,Alameda County,94502
+354,Sacramento County,95638
+355,Sonoma County,95446
+356,San Diego County,91932
+357,San Diego County,92117
+358,Solano County,94510
+359,Los Angeles County,90049
+360,San Francisco County,94112
+361,Shasta County,96007
+362,Plumas County,96020
+363,Merced County,95324
+364,Fresno County,93648
+365,Santa Clara County,95133
+366,Riverside County,92503
+367,Nevada County,95946
+368,Santa Clara County,95148
+369,Kern County,93304
+370,Plumas County,95983
+371,Siskiyou County,96027
+372,Glenn County,95988
+373,Sacramento County,95655
+374,Marin County,94930
+375,Humboldt County,95547
+376,Sonoma County,95444
+377,Kern County,93263
+378,San Diego County,92028
+379,Los Angeles County,90601
+380,San Luis Obispo County,93452
+381,Alameda County,94552
+382,Yuba County,95961
+383,San Diego County,92066
+384,Fresno County,93621
+385,Mendocino County,95427
+386,San Diego County,92084
+387,Santa Cruz County,95073
+388,Shasta County,96019
+389,Los Angeles County,91343
+390,Sacramento County,95670
+391,Kern County,93280
+392,Orange County,92840
+393,Los Angeles County,91103
+394,Shasta County,96069
+395,Calaveras County,95228
+396,Orange County,92618
+397,Los Angeles County,91602
+398,Los Angeles County,90270
+399,Los Angeles County,91321
+400,Calaveras County,95247
+401,Orange County,92673
+402,San Diego County,92122
+403,Humboldt County,95536
+404,Humboldt County,95521
+405,Riverside County,92592
+406,Marin County,94960
+407,Stanislaus County,95307
+408,Sacramento County,95758
+409,Sacramento County,95693
+410,Trinity County,96024
+411,Riverside County,92282
+412,Nevada County,95977
+413,Madera County,93614
+414,Los Angeles County,91702
+415,Merced County,95348
+416,Riverside County,92536
+417,Kern County,93501
+418,San Mateo County,94060
+419,Riverside County,92264
+420,San Bernardino County,91739
+421,Monterey County,93955
+422,Nevada County,95959
+423,Sonoma County,95462
+424,San Bernardino County,92256
+425,San Joaquin County,95240
+426,Sonoma County,95405
+427,San Bernardino County,91709
+428,Madera County,93610
+429,San Bernardino County,92371
+430,Mendocino County,95432
+431,Los Angeles County,90065
+432,Kern County,93308
+433,Orange County,92870
+434,San Mateo County,94065
+435,Mendocino County,95417
+436,Fresno County,93727
+437,Yolo County,95694
+438,Los Angeles County,91765
+439,San Bernardino County,92368
+440,Orange County,90620
+441,Contra Costa County,94805
+442,Siskiyou County,96097
+443,Los Angeles County,90066
+444,San Joaquin County,95203
+445,Los Angeles County,91103
+446,Sacramento County,95626
+447,Los Angeles County,91343
+448,Los Angeles County,90023
+449,Ventura County,91361
+450,San Diego County,91941
+451,Santa Barbara County,93105
+452,San Diego County,92103
+453,Tuolumne County,95346
+454,Santa Clara County,95035
+455,Los Angeles County,90069
+456,San Joaquin County,95207
+457,Madera County,93637
+458,Riverside County,92860
+459,San Mateo County,94019
+460,Yolo County,95616
+461,San Diego County,92028
+462,Mendocino County,95429
+463,San Joaquin County,95337
+464,Fresno County,93706
+465,Los Angeles County,90064
+466,San Luis Obispo County,93433
+467,San Mateo County,94062
+468,Los Angeles County,90240
+469,Inyo County,92328
+470,San Francisco County,94114
+471,Los Angeles County,91722
+472,Santa Clara County,94040
+473,Orange County,92833
+474,San Diego County,92028
+475,Modoc County,96006
+476,Glenn County,95920
+477,Kern County,93309
+478,Riverside County,92254
+479,Los Angeles County,90305
+480,Fresno County,93631
+481,Los Angeles County,91356
+482,Orange County,90621
+483,Riverside County,92590
+484,Los Angeles County,91723
+485,El Dorado County,95614
+486,San Diego County,92061
+487,San Bernardino County,92324
+488,Monterey County,93924
+489,Imperial County,92227
+490,San Bernardino County,92315
+491,San Joaquin County,95240
+492,San Joaquin County,95202
+493,San Diego County,92059
+494,Orange County,92805
+495,Alameda County,94618
+496,San Francisco County,94102
+497,Stanislaus County,95360
+498,Los Angeles County,91607
+499,San Diego County,92123
+500,Monterey County,93924
+501,Orange County,92780
+502,Los Angeles County,90026
+503,Los Angeles County,91101
+504,San Diego County,92105
+505,Orange County,92835
+506,Inyo County,93514
+507,Siskiyou County,96038
+508,Orange County,92610
+509,Riverside County,92211
+510,Yolo County,95776
+511,Madera County,93610
+512,Sonoma County,94928
+513,Alameda County,94502
+514,Orange County,92625
+515,Humboldt County,95511
+516,Santa Clara County,95037
+517,Kings County,93239
+518,Los Angeles County,91001
+519,Los Angeles County,90059
+520,Contra Costa County,94549
+521,Tulare County,93260
+522,Los Angeles County,90068
+523,Riverside County,92592
+524,Humboldt County,95519
+525,Mendocino County,95454
+526,Los Angeles County,90047
+527,Orange County,92866
+528,Tulare County,93615
+529,Santa Clara County,95148
+530,Alameda County,94501
+531,San Francisco County,94107
+532,San Diego County,92128
+533,Orange County,92691
+534,Orange County,92661
+535,Los Angeles County,90036
+536,San Joaquin County,95209
+537,San Bernardino County,92342
+538,San Diego County,92126
+539,El Dorado County,95682
+540,Santa Clara County,95070
+541,Contra Costa County,94518
+542,Los Angeles County,91606
+543,Los Angeles County,91792
+544,Contra Costa County,94519
+545,Yuba County,95961
+546,San Francisco County,94132
+547,Humboldt County,95570
+548,Orange County,92843
+549,Sacramento County,95830
+550,Los Angeles County,91001
+551,Shasta County,96016
+552,Tulare County,93256
+553,Tuolumne County,95310
+554,San Diego County,92027
+555,Calaveras County,95250
+556,Tuolumne County,95364
+557,Los Angeles County,90069
+558,San Luis Obispo County,93401
+559,Amador County,95665
+560,San Diego County,92126
+561,Alameda County,94550
+562,San Bernardino County,92356
+563,Yolo County,95612
+564,San Diego County,92104
+565,Fresno County,93210
+566,Shasta County,96013
+567,San Diego County,91932
+568,Los Angeles County,91732
+569,Los Angeles County,90048
+570,Los Angeles County,90039
+571,Siskiyou County,96031
+572,Los Angeles County,90292
+573,Placer County,95650
+574,Shasta County,96001
+575,Monterey County,93940
+576,Contra Costa County,94565
+577,Los Angeles County,90036
+578,Lake County,95423
+579,Riverside County,92585
+580,Santa Clara County,95133
+581,Los Angeles County,90713
+582,Butte County,95969
+583,Ventura County,91361
+584,Santa Cruz County,95018
+585,San Bernardino County,92338
+586,Santa Clara County,95129
+587,Tehama County,96055
+588,Imperial County,92227
+589,Alameda County,94601
+590,Del Norte County,95548
+591,Sierra County,96124
+592,Trinity County,96010
+593,Merced County,93620
+594,Calaveras County,95245
+595,Butte County,95973
+596,Orange County,92701
+597,Yolo County,95694
+598,San Bernardino County,92345
+599,Solano County,95688
+600,Los Angeles County,91436
+601,Los Angeles County,93551
+602,Tulare County,93274
+603,Los Angeles County,91367
+604,Santa Clara County,94043
+605,Lake County,95422
+606,Marin County,94947
+607,Los Angeles County,91301
+608,Alameda County,94621
+609,Los Angeles County,91724
+610,Sutter County,95668
+611,Sacramento County,95670
+612,Alameda County,94502
+613,Los Angeles County,91711
+614,Mariposa County,95325
+615,Riverside County,92276
+616,Los Angeles County,91367
+617,Kern County,93205
+618,Los Angeles County,91016
+619,Santa Cruz County,95073
+620,Los Angeles County,91384
+621,Los Angeles County,91207
+622,Los Angeles County,91301
+623,Monterey County,93940
+624,San Diego County,92122
+625,Amador County,95629
+626,Fresno County,93675
+627,Santa Barbara County,93460
+628,Butte County,95941
+629,Calaveras County,95257
+630,Riverside County,92883
+631,Trinity County,96048
+632,San Diego County,92029
+633,Los Angeles County,90029
+634,San Diego County,92121
+635,Sonoma County,95442
+636,Ventura County,93041
+637,San Diego County,92122
+638,Orange County,92841
+639,Los Angeles County,90260
+640,San Diego County,92071
+641,San Joaquin County,95220
+642,Napa County,94508
+643,Los Angeles County,91733
+644,San Joaquin County,95203
+645,Los Angeles County,91207
+646,San Diego County,92101
+647,San Diego County,92117
+648,Sutter County,95659
+649,Amador County,95669
+650,Los Angeles County,91504
+651,San Diego County,92129
+652,Sierra County,96125
+653,Fresno County,93703
+654,Ventura County,91377
+655,Trinity County,95595
+656,Fresno County,93711
+657,Sacramento County,95830
+658,Alameda County,94544
+659,Santa Clara County,95118
+660,Santa Clara County,95123
+661,Los Angeles County,91208
+662,Riverside County,92592
+663,Santa Clara County,94305
+664,San Mateo County,94074
+665,Placer County,95713
+666,Los Angeles County,91602
+667,Riverside County,92320
+668,Los Angeles County,90028
+669,San Diego County,92024
+670,San Diego County,92121
+671,Los Angeles County,90604
+672,Sacramento County,95831
+673,Los Angeles County,90024
+674,Alameda County,94541
+675,Mendocino County,95460
+676,Kern County,93308
+677,San Francisco County,94127
+678,Los Angeles County,90021
+679,Los Angeles County,91770
+680,San Bernardino County,91730
+681,Los Angeles County,91301
+682,Orange County,92618
+683,El Dorado County,95623
+684,San Bernardino County,92305
+685,Plumas County,96122
+686,Lassen County,96137
+687,San Diego County,92116
+688,Contra Costa County,94520
+689,Fresno County,93664
+690,Santa Clara County,95008
+691,Mono County,93517
+692,Mendocino County,95415
+693,Orange County,90623
+694,Butte County,95954
+695,Shasta County,96033
+696,Riverside County,92881
+697,Mono County,96107
+698,San Joaquin County,95258
+699,Los Angeles County,90732
+700,Orange County,92870
+701,Los Angeles County,91316
+702,San Diego County,91977
+703,Orange County,92692
+704,Alameda County,94709
+705,Tuolumne County,95383
+706,Alameda County,94702
+707,Siskiyou County,96050
+708,Contra Costa County,94561
+709,Santa Clara County,95008
+710,Los Angeles County,91306
+711,Riverside County,92582
+712,Los Angeles County,91326
+713,Fresno County,93631
+714,Los Angeles County,90056
+715,Kern County,93309
+716,Los Angeles County,90032
+717,Los Angeles County,90040
+718,Alameda County,94580
+719,Los Angeles County,93552
+720,Fresno County,93725
+721,Contra Costa County,94514
+722,Riverside County,92551
+723,Riverside County,92596
+724,Riverside County,92236
+725,Calaveras County,95251
+726,Tulare County,93223
+727,San Diego County,92107
+728,Butte County,95926
+729,Santa Cruz County,95006
+730,Yuba County,95962
+731,Imperial County,92227
+732,Orange County,92707
+733,Orange County,92672
+734,Los Angeles County,91201
+735,Shasta County,96028
+736,Los Angeles County,91030
+737,Fresno County,93704
+738,Humboldt County,95542
+739,San Mateo County,94065
+740,Los Angeles County,90402
+741,Fresno County,93710
+742,Riverside County,92240
+743,Los Angeles County,90010
+744,Riverside County,92234
+745,San Luis Obispo County,93453
+746,Los Angeles County,90501
+747,Fresno County,93675
+748,Butte County,95968
+749,Riverside County,92585
+750,Santa Clara County,95050
+751,San Diego County,92027
+752,Tulare County,93247
+753,Siskiyou County,96039
+754,Orange County,92624
+755,Santa Cruz County,95073
+756,Los Angeles County,91746
+757,Fresno County,93626
+758,Tulare County,93260
+759,Humboldt County,95550
+760,Shasta County,96051
+761,Contra Costa County,94572
+762,San Mateo County,94061
+763,El Dorado County,95636
+764,Riverside County,92570
+765,San Mateo County,94005
+766,Fresno County,93660
+767,San Diego County,92111
+768,Trinity County,96048
+769,Los Angeles County,90077
+770,Tuolumne County,95321
+771,Imperial County,92251
+772,San Luis Obispo County,93451
+773,Orange County,92805
+774,Los Angeles County,90015
+775,Riverside County,92544
+776,Los Angeles County,90274
+777,Tulare County,93260
+778,Lassen County,96136
+779,Los Angeles County,90024
+780,Santa Barbara County,93460
+781,Contra Costa County,94549
+782,Alameda County,94536
+783,Los Angeles County,90007
+784,San Joaquin County,95230
+785,Santa Clara County,95117
+786,Siskiyou County,95568
+787,Shasta County,96002
+788,Marin County,94904
+789,Los Angeles County,90017
+790,Sonoma County,95492
+791,San Diego County,92127
+792,San Bernardino County,91761
+793,Orange County,90740
+794,Lassen County,96114
+795,San Luis Obispo County,93453
+796,San Diego County,91945
+797,Los Angeles County,91601
+798,Lake County,95443
+799,Tulare County,93615
+800,Sonoma County,95450
+801,Merced County,95365
+802,Los Angeles County,90067
+803,San Diego County,92130
+804,Tuolumne County,95329
+805,San Diego County,92106
+806,Contra Costa County,94507
+807,Los Angeles County,91306
+808,Madera County,93638
+809,Colusa County,95979
+810,Los Angeles County,90255
+811,San Diego County,92122
+812,Santa Clara County,95118
+813,Orange County,90631
+814,San Bernardino County,91737
+815,Calaveras County,95250
+816,Los Angeles County,91345
+817,Mendocino County,95494
+818,Amador County,95689
+819,Los Angeles County,91020
+820,Orange County,92610
+821,Los Angeles County,90049
+822,Tuolumne County,95383
+823,Los Angeles County,91605
+824,Yolo County,95691
+825,Orange County,92694
+826,Humboldt County,95562
+827,San Bernardino County,92374
+828,Ventura County,93066
+829,San Diego County,91950
+830,Kern County,93250
+831,Santa Clara County,95054
+832,Santa Barbara County,93460
+833,Shasta County,96071
+834,San Bernardino County,92372
+835,San Bernardino County,92347
+836,Los Angeles County,91207
+837,Kern County,93224
+838,Los Angeles County,90301
+839,Sacramento County,95655
+840,Fresno County,93651
+841,Alameda County,94608
+842,Los Angeles County,93553
+843,Los Angeles County,90746
+844,San Luis Obispo County,93433
+845,Orange County,92703
+846,Tulare County,93262
+847,Los Angeles County,90044
+848,Los Angeles County,91331
+849,Modoc County,96015
+850,Orange County,92630
+851,San Diego County,92122
+852,Riverside County,92507
+853,Butte County,95954
+854,Riverside County,92880
+855,San Joaquin County,95258
+856,Los Angeles County,91351
+857,Los Angeles County,91207
+858,Orange County,92656
+859,Alameda County,94709
+860,San Diego County,92115
+861,Tehama County,96022
+862,Trinity County,95552
+863,Shasta County,96028
+864,Alameda County,94546
+865,Orange County,92691
+866,Fresno County,93622
+867,Los Angeles County,90280
+868,Los Angeles County,90211
+869,Humboldt County,95569
+870,Lassen County,96128
+871,Madera County,93610
+872,Stanislaus County,95351
+873,Contra Costa County,94583
+874,Los Angeles County,90401
+875,San Bernardino County,92401
+876,Los Angeles County,90810
+877,Shasta County,96033
+878,Mendocino County,95417
+879,Lake County,95443
+880,Los Angeles County,90242
+881,San Diego County,92154
+882,Riverside County,92504
+883,Orange County,92831
+884,Siskiyou County,96067
+885,Los Angeles County,90067
+886,Kern County,93283
+887,Orange County,92688
+888,Santa Clara County,95112
+889,Los Angeles County,90706
+890,Orange County,92867
+891,Los Angeles County,91801
+892,Stanislaus County,95361
+893,Los Angeles County,90232
+894,Sacramento County,95624
+895,Orange County,92604
+896,Placer County,96146
+897,Shasta County,96003
+898,San Diego County,91945
+899,Kern County,93523
+900,Napa County,94576
+901,Fresno County,93664
+902,Sacramento County,95832
+903,Orange County,92808
+904,Sonoma County,95450
+905,Sacramento County,95816
+906,Santa Clara County,95119
+907,San Joaquin County,95212
+908,Contra Costa County,94598
+909,Mariposa County,93623
+910,Yuba County,95903
+911,Tehama County,96035
+912,Los Angeles County,90035
+913,Los Angeles County,90230
+914,Los Angeles County,90021
+915,Tehama County,96055
+916,Los Angeles County,90062
+917,San Diego County,92117
+918,San Diego County,92118
+919,Kern County,93263
+920,Lassen County,96130
+921,Fresno County,93626
+922,San Diego County,92014
+923,Los Angeles County,90007
+924,Sonoma County,95446
+925,San Bernardino County,92347
+926,Alameda County,94612
+927,Fresno County,93608
+928,Alameda County,94619
+929,San Joaquin County,95220
+930,Kern County,93309
+931,Santa Clara County,95122
+932,Imperial County,92249
+933,Santa Barbara County,93109
+934,Los Angeles County,90028
+935,Tulare County,93603
+936,Santa Clara County,95130
+937,San Bernardino County,92392
+938,San Diego County,92110
+939,Imperial County,92257
+940,Contra Costa County,94803
+941,Los Angeles County,90262
+942,Merced County,93620
+943,Sierra County,96124
+944,San Bernardino County,92359
+945,Del Norte County,95548
+946,Santa Cruz County,95019
+947,Monterey County,93450
+948,San Diego County,92124
+949,Los Angeles County,91007
+950,Ventura County,93023
+951,San Diego County,92109
+952,Tulare County,93235
+953,Lake County,95464
+954,Sonoma County,95439
+955,Lassen County,96137
+956,Sacramento County,95621
+957,Los Angeles County,90038
+958,Contra Costa County,94561
+959,Riverside County,92501
+960,Los Angeles County,90037
+961,Sonoma County,94928
+962,San Diego County,92028
+963,Alameda County,94611
+964,Kern County,93305
+965,San Diego County,92109
+966,Los Angeles County,91604
+967,San Mateo County,94027
+968,Tulare County,93270
+969,Fresno County,93646
+970,Yuba County,95692
+971,Stanislaus County,95386
+972,Santa Clara County,95119
+973,Los Angeles County,91791
+974,San Diego County,92111
+975,Siskiyou County,96094
+976,Contra Costa County,94519
+977,Sacramento County,95662
+978,Tulare County,93277
+979,San Diego County,91916
+980,Fresno County,93705
+981,Santa Clara County,95014
+982,Fresno County,93727
+983,San Diego County,91980
+984,Santa Barbara County,93111
+985,Los Angeles County,90270
+986,San Diego County,91913
+987,Stanislaus County,95354
+988,San Diego County,92078
+989,Shasta County,96073
+990,San Mateo County,94401
+991,Los Angeles County,91706
+992,Los Angeles County,90710
+993,Contra Costa County,94805
+994,Placer County,95722
+995,Monterey County,93960
+996,San Diego County,92027
+997,Calaveras County,95247
+998,Kern County,93301
+999,Sacramento County,95624
+1000,Stanislaus County,95323
+1001,Kern County,93561
+1002,Sacramento County,95821
+1003,Ventura County,93010
+1004,Sonoma County,95404
+1005,Santa Barbara County,93101
+1006,San Diego County,92129
+1007,Los Angeles County,90804
+1008,San Diego County,92028
+1009,San Diego County,92021
+1010,Los Angeles County,91773
+1011,Los Angeles County,91104
+1012,Placer County,95602
+1013,Sonoma County,95436
+1014,Los Angeles County,90602
+1015,San Joaquin County,95215
+1016,Los Angeles County,91331
+1017,El Dorado County,95634
+1018,Stanislaus County,95367
+1019,Sacramento County,95823
+1020,Butte County,95917
+1021,Los Angeles County,93534
+1022,Los Angeles County,91605
+1023,Marin County,94946
+1024,Los Angeles County,90505
+1025,Contra Costa County,94513
+1026,Los Angeles County,93510
+1027,Tehama County,96059
+1028,Alameda County,94501
+1029,Los Angeles County,91607
+1030,Los Angeles County,90026
+1031,San Joaquin County,95205
+1032,Los Angeles County,90290
+1033,Orange County,90623
+1034,Butte County,95973
+1035,Riverside County,92591
+1036,Los Angeles County,90065
+1037,Sonoma County,95421
+1038,Stanislaus County,95357
+1039,Santa Barbara County,93105
+1040,Humboldt County,95528
+1041,Los Angeles County,91010
+1042,El Dorado County,95682
+1043,El Dorado County,95735
+1044,Riverside County,91752
+1045,Los Angeles County,91606
+1046,Sacramento County,95835
+1047,Los Angeles County,90805
+1048,Los Angeles County,90023
+1049,Sacramento County,95816
+1050,San Diego County,92139
+1051,Riverside County,92253
+1052,Monterey County,93907
+1053,San Luis Obispo County,93432
+1054,Stanislaus County,95382
+1055,Santa Clara County,95030
+1056,Riverside County,92506
+1057,Los Angeles County,90043
+1058,Yolo County,95637
+1059,Sonoma County,94931
+1060,Fresno County,93728
+1061,Los Angeles County,90701
+1062,Riverside County,92264
+1063,Los Angeles County,90046
+1064,Los Angeles County,90077
+1065,Los Angeles County,91406
+1066,Marin County,94956
+1067,Los Angeles County,90056
+1068,Santa Barbara County,93103
+1069,Riverside County,92220
+1070,San Francisco County,94134
+1071,Orange County,92866
+1072,Orange County,92701
+1073,Fresno County,93657
+1074,San Diego County,92120
+1075,Santa Clara County,95032
+1076,Los Angeles County,91504
+1077,San Bernardino County,92401
+1078,Placer County,95663
+1079,Glenn County,95943
+1080,Santa Barbara County,93101
+1081,Sonoma County,94952
+1082,San Bernardino County,91762
+1083,Riverside County,92592
+1084,Orange County,92662
+1085,San Diego County,92027
+1086,Humboldt County,95501
+1087,Sacramento County,95818
+1088,Madera County,93644
+1089,Mendocino County,95488
+1090,Los Angeles County,91105
+1091,Los Angeles County,90604
+1092,San Diego County,91932
+1093,Monterey County,95012
+1094,Los Angeles County,90746
+1095,Ventura County,93001
+1096,Los Angeles County,91773
+1097,Orange County,92649
+1098,Los Angeles County,91202
+1099,Yolo County,95637
+1100,Trinity County,96048
+1101,Riverside County,92503
+1102,Kern County,93307
+1103,Contra Costa County,94804
+1104,Orange County,92629
+1105,Santa Clara County,94043
+1106,Humboldt County,95562
+1107,Butte County,95948
+1108,San Diego County,92061
+1109,Santa Barbara County,93105
+1110,Monterey County,93907
+1111,Placer County,95713
+1112,Santa Clara County,95139
+1113,Solano County,95688
+1114,Riverside County,92544
+1115,Los Angeles County,90403
+1116,Contra Costa County,94518
+1117,El Dorado County,95623
+1118,Santa Clara County,95110
+1119,Kings County,93212
+1120,Siskiyou County,96023
+1121,Amador County,95629
+1122,Los Angeles County,90402
+1123,Orange County,92660
+1124,Solano County,95687
+1125,Santa Clara County,95113
+1126,Orange County,92868
+1127,San Luis Obispo County,93461
+1128,San Bernardino County,92354
+1129,Fresno County,93660
+1130,Humboldt County,95555
+1131,Madera County,93638
+1132,Los Angeles County,93563
+1133,El Dorado County,95684
+1134,Contra Costa County,94549
+1135,San Bernardino County,92410
+1136,San Bernardino County,92408
+1137,Riverside County,92570
+1138,Lake County,95485
+1139,Nevada County,95959
+1140,Orange County,90620
+1141,El Dorado County,95634
+1142,Los Angeles County,91106
+1143,Alameda County,94545
+1144,Los Angeles County,91733
+1145,Sacramento County,95662
+1146,Lassen County,96128
+1147,Los Angeles County,91766
+1148,San Joaquin County,95258
+1149,Monterey County,93426
+1150,Los Angeles County,90242
+1151,Santa Clara County,94087
+1152,Santa Cruz County,95064
+1153,Trinity County,95552
+1154,San Luis Obispo County,93430
+1155,Humboldt County,95564
+1156,Los Angeles County,90201
+1157,Alameda County,94619
+1158,Los Angeles County,90272
+1159,Los Angeles County,90029
+1160,Sonoma County,95436
+1161,Humboldt County,95521
+1162,Sacramento County,95833
+1163,San Bernardino County,92373
+1164,Marin County,94972
+1165,Los Angeles County,90056
+1166,Sacramento County,95817
+1167,Alameda County,94702
+1168,Los Angeles County,91042
+1169,Los Angeles County,90703
+1170,Mendocino County,95587
+1171,Los Angeles County,90241
+1172,Los Angeles County,93535
+1173,Riverside County,92583
+1174,San Joaquin County,95330
+1175,Mendocino County,95468
+1176,Sacramento County,95758
+1177,San Diego County,92130
+1178,Los Angeles County,91605
+1179,San Diego County,92118
+1180,Monterey County,93953
+1181,San Francisco County,94108
+1182,Del Norte County,95543
+1183,San Bernardino County,92324
+1184,Kern County,93531
+1185,Marin County,94920
+1186,Los Angeles County,91206
+1187,Mariposa County,93623
+1188,Yuba County,95961
+1189,Butte County,95965
+1190,San Diego County,91963
+1191,Los Angeles County,90049
+1192,Monterey County,93923
+1193,Los Angeles County,91007
+1194,El Dorado County,95667
+1195,El Dorado County,95634
+1196,Monterey County,95012
+1197,Mendocino County,95454
+1198,Los Angeles County,91724
+1199,Mendocino County,95459
+1200,Sutter County,95659
+1201,Del Norte County,95567
+1202,San Diego County,92107
+1203,Sonoma County,95444
+1204,Amador County,95666
+1205,Monterey County,93955
+1206,San Diego County,92101
+1207,Tuolumne County,95370
+1208,Los Angeles County,91754
+1209,San Bernardino County,91730
+1210,Placer County,95713
+1211,San Diego County,91905
+1212,Los Angeles County,90245
+1213,Los Angeles County,90712
+1214,San Diego County,92036
+1215,Tehama County,96029
+1216,El Dorado County,95720
+1217,San Bernardino County,91786
+1218,Contra Costa County,94514
+1219,San Diego County,92027
+1220,El Dorado County,95672
+1221,Siskiyou County,96097
+1222,Fresno County,93641
+1223,Contra Costa County,94520
+1224,Orange County,92629
+1225,Imperial County,92243
+1226,San Diego County,92109
+1227,Orange County,92660
+1228,San Luis Obispo County,93465
+1229,Los Angeles County,91506
+1230,Calaveras County,95223
+1231,El Dorado County,95635
+1232,Los Angeles County,90018
+1233,Alameda County,94588
+1234,San Diego County,92069
+1235,Santa Barbara County,93101
+1236,San Mateo County,94025
+1237,Los Angeles County,90732
+1238,San Joaquin County,95210
+1239,Riverside County,92879
+1240,Merced County,95315
+1241,Shasta County,96047
+1242,Merced County,95348
+1243,Los Angeles County,91381
+1244,Orange County,90630
+1245,Napa County,94576
+1246,Stanislaus County,95355
+1247,Mariposa County,95338
+1248,Riverside County,92508
+1249,Orange County,92701
+1250,Los Angeles County,91775
+1251,Tulare County,93223
+1252,Riverside County,92506
+1253,Tulare County,93221
+1254,Los Angeles County,91501
+1255,Sonoma County,95425
+1256,Los Angeles County,90291
+1257,San Diego County,91977
+1258,Kern County,93205
+1259,Santa Cruz County,95003
+1260,Los Angeles County,91325
+1261,San Francisco County,94104
+1262,San Diego County,92122
+1263,Riverside County,92592
+1264,Imperial County,92243
+1265,Riverside County,92584
+1266,Los Angeles County,90046
+1267,Los Angeles County,91504
+1268,Los Angeles County,91367
+1269,Fresno County,93621
+1270,Merced County,95374
+1271,Lassen County,96136
+1272,Orange County,92683
+1273,Los Angeles County,91733
+1274,Solano County,94592
+1275,Riverside County,92881
+1276,Los Angeles County,91790
+1277,Los Angeles County,90305
+1278,Santa Clara County,95032
+1279,Los Angeles County,90012
+1280,Los Angeles County,90606
+1281,El Dorado County,95619
+1282,Los Angeles County,90057
+1283,Los Angeles County,90604
+1284,Los Angeles County,91107
+1285,Los Angeles County,90815
+1286,Sacramento County,95818
+1287,Los Angeles County,90077
+1288,Marin County,94947
+1289,Mendocino County,95410
+1290,Orange County,92657
+1291,San Diego County,92070
+1292,Santa Barbara County,93117
+1293,San Mateo County,94025
+1294,Sacramento County,95843
+1295,Los Angeles County,91502
+1296,Contra Costa County,94806
+1297,Los Angeles County,91789
+1298,Sacramento County,95641
+1299,Los Angeles County,90221
+1300,San Diego County,92109
+1301,San Diego County,92109
+1302,Los Angeles County,90822
+1303,Tulare County,93235
+1304,Tulare County,93262
+1305,San Diego County,92064
+1306,Sutter County,95991
+1307,Placer County,95602
+1308,Yuba County,95901
+1309,Sonoma County,95448
+1310,Yuba County,95981
+1311,El Dorado County,95762
+1312,Riverside County,92253
+1313,Mendocino County,95463
+1314,San Diego County,92065
+1315,Los Angeles County,90025
+1316,Riverside County,92230
+1317,Los Angeles County,90403
+1318,Santa Cruz County,95003
+1319,Solano County,94571
+1320,Lake County,95423
+1321,Sonoma County,95403
+1322,Contra Costa County,94526
+1323,Sacramento County,95834
+1324,San Francisco County,94116
+1325,San Mateo County,94030
+1326,Los Angeles County,91767
+1327,Santa Barbara County,93463
+1328,San Bernardino County,92363
+1329,Los Angeles County,91770
+1330,Santa Barbara County,93111
+1331,Los Angeles County,90745
+1332,Orange County,92780
+1333,San Francisco County,94130
+1334,Riverside County,92879
+1335,El Dorado County,95709
+1336,Fresno County,93650
+1337,San Diego County,92066
+1338,Los Angeles County,90732
+1339,Los Angeles County,91311
+1340,Alameda County,94612
+1341,San Mateo County,94402
+1342,Riverside County,92220
+1343,Merced County,95374
+1344,Los Angeles County,90650
+1345,Napa County,94515
+1346,Yolo County,95618
+1347,San Bernardino County,92310
+1348,Los Angeles County,90043
+1349,Los Angeles County,91501
+1350,Alameda County,94541
+1351,Yolo County,95607
+1352,Madera County,93610
+1353,Los Angeles County,90047
+1354,Santa Clara County,95113
+1355,Orange County,92801
+1356,Los Angeles County,90802
+1357,Los Angeles County,90710
+1358,Sonoma County,95442
+1359,San Bernardino County,92305
+1360,Alameda County,94579
+1361,Contra Costa County,94596
+1362,Merced County,95374
+1363,Plumas County,96105
+1364,Riverside County,92253
+1365,Kern County,93531
+1366,Inyo County,92328
+1367,Fresno County,93628
+1368,Sacramento County,95693
+1369,Alameda County,94577
+1370,Marin County,94903
+1371,Santa Clara County,94087
+1372,Los Angeles County,90018
+1373,Contra Costa County,94572
+1374,Los Angeles County,90014
+1375,Marin County,94904
+1376,Alameda County,94568
+1377,Fresno County,93609
+1378,San Diego County,92036
+1379,Colusa County,95932
+1380,Fresno County,93612
+1381,Monterey County,93923
+1382,Riverside County,92536
+1383,Siskiyou County,95568
+1384,Nevada County,95945
+1385,San Diego County,92029
+1386,Orange County,92626
+1387,Santa Clara County,95138
+1388,Humboldt County,95573
+1389,Orange County,92823
+1390,San Diego County,91942
+1391,Los Angeles County,90028
+1392,Stanislaus County,95356
+1393,Orange County,92708
+1394,Sonoma County,95409
+1395,Mendocino County,95428
+1396,Los Angeles County,91754
+1397,Alameda County,94566
+1398,Plumas County,96103
+1399,Madera County,93637
+1400,Los Angeles County,91411
+1401,Nevada County,95945
+1402,Orange County,92701
+1403,Riverside County,92276
+1404,Tulare County,93603
+1405,Los Angeles County,90062
+1406,Alameda County,94544
+1407,Fresno County,93656
+1408,Humboldt County,95570
+1409,Los Angeles County,91791
+1410,San Diego County,92027
+1411,San Diego County,91942
+1412,San Diego County,92064
+1413,Los Angeles County,90501
+1414,Shasta County,96017
+1415,Santa Clara County,95112
+1416,San Bernardino County,92315
+1417,Mendocino County,95428
+1418,Los Angeles County,91352
+1419,Monterey County,93905
+1420,Sutter County,95953
+1421,Los Angeles County,91504
+1422,Orange County,90630
+1423,San Diego County,92106
+1424,San Diego County,91906
+1425,Solano County,94512
+1426,Santa Clara County,95138
+1427,Stanislaus County,95323
+1428,San Francisco County,94115
+1429,Riverside County,92592
+1430,San Mateo County,94070
+1431,Los Angeles County,91344
+1432,Ventura County,93004
+1433,Placer County,95661
+1434,Los Angeles County,90304
+1435,San Bernardino County,91739
+1436,Lassen County,96121
+1437,Los Angeles County,90232
+1438,San Bernardino County,92242
+1439,Riverside County,92587
+1440,San Diego County,92129
+1441,Imperial County,92243
+1442,Yuba County,95922
+1443,Tuolumne County,95329
+1444,Sonoma County,95421
+1445,Los Angeles County,91754
+1446,Butte County,95930
+1447,Los Angeles County,91780
+1448,Mendocino County,95587
+1449,Stanislaus County,95363
+1450,San Diego County,91910
+1451,San Francisco County,94118
+1452,San Bernardino County,92363
+1453,Shasta County,96040
+1454,Ventura County,93001
+1455,Los Angeles County,90015
+1456,Siskiyou County,96050
+1457,Los Angeles County,90638
+1458,Kings County,93202
+1459,Del Norte County,95567
+1460,Fresno County,93660
+1461,San Diego County,92056
+1462,Fresno County,93726
+1463,San Bernardino County,92309
+1464,Tulare County,93271
+1465,Siskiyou County,96038
+1466,San Diego County,92122
+1467,Santa Clara County,95035
+1468,Tulare County,93257
+1469,Alameda County,94609
+1470,Marin County,94949
+1471,Los Angeles County,93543
+1472,Orange County,92602
+1473,Mendocino County,95445
+1474,Los Angeles County,91403
+1475,Orange County,92845
+1476,Fresno County,93721
+1477,El Dorado County,95709
+1478,San Mateo County,94070
+1479,Kern County,93206
+1480,Los Angeles County,90211
+1481,Marin County,94930
+1482,Colusa County,95912
+1483,Placer County,95663
+1484,Orange County,90720
+1485,Santa Clara County,95020
+1486,Siskiyou County,96134
+1487,San Mateo County,94027
+1488,Los Angeles County,90058
+1489,Sutter County,95982
+1490,San Bernardino County,91737
+1491,San Diego County,92126
+1492,San Diego County,91902
+1493,San Diego County,92123
+1494,Los Angeles County,91342
+1495,Los Angeles County,90806
+1496,Placer County,95722
+1497,Kern County,93307
+1498,Santa Clara County,95014
+1499,San Diego County,92025
+1500,Los Angeles County,90712
+1501,Sacramento County,95670
+1502,Stanislaus County,95360
+1503,Yolo County,95695
+1504,Siskiyou County,96094
+1505,San Diego County,92126
+1506,San Diego County,92056
+1507,Orange County,90623
+1508,San Diego County,92027
+1509,Fresno County,93609
+1510,San Bernardino County,92399
+1511,Mendocino County,95459
+1512,Kings County,93212
+1513,San Bernardino County,92314
+1514,Orange County,92821
+1515,Marin County,94901
+1516,Tulare County,93618
+1517,Siskiyou County,96038
+1518,Lake County,95458
+1519,Los Angeles County,90012
+1520,Orange County,92705
+1521,Orange County,92804
+1522,San Diego County,92057
+1523,San Bernardino County,91709
+1524,Mendocino County,95445
+1525,Santa Clara County,95110
+1526,Yolo County,95776
+1527,Los Angeles County,90290
+1528,Monterey County,93906
+1529,Los Angeles County,90278
+1530,San Francisco County,94109
+1531,Santa Clara County,94040
+1532,Shasta County,96003
+1533,San Diego County,91980
+1534,Los Angeles County,90670
+1535,Sonoma County,95472
+1536,Alameda County,94568
+1537,Kern County,93505
+1538,Siskiyou County,96097
+1539,Lassen County,96121
+1540,Santa Clara County,95070
+1541,Los Angeles County,90712
+1542,Los Angeles County,91350
+1543,San Joaquin County,95207
+1544,Mono County,93546
+1545,San Diego County,92084
+1546,Tuolumne County,95346
+1547,Los Angeles County,90303
+1548,Glenn County,95939
+1549,Mariposa County,95306
+1550,San Bernardino County,92373
+1551,Kern County,93250
+1552,Tulare County,93221
+1553,San Joaquin County,95206
+1554,Monterey County,93906
+1555,Madera County,93643
+1556,Sonoma County,94922
+1557,Butte County,95917
+1558,Ventura County,93066
+1559,Los Angeles County,91304
+1560,Shasta County,96002
+1561,Riverside County,92562
+1562,Fresno County,93611
+1563,Glenn County,95943
+1564,Calaveras County,95247
+1565,Placer County,95747
+1566,Kern County,93287
+1567,Los Angeles County,91364
+1568,San Bernardino County,92405
+1569,Orange County,92804
+1570,Contra Costa County,94563
+1571,Los Angeles County,91773
+1572,Los Angeles County,91325
+1573,Sacramento County,95830
+1574,San Benito County,95045
+1575,San Diego County,91942
+1576,Riverside County,92253
+1577,San Diego County,92113
+1578,Mono County,93512
+1579,Orange County,92673
+1580,Ventura County,91360
+1581,Ventura County,93003
+1582,Riverside County,92509
+1583,Los Angeles County,90638
+1584,Los Angeles County,90505
+1585,Los Angeles County,91780
+1586,Los Angeles County,90502
+1587,Orange County,92629
+1588,Los Angeles County,90230
+1589,San Benito County,95045
+1590,Riverside County,92241
+1591,Kern County,93561
+1592,Los Angeles County,90701
+1593,Humboldt County,95514
+1594,Santa Cruz County,95005
+1595,Santa Barbara County,93458
+1596,Inyo County,92328
+1597,Riverside County,92225
+1598,San Luis Obispo County,93453
+1599,Orange County,92706
+1600,Humboldt County,95562
+1601,Orange County,92602
+1602,Riverside County,92518
+1603,Shasta County,96069
+1604,San Diego County,92108
+1605,Riverside County,92234
+1606,Tulare County,93244
+1607,San Mateo County,94303
+1608,Los Angeles County,90045
+1609,Solano County,94585
+1610,San Diego County,92119
+1611,Los Angeles County,91364
+1612,Imperial County,92231
+1613,Los Angeles County,91204
+1614,Orange County,92649
+1615,Los Angeles County,91766
+1616,Riverside County,92518
+1617,Kern County,93306
+1618,Solano County,95620
+1619,San Diego County,92027
+1620,San Bernardino County,92285
+1621,San Luis Obispo County,93451
+1622,Sonoma County,95444
+1623,Humboldt County,95519
+1624,Kern County,93241
+1625,Humboldt County,95524
+1626,San Diego County,92173
+1627,Santa Clara County,95123
+1628,Solano County,94592
+1629,San Diego County,92027
+1630,Los Angeles County,90716
+1631,San Diego County,92116
+1632,Los Angeles County,90240
+1633,Orange County,92823
+1634,Marin County,94960
+1635,Sacramento County,95660
+1636,San Diego County,91980
+1637,Los Angeles County,90220
+1638,Sutter County,95957
+1639,Sutter County,95957
+1640,Los Angeles County,91316
+1641,Napa County,94567
+1642,Mendocino County,95456
+1643,Los Angeles County,90713
+1644,Kern County,93307
+1645,Tuolumne County,95379
+1646,Alameda County,94703
+1647,Madera County,93643
+1648,Sonoma County,95444
+1649,Lassen County,96137
+1650,San Diego County,91915
+1651,Mendocino County,95468
+1652,Kern County,93313
+1653,Orange County,92692
+1654,San Francisco County,94107
+1655,San Diego County,91935
+1656,Placer County,95602
+1657,Lassen County,96132
+1658,Riverside County,92587
+1659,Kern County,93238
+1660,Contra Costa County,94801
+1661,Solano County,94533
+1662,Santa Clara County,95126
+1663,Tulare County,93647
+1664,Orange County,90740
+1665,Kern County,93280
+1666,Los Angeles County,90701
+1667,Orange County,92804
+1668,Yolo County,95605
+1669,Monterey County,93925
+1670,San Mateo County,94025
+1671,San Bernardino County,92316
+1672,Fresno County,93727
+1673,Fresno County,93630
+1674,Los Angeles County,91501
+1675,Orange County,92663
+1676,Los Angeles County,91106
+1677,Riverside County,92591
+1678,Ventura County,93065
+1679,Riverside County,92539
+1680,Orange County,92657
+1681,San Diego County,92027
+1682,Humboldt County,95503
+1683,Mono County,96107
+1684,Butte County,95965
+1685,Calaveras County,95250
+1686,Sonoma County,95403
+1687,Los Angeles County,90810
+1688,Butte County,95942
+1689,Kern County,93206
+1690,Stanislaus County,95360
+1691,San Joaquin County,95203
+1692,Los Angeles County,90247
+1693,Shasta County,96056
+1694,Humboldt County,95514
+1695,Contra Costa County,94801
+1696,Inyo County,93513
+1697,Alameda County,94621
+1698,Marin County,94945
+1699,Shasta County,96007
+1700,Orange County,92612
+1701,Los Angeles County,90716
+1702,Tulare County,93286
+1703,Contra Costa County,94514
+1704,Tulare County,93291
+1705,San Diego County,92129
+1706,San Bernardino County,91730
+1707,San Diego County,92120
+1708,Santa Clara County,95130
+1709,San Mateo County,94403
+1710,El Dorado County,95682
+1711,Contra Costa County,94547
+1712,Los Angeles County,90033
+1713,Amador County,95640
+1714,Orange County,92625
+1715,Los Angeles County,90242
+1716,Sonoma County,95439
+1717,Alameda County,94618
+1718,Los Angeles County,90005
+1719,San Mateo County,94401
+1720,Los Angeles County,91352
+1721,San Luis Obispo County,93432
+1722,Madera County,93653
+1723,San Diego County,92028
+1724,Santa Clara County,94086
+1725,Siskiyou County,96057
+1726,Sacramento County,95683
+1727,San Diego County,92029
+1728,San Diego County,92126
+1729,Marin County,94937
+1730,San Diego County,92020
+1731,Solano County,94589
+1732,Riverside County,92584
+1733,Solano County,94590
+1734,Riverside County,92880
+1735,Monterey County,93950
+1736,Los Angeles County,90292
+1737,Riverside County,92543
+1738,San Diego County,92037
+1739,Sierra County,95910
+1740,Los Angeles County,90713
+1741,San Joaquin County,95337
+1742,Los Angeles County,90710
+1743,Fresno County,93702
+1744,Los Angeles County,90813
+1745,San Luis Obispo County,93446
+1746,Ventura County,93066
+1747,San Diego County,92054
+1748,Shasta County,96073
+1749,Lake County,95443
+1750,Santa Clara County,95124
+1751,Los Angeles County,90804
+1752,Orange County,92865
+1753,Riverside County,92592
+1754,Los Angeles County,90744
+1755,Madera County,93601
+1756,Tehama County,96055
+1757,Orange County,92627
+1758,Merced County,95388
+1759,Alameda County,94568
+1760,Kern County,93306
+1761,Santa Clara County,95140
+1762,Los Angeles County,90013
+1763,Alameda County,94555
+1764,Los Angeles County,91776
+1765,San Bernardino County,91737
+1766,Los Angeles County,90274
+1767,Shasta County,96002
+1768,Merced County,93635
+1769,San Diego County,92003
+1770,Orange County,92618
+1771,Riverside County,92505
+1772,Kern County,93243
+1773,Ventura County,93004
+1774,San Diego County,92124
+1775,Riverside County,92282
+1776,Los Angeles County,90024
+1777,Tulare County,93262
+1778,Yuba County,95922
+1779,Los Angeles County,90036
+1780,Sutter County,95953
+1781,Humboldt County,95555
+1782,Plumas County,96105
+1783,Shasta County,96040
+1784,Del Norte County,95543
+1785,Sacramento County,95822
+1786,Orange County,92646
+1787,Alameda County,94542
+1788,Orange County,90620
+1789,Riverside County,92270
+1790,Santa Cruz County,95065
+1791,Kern County,93313
+1792,Contra Costa County,94530
+1793,Tulare County,93262
+1794,Los Angeles County,91108
+1795,Marin County,94930
+1796,Tuolumne County,95327
+1797,Los Angeles County,91001
+1798,Los Angeles County,90071
+1799,Mendocino County,95420
+1800,Tehama County,96035
+1801,Contra Costa County,94553
+1802,Nevada County,95975
+1803,Riverside County,92270
+1804,San Diego County,92122
+1805,San Diego County,92139
+1806,Mendocino County,95449
+1807,San Diego County,92120
+1808,Mendocino County,95488
+1809,San Diego County,92028
+1810,Placer County,95681
+1811,Los Angeles County,90503
+1812,San Diego County,91916
+1813,Humboldt County,95503
+1814,Trinity County,96076
+1815,Sonoma County,95407
+1816,Solano County,94592
+1817,Sutter County,95674
+1818,Kern County,93251
+1819,San Mateo County,94021
+1820,Alameda County,94578
+1821,San Diego County,92130
+1822,Orange County,92807
+1823,Orange County,92629
+1824,Stanislaus County,95385
+1825,San Diego County,92027
+1826,Stanislaus County,95354
+1827,San Diego County,92122
+1828,Amador County,95685
+1829,Riverside County,92592
+1830,Los Angeles County,90703
+1831,Fresno County,93664
+1832,Sacramento County,95833
+1833,Riverside County,92590
+1834,Los Angeles County,91405
+1835,San Mateo County,94070
+1836,Glenn County,95988
+1837,Los Angeles County,90222
+1838,San Luis Obispo County,93442
+1839,San Diego County,91980
+1840,Marin County,94970
+1841,Los Angeles County,93551
+1842,Humboldt County,95519
+1843,Orange County,92675
+1844,San Diego County,92124
+1845,Santa Barbara County,93434
+1846,Imperial County,92283
+1847,Orange County,92707
+1848,San Diego County,92066
+1849,San Diego County,92083
+1850,Riverside County,92545
+1851,San Diego County,91963
+1852,San Mateo County,94038
+1853,Los Angeles County,91010
+1854,Orange County,92835
+1855,Alameda County,94566
+1856,Los Angeles County,90405
+1857,San Bernardino County,92335
+1858,Los Angeles County,91335
+1859,Kern County,93243
+1860,Los Angeles County,91202
+1861,Los Angeles County,91750
+1862,Glenn County,95963
+1863,San Diego County,91911
+1864,Tuolumne County,95370
+1865,San Bernardino County,92305
+1866,San Diego County,92065
+1867,Siskiyou County,96085
+1868,Orange County,90630
+1869,Inyo County,93526
+1870,San Diego County,92130
+1871,Riverside County,92506
+1872,Napa County,94559
+1873,Solano County,94589
+1874,Riverside County,92562
+1875,Lake County,95451
+1876,San Diego County,92009
+1877,Merced County,95303
+1878,San Diego County,92028
+1879,Orange County,90621
+1880,Sacramento County,95815
+1881,Sacramento County,95828
+1882,Los Angeles County,90058
+1883,San Bernardino County,92308
+1884,Los Angeles County,90290
+1885,Amador County,95666
+1886,Solano County,94591
+1887,San Diego County,92028
+1888,Sacramento County,95816
+1889,Los Angeles County,91105
+1890,Santa Cruz County,95033
+1891,San Bernardino County,92347
+1892,Trinity County,95552
+1893,Santa Clara County,94041
+1894,Sacramento County,95828
+1895,Los Angeles County,90003
+1896,San Francisco County,94117
+1897,Santa Clara County,94022
+1898,Fresno County,93704
+1899,Monterey County,93426
+1900,San Mateo County,94030
+1901,Tulare County,93260
+1902,Placer County,95746
+1903,Riverside County,92236
+1904,Lassen County,96109
+1905,Alameda County,94703
+1906,San Diego County,92126
+1907,Los Angeles County,91030
+1908,Los Angeles County,91744
+1909,Nevada County,95975
+1910,Santa Barbara County,93434
+1911,Los Angeles County,91306
+1912,San Bernardino County,92311
+1913,Humboldt County,95554
+1914,San Diego County,91917
+1915,Tulare County,93274
+1916,Yolo County,95645
+1917,Sonoma County,95403
+1918,San Bernardino County,91764
+1919,San Francisco County,94110
+1920,Orange County,92831
+1921,Los Angeles County,90802
+1922,Yuba County,95918
+1923,San Bernardino County,92363
+1924,Sacramento County,95833
+1925,Calaveras County,95222
+1926,Los Angeles County,91506
+1927,Riverside County,92563
+1928,Ventura County,93060
+1929,Los Angeles County,91354
+1930,Fresno County,93667
+1931,El Dorado County,95633
+1932,San Diego County,92028
+1933,Placer County,95631
+1934,San Luis Obispo County,93401
+1935,Los Angeles County,90275
+1936,Los Angeles County,91436
+1937,Sonoma County,95476
+1938,San Bernardino County,92408
+1939,Riverside County,92507
+1940,Contra Costa County,94583
+1941,Fresno County,93721
+1942,Los Angeles County,91107
+1943,Nevada County,95949
+1944,Kern County,93240
+1945,Los Angeles County,91746
+1946,San Diego County,91917
+1947,Yolo County,95605
+1948,Humboldt County,95549
+1949,Los Angeles County,93532
+1950,San Diego County,92130
+1951,San Diego County,92109
+1952,San Mateo County,94010
+1953,El Dorado County,95720
+1954,Merced County,95365
+1955,Santa Clara County,95070
+1956,Los Angeles County,90605
+1957,Orange County,92886
+1958,Sacramento County,95742
+1959,Mendocino County,95417
+1960,Santa Clara County,95124
+1961,Riverside County,92276
+1962,Ventura County,91377
+1963,Santa Clara County,95135
+1964,San Francisco County,94132
+1965,Imperial County,92251
+1966,Merced County,95324
+1967,Sacramento County,95827
+1968,Colusa County,95987
+1969,Siskiyou County,96039
+1970,El Dorado County,95636
+1971,Los Angeles County,90604
+1972,San Diego County,92117
+1973,Los Angeles County,90807
+1974,San Diego County,92091
+1975,Madera County,93669
+1976,Shasta County,96040
+1977,San Joaquin County,95203
+1978,San Bernardino County,92284
+1979,Sacramento County,95621
+1980,San Diego County,91901
+1981,San Benito County,95043
+1982,Kern County,93251
+1983,El Dorado County,95726
+1984,Los Angeles County,91107
+1985,San Diego County,92130
+1986,Fresno County,93654
+1987,Los Angeles County,90710
+1988,San Diego County,92130
+1989,Kern County,93306
+1990,Los Angeles County,90717
+1991,San Diego County,92028
+1992,Los Angeles County,90291
+1993,Contra Costa County,94506
+1994,Stanislaus County,95316
+1995,Los Angeles County,90012
+1996,Marin County,94972
+1997,Santa Clara County,95139
+1998,Santa Barbara County,93254
+1999,Contra Costa County,94525
+2000,San Bernardino County,92337
+2001,Mendocino County,95470
+2002,Tulare County,93267
+2003,Inyo County,93526
+2004,Ventura County,93003
+2005,Sierra County,96124
+2006,Placer County,95765
+2007,Orange County,92887
+2008,Butte County,95941
+2009,Orange County,92679
+2010,Contra Costa County,94547
+2011,Amador County,95666
+2012,Los Angeles County,91202
+2013,San Mateo County,94002
+2014,San Joaquin County,95205
+2015,San Bernardino County,92284
+2016,Los Angeles County,93550
+2017,Fresno County,93630
+2018,Los Angeles County,91732
+2019,San Diego County,92126
+2020,Imperial County,92231
+2021,Los Angeles County,90606
+2022,San Mateo County,94066
+2023,Los Angeles County,90723
+2024,Sacramento County,95837
+2025,San Diego County,92028
+2026,Stanislaus County,95351
+2027,Yolo County,95694
+2028,Santa Clara County,95136
+2029,Alameda County,94545
+2030,Los Angeles County,93552
+2031,Monterey County,93960
+2032,Humboldt County,95547
+2033,Sacramento County,95610
+2034,Tehama County,96061
+2035,El Dorado County,95635
+2036,Mariposa County,95311
+2037,Stanislaus County,95368
+2038,Contra Costa County,94596
+2039,San Diego County,91962
+2040,Stanislaus County,95385
+2041,Los Angeles County,90222
+2042,Orange County,92663
+2043,Los Angeles County,91304
+2044,Fresno County,93628
+2045,Los Angeles County,91201
+2046,Los Angeles County,91775
+2047,Sonoma County,95450
+2048,Yuba County,95918
+2049,San Bernardino County,92308
+2050,Tehama County,96022
+2051,San Diego County,92040
+2052,Stanislaus County,95307
+2053,Siskiyou County,96039
+2054,San Bernardino County,91784
+2055,Fresno County,93660
+2056,Los Angeles County,90403
+2057,San Diego County,92113
+2058,Glenn County,95939
+2059,Fresno County,93646
+2060,San Bernardino County,91761
+2061,Los Angeles County,90292
+2062,San Mateo County,94025
+2063,Los Angeles County,91344
+2064,Fresno County,93652
+2065,Lassen County,96128
+2066,Orange County,92661
+2067,San Diego County,91942
+2068,San Diego County,92004
+2069,Yolo County,95776
+2070,Kern County,93268
+2071,Los Angeles County,90302
+2072,Riverside County,92585
+2073,Amador County,95665
+2074,Los Angeles County,90001
+2075,Los Angeles County,91755
+2076,Riverside County,91752
+2077,Siskiyou County,96031
+2078,Humboldt County,95558
+2079,Monterey County,93924
+2080,San Francisco County,94112
+2081,San Francisco County,94129
+2082,Humboldt County,95501
+2083,San Francisco County,94107
+2084,San Francisco County,94110
+2085,Alameda County,94586
+2086,San Diego County,92109
+2087,Humboldt County,95526
+2088,San Diego County,91910
+2089,San Diego County,92025
+2090,Alameda County,94710
+2091,Kern County,93312
+2092,San Bernardino County,91784
+2093,Los Angeles County,90240
+2094,Amador County,95629
+2095,El Dorado County,95619
+2096,Calaveras County,95249
+2097,Sacramento County,95758
+2098,Yuba County,95935
+2099,Los Angeles County,90293
+2100,Plumas County,95947
+2101,San Diego County,92040
+2102,Sacramento County,95815
+2103,Sacramento County,95758
+2104,Los Angeles County,91020
+2105,Contra Costa County,94521
+2106,Los Angeles County,90304
+2107,Yuba County,95903
+2108,San Francisco County,94123
+2109,Los Angeles County,90602
+2110,Tulare County,93235
+2111,Riverside County,92592
+2112,Humboldt County,95525
+2113,Los Angeles County,91350
+2114,Los Angeles County,90067
+2115,Solano County,94571
+2116,Los Angeles County,91733
+2117,Los Angeles County,90027
+2118,Alameda County,94586
+2119,Monterey County,93955
+2120,Los Angeles County,91202
+2121,Lake County,95453
+2122,Orange County,92708
+2123,Solano County,94592
+2124,Los Angeles County,90001
+2125,San Joaquin County,95236
+2126,San Luis Obispo County,93461
+2127,Humboldt County,95565
+2128,Santa Clara County,95117
+2129,Los Angeles County,93510
+2130,Monterey County,93953
+2131,Los Angeles County,90035
+2132,Tehama County,96061
+2133,Los Angeles County,91502
+2134,San Diego County,92109
+2135,Alameda County,94560
+2136,Los Angeles County,91731
+2137,Sierra County,96125
+2138,San Diego County,92121
+2139,Los Angeles County,90210
+2140,Yolo County,95645
+2141,Kern County,93226
+2142,San Diego County,92131
+2143,Kern County,93523
+2144,San Diego County,92130
+2145,Amador County,95642
+2146,Alameda County,94542
+2147,San Diego County,91913
+2148,Butte County,95968
+2149,Sonoma County,94954
+2150,Sonoma County,95492
+2151,Fresno County,93625
+2152,San Diego County,92003
+2153,San Luis Obispo County,93402
+2154,Sonoma County,95448
+2155,Fresno County,93616
+2156,San Diego County,92106
+2157,Solano County,94535
+2158,Mendocino County,95463
+2159,Yolo County,95616
+2160,Marin County,94924
+2161,Siskiyou County,96085
+2162,Los Angeles County,91335
+2163,Santa Cruz County,95019
+2164,Riverside County,92201
+2165,Santa Clara County,94041
+2166,Humboldt County,95524
+2167,San Bernardino County,92347
+2168,Santa Clara County,95030
+2169,Los Angeles County,93553
+2170,Plumas County,96103
+2171,Riverside County,92585
+2172,Los Angeles County,91016
+2173,Orange County,92840
+2174,Placer County,95648
+2175,Santa Clara County,95119
+2176,Monterey County,95004
+2177,Lassen County,96123
+2178,Colusa County,95970
+2179,Santa Clara County,95110
+2180,Riverside County,92274
+2181,Sacramento County,95626
+2182,Monterey County,93930
+2183,Santa Clara County,95140
+2184,San Diego County,92121
+2185,Orange County,92833
+2186,San Mateo County,94063
+2187,Shasta County,96096
+2188,Santa Clara County,95014
+2189,Los Angeles County,91201
+2190,Mendocino County,95482
+2191,Madera County,93644
+2192,Placer County,95661
+2193,San Francisco County,94111
+2194,Los Angeles County,90221
+2195,Los Angeles County,90038
+2196,Los Angeles County,90037
+2197,Merced County,95374
+2198,San Luis Obispo County,93445
+2199,Sonoma County,95425
+2200,Orange County,92887
+2201,Modoc County,96101
+2202,Orange County,92821
+2203,Alameda County,94618
+2204,Los Angeles County,93543
+2205,San Diego County,92117
+2206,Marin County,94965
+2207,Mariposa County,95345
+2208,Stanislaus County,95382
+2209,Alameda County,94544
+2210,Sonoma County,95476
+2211,Kern County,93249
+2212,Madera County,93614
+2213,Los Angeles County,91024
+2214,Kern County,93309
+2215,Sacramento County,95660
+2216,Santa Clara County,95132
+2217,Lake County,95458
+2218,Fresno County,93652
+2219,Los Angeles County,91750
+2220,San Bernardino County,92407
+2221,San Diego County,92059
+2222,Marin County,94940
+2223,Marin County,94920
+2224,Los Angeles County,90802
+2225,El Dorado County,95735
+2226,San Bernardino County,91701
+2227,Los Angeles County,90031
+2228,San Mateo County,94002
+2229,Santa Clara County,95123
+2230,Los Angeles County,91345
+2231,Sacramento County,95826
+2232,Sacramento County,95824
+2233,Los Angeles County,90069
+2234,Siskiyou County,96031
+2235,Riverside County,92567
+2236,Santa Clara County,95128
+2237,San Bernardino County,92301
+2238,Marin County,94941
+2239,Madera County,93669
+2240,San Diego County,91901
+2241,Mendocino County,95490
+2242,Los Angeles County,91411
+2243,Orange County,92801
+2244,Sacramento County,95690
+2245,Los Angeles County,90008
+2246,Fresno County,93702
+2247,Kern County,93531
+2248,Stanislaus County,95358
+2249,Los Angeles County,90744
+2250,Los Angeles County,91602
+2251,Los Angeles County,91731
+2252,Los Angeles County,90715
+2253,San Diego County,91977
+2254,Los Angeles County,91740
+2255,San Bernardino County,92404
+2256,Butte County,95969
+2257,Monterey County,95012
+2258,San Francisco County,94123
+2259,San Diego County,92120
+2260,San Bernardino County,92345
+2261,San Diego County,92126
+2262,San Joaquin County,95210
+2263,Santa Clara County,94022
+2264,Marin County,94925
+2265,Santa Cruz County,95018
+2266,Los Angeles County,90068
+2267,San Joaquin County,95337
+2268,Alpine County,96120
+2269,Los Angeles County,91030
+2270,San Bernardino County,92359
+2271,Los Angeles County,91324
+2272,San Francisco County,94127
+2273,Trinity County,95595
+2274,Los Angeles County,91214
+2275,Mendocino County,95466
+2276,Los Angeles County,90402
+2277,Riverside County,92225
+2278,San Mateo County,94074
+2279,San Mateo County,94402
+2280,Napa County,94574
+2281,Madera County,93644
+2282,Yuba County,95919
+2283,San Bernardino County,92411
+2284,Amador County,95685
+2285,Los Angeles County,90043
+2286,San Bernardino County,92364
+2287,San Joaquin County,95209
+2288,San Luis Obispo County,93430
+2289,Los Angeles County,91367
+2290,Ventura County,91361
+2291,Trinity County,96048
+2292,Amador County,95665
+2293,San Diego County,92014
+2294,Sacramento County,95824
+2295,Fresno County,93725
+2296,Riverside County,92592
+2297,Ventura County,93060
+2298,Santa Clara County,95118
+2299,Alameda County,94546
+2300,San Bernardino County,92314
+2301,Fresno County,93611
+2302,Orange County,92655
+2303,San Diego County,92122
+2304,San Bernardino County,92373
+2305,San Diego County,92115
+2306,Siskiyou County,96094
+2307,Riverside County,92201
+2308,Alameda County,94707
+2309,El Dorado County,95667
+2310,Los Angeles County,90077
+2311,Los Angeles County,91766
+2312,Los Angeles County,90703
+2313,Marin County,94947
+2314,Shasta County,96033
+2315,Lake County,95493
+2316,Orange County,92626
+2317,Imperial County,92227
+2318,Orange County,92782
+2319,San Diego County,92104
+2320,San Joaquin County,95236
+2321,Los Angeles County,91748
+2322,Los Angeles County,91502
+2323,San Mateo County,94020
+2324,Stanislaus County,95355
+2325,Riverside County,92584
+2326,Riverside County,92548
+2327,Trinity County,96091
+2328,Santa Cruz County,95073
+2329,Los Angeles County,90065
+2330,Stanislaus County,95326
+2331,Orange County,92806
+2332,Butte County,95941
+2333,Siskiyou County,96086
+2334,Mariposa County,95345
+2335,Los Angeles County,91406
+2336,Calaveras County,95257
+2337,Los Angeles County,91706
+2338,Los Angeles County,90025
+2339,Santa Clara County,95135
+2340,Los Angeles County,91101
+2341,Alameda County,94587
+2342,Los Angeles County,90240
+2343,San Diego County,92057
+2344,Fresno County,93662
+2345,Nevada County,95977
+2346,Los Angeles County,91325
+2347,Sacramento County,95822
+2348,Amador County,95642
+2349,San Diego County,92069
+2350,San Bernardino County,92407
+2351,Sacramento County,95821
+2352,Los Angeles County,90064
+2353,Los Angeles County,90017
+2354,San Diego County,91910
+2355,San Luis Obispo County,93405
+2356,Los Angeles County,90068
+2357,Los Angeles County,90401
+2358,Los Angeles County,90278
+2359,Monterey County,93933
+2360,Siskiyou County,96067
+2361,Los Angeles County,90003
+2362,Los Angeles County,91326
+2363,Los Angeles County,90604
+2364,Monterey County,93933
+2365,Los Angeles County,91384
+2366,Orange County,92660
+2367,San Bernardino County,91737
+2368,Placer County,95658
+2369,San Luis Obispo County,93465
+2370,Los Angeles County,91326
+2371,Los Angeles County,90305
+2372,Humboldt County,95549
+2373,Siskiyou County,96134
+2374,San Francisco County,94107
+2375,Yuba County,95935
+2376,Tehama County,96029
+2377,Orange County,92618
+2378,Kings County,93239
+2379,Tehama County,96021
+2380,Santa Clara County,95124
+2381,Orange County,92679
+2382,Lassen County,96128
+2383,Orange County,92614
+2384,Yuba County,95981
+2385,Los Angeles County,90063
+2386,Los Angeles County,90703
+2387,Mendocino County,95482
+2388,Monterey County,93924
+2389,Alameda County,94611
+2390,Sonoma County,95441
+2391,Los Angeles County,91201
+2392,Stanislaus County,95313
+2393,Los Angeles County,90048
+2394,Santa Cruz County,95062
+2395,San Diego County,92130
+2396,Santa Clara County,95136
+2397,Orange County,92675
+2398,Shasta County,96065
+2399,Glenn County,95943
+2400,Amador County,95640
+2401,Alameda County,94568
+2402,San Joaquin County,95366
+2403,Trinity County,96024
+2404,Alameda County,94704
+2405,Nevada County,95977
+2406,Mono County,93512
+2407,San Diego County,92004
+2408,Riverside County,92254
+2409,Fresno County,93654
+2410,Mariposa County,95306
+2411,Kern County,93312
+2412,Los Angeles County,91302
+2413,San Diego County,91906
+2414,Sonoma County,94928
+2415,Tulare County,93256
+2416,Humboldt County,95564
+2417,San Bernardino County,92342
+2418,Los Angeles County,90301
+2419,Sacramento County,95630
+2420,San Mateo County,94030
+2421,Los Angeles County,90723
+2422,Napa County,94574
+2423,San Bernardino County,92346
+2424,Los Angeles County,90501
+2425,Sutter County,95993
+2426,San Diego County,92028
+2427,Alameda County,94610
+2428,Lake County,95423
+2429,Alameda County,94501
+2430,Los Angeles County,91741
+2431,Mendocino County,95494
+2432,Marin County,94960
+2433,San Diego County,92139
+2434,Contra Costa County,94806
+2435,Orange County,92648
+2436,Los Angeles County,91101
+2437,San Luis Obispo County,93444
+2438,Los Angeles County,93563
+2439,Los Angeles County,90011
+2440,San Diego County,91905
+2441,Tehama County,96075
+2442,Tehama County,96061
+2443,Los Angeles County,90503
+2444,Los Angeles County,90278
+2445,Santa Barbara County,93463
+2446,Los Angeles County,90716
+2447,Los Angeles County,91501
+2448,San Diego County,92127
+2449,Los Angeles County,90803
+2450,Los Angeles County,91345
+2451,Mono County,93517
+2452,Orange County,92807
+2453,Monterey County,93450
+2454,Placer County,95650
+2455,Yolo County,95618
+2456,Shasta County,96008
+2457,Shasta County,96096
+2458,Los Angeles County,90048
+2459,Los Angeles County,91303
+2460,Santa Clara County,95121
+2461,Los Angeles County,90212
+2462,Tulare County,93207
+2463,Marin County,94956
+2464,Yolo County,95606
+2465,Orange County,92821
+2466,Santa Clara County,94043
+2467,San Bernardino County,92309
+2468,Yuba County,95935
+2469,Mariposa County,93623
+2470,Los Angeles County,91801
+2471,Shasta County,96019
+2472,San Bernardino County,92256
+2473,San Bernardino County,92358
+2474,Riverside County,92240
+2475,Modoc County,96104
+2476,Alameda County,94545
+2477,Kings County,93204
+2478,Los Angeles County,91406
+2479,Orange County,92833
+2480,Calaveras County,95232
+2481,Los Angeles County,90814
+2482,Fresno County,93720
+2483,Siskiyou County,95568
+2484,San Luis Obispo County,93442
+2485,Los Angeles County,90033
+2486,Alameda County,94579
+2487,Contra Costa County,94595
+2488,Tuolumne County,95335
+2489,Marin County,94937
+2490,Madera County,93604
+2491,Los Angeles County,91106
+2492,Placer County,95722
+2493,Los Angeles County,91006
+2494,San Diego County,92117
+2495,Los Angeles County,91776
+2496,Tulare County,93247
+2497,Alameda County,94607
+2498,Orange County,92691
+2499,Sacramento County,95615
+2500,San Francisco County,94110
+2501,Los Angeles County,90077
+2502,Sacramento County,95831
+2503,Los Angeles County,90017
+2504,Sacramento County,95693
+2505,Ventura County,93010
+2506,Fresno County,93703
+2507,Mariposa County,95306
+2508,Los Angeles County,90804
+2509,Los Angeles County,90250
+2510,San Diego County,92037
+2511,Orange County,92886
+2512,Yuba County,95922
+2513,El Dorado County,95619
+2514,Orange County,92831
+2515,Los Angeles County,90254
+2516,Sacramento County,95843
+2517,Shasta County,96062
+2518,Santa Clara County,95131
+2519,Los Angeles County,90063
+2520,Los Angeles County,93550
+2521,Merced County,95301
+2522,Tehama County,96035
+2523,Lassen County,96123
+2524,Los Angeles County,93553
+2525,Lassen County,96109
+2526,Los Angeles County,90601
+2527,San Joaquin County,95205
+2528,Santa Clara County,94024
+2529,Siskiyou County,96067
+2530,Humboldt County,95555
+2531,Placer County,95765
+2532,Kings County,93230
+2533,Los Angeles County,90019
+2534,San Diego County,92086
+2535,Sonoma County,94931
+2536,San Joaquin County,95320
+2537,Santa Cruz County,95066
+2538,Sacramento County,95638
+2539,San Diego County,91906
+2540,Sacramento County,95841
+2541,Tuolumne County,95335
+2542,Orange County,90680
+2543,Orange County,92610
+2544,Mendocino County,95490
+2545,San Bernardino County,92311
+2546,Tuolumne County,95364
+2547,Riverside County,92320
+2548,Lassen County,96114
+2549,Trinity County,95527
+2550,Los Angeles County,90010
+2551,Santa Clara County,95113
+2552,Los Angeles County,91403
+2553,San Bernardino County,91761
+2554,Santa Barbara County,93455
+2555,Santa Cruz County,95033
+2556,San Diego County,92117
+2557,Plumas County,96020
+2558,Riverside County,92234
+2559,Los Angeles County,90254
+2560,San Francisco County,94115
+2561,Stanislaus County,95350
+2562,Riverside County,92536
+2563,Shasta County,96088
+2564,Los Angeles County,90068
+2565,Ventura County,91362
+2566,Los Angeles County,90291
+2567,Inyo County,93514
+2568,Los Angeles County,90061
+2569,Mendocino County,95585
+2570,Alameda County,94708
+2571,San Mateo County,94303
+2572,Los Angeles County,91307
+2573,San Diego County,92008
+2574,San Diego County,92130
+2575,Marin County,94920
+2576,Riverside County,91752
+2577,San Diego County,92086
+2578,Los Angeles County,90232
+2579,Kern County,93305
+2580,Los Angeles County,91040
+2581,Madera County,93638
+2582,Stanislaus County,95316
+2583,Sonoma County,95476
+2584,Orange County,92625
+2585,Los Angeles County,91011
+2586,Merced County,95301
+2587,Riverside County,92582
+2588,Sacramento County,95832
+2589,Merced County,95303
+2590,El Dorado County,95726
+2591,Sacramento County,95827
+2592,Contra Costa County,94525
+2593,Santa Cruz County,95060
+2594,San Joaquin County,95376
+2595,Kern County,93311
+2596,Sacramento County,95673
+2597,Tuolumne County,95321
+2598,San Bernardino County,92399
+2599,Los Angeles County,90650
+2600,Riverside County,92508
+2601,Humboldt County,95549
+2602,Los Angeles County,93534
+2603,Alameda County,94704
+2604,San Diego County,92028
+2605,Santa Clara County,95136
+2606,Sacramento County,95615
+2607,Kern County,93505
+2608,Los Angeles County,90044
+2609,Riverside County,92555
+2610,Humboldt County,95569
+2611,Santa Clara County,95140
+2612,San Francisco County,94118
+2613,Mendocino County,95427
+2614,Shasta County,96028
+2615,Orange County,92620
+2616,San Diego County,92102
+2617,Riverside County,92270
+2618,San Bernardino County,92339
+2619,San Luis Obispo County,93451
+2620,Santa Barbara County,93117
+2621,Fresno County,93651
+2622,Ventura County,93023
+2623,Los Angeles County,91765
+2624,San Francisco County,94102
+2625,Shasta County,96003
+2626,Los Angeles County,91351
+2627,Alameda County,94605
+2628,San Bernardino County,92324
+2629,Riverside County,91752
+2630,San Francisco County,94122
+2631,San Bernardino County,91730
+2632,Los Angeles County,90201
+2633,Stanislaus County,95350
+2634,Stanislaus County,95354
+2635,Los Angeles County,91502
+2636,San Benito County,95043
+2637,Riverside County,92501
+2638,San Francisco County,94116
+2639,Los Angeles County,90047
+2640,Los Angeles County,90731
+2641,Santa Clara County,95125
+2642,Los Angeles County,93510
+2643,San Diego County,92057
+2644,Los Angeles County,90716
+2645,Los Angeles County,90007
+2646,Calaveras County,95232
+2647,San Mateo County,94062
+2648,Orange County,92806
+2649,San Diego County,91963
+2650,Los Angeles County,90266
+2651,Riverside County,92592
+2652,San Luis Obispo County,93445
+2653,Placer County,95603
+2654,Calaveras County,95250
+2655,San Bernardino County,92376
+2656,Riverside County,92584
+2657,San Bernardino County,92327
+2658,San Bernardino County,91739
+2659,Orange County,90623
+2660,San Diego County,91950
+2661,San Diego County,92102
+2662,Los Angeles County,91307
+2663,Los Angeles County,90230
+2664,San Mateo County,94062
+2665,Los Angeles County,91204
+2666,Santa Cruz County,95005
+2667,Contra Costa County,94563
+2668,San Bernardino County,92372
+2669,Los Angeles County,91101
+2670,Yolo County,95637
+2671,Los Angeles County,91780
+2672,Modoc County,96108
+2673,Calaveras County,95255
+2674,Riverside County,92507
+2675,Los Angeles County,90404
+2676,San Bernardino County,92327
+2677,Los Angeles County,90302
+2678,San Bernardino County,92252
+2679,San Bernardino County,92363
+2680,Sonoma County,95441
+2681,Santa Clara County,95054
+2682,Ventura County,93022
+2683,Los Angeles County,90071
+2684,Los Angeles County,91345
+2685,Fresno County,93726
+2686,Alameda County,94710
+2687,Stanislaus County,95351
+2688,San Diego County,92130
+2689,Santa Clara County,95070
+2690,Kern County,93224
+2691,Ventura County,93033
+2692,Los Angeles County,90006
+2693,Riverside County,92260
+2694,Riverside County,92223
+2695,Los Angeles County,90603
+2696,Humboldt County,95569
+2697,Fresno County,93651
+2698,Butte County,95938
+2699,Los Angeles County,90021
+2700,Alameda County,94707
+2701,Siskiyou County,96031
+2702,Los Angeles County,90221
+2703,Los Angeles County,90712
+2704,Los Angeles County,91040
+2705,Los Angeles County,91354
+2706,Calaveras County,95247
+2707,San Diego County,92121
+2708,Alameda County,94611
+2709,Alameda County,94555
+2710,Los Angeles County,90731
+2711,Los Angeles County,91606
+2712,Alameda County,94706
+2713,Monterey County,95004
+2714,Los Angeles County,91354
+2715,Orange County,92620
+2716,Humboldt County,95547
+2717,Santa Clara County,94305
+2718,Madera County,93604
+2719,San Bernardino County,92356
+2720,Los Angeles County,90021
+2721,Contra Costa County,94514
+2722,San Diego County,92028
+2723,Solano County,95688
+2724,Contra Costa County,94553
+2725,Fresno County,93652
+2726,San Bernardino County,92411
+2727,Monterey County,93923
+2728,San Joaquin County,95231
+2729,Imperial County,92243
+2730,San Francisco County,94108
+2731,Monterey County,93901
+2732,Marin County,94939
+2733,Los Angeles County,90011
+2734,Orange County,92606
+2735,San Bernardino County,92346
+2736,Siskiyou County,96014
+2737,Sacramento County,95626
+2738,Tulare County,93257
+2739,Sacramento County,95814
+2740,San Diego County,92130
+2741,Yolo County,95695
+2742,Fresno County,93701
+2743,Riverside County,92220
+2744,San Luis Obispo County,93442
+2745,Tulare County,93618
+2746,Riverside County,92241
+2747,San Diego County,91963
+2748,Sacramento County,95690
+2749,Tulare County,93271
+2750,San Mateo County,94014
+2751,Riverside County,92567
+2752,San Bernardino County,92411
+2753,Los Angeles County,91723
+2754,Contra Costa County,94803
+2755,Sacramento County,95832
+2756,Orange County,92662
+2757,Madera County,93637
+2758,Sacramento County,95632
+2759,Kern County,93283
+2760,Stanislaus County,95354
+2761,Fresno County,93652
+2762,San Mateo County,94070
+2763,Lassen County,96117
+2764,Sierra County,96118
+2765,Los Angeles County,90301
+2766,Los Angeles County,91780
+2767,San Francisco County,94123
+2768,Marin County,94920
+2769,Riverside County,92557
+2770,Santa Barbara County,93108
+2771,Los Angeles County,93544
+2772,Sutter County,95993
+2773,Los Angeles County,91411
+2774,Orange County,92683
+2775,Monterey County,93426
+2776,San Mateo County,94066
+2777,Santa Clara County,94301
+2778,Los Angeles County,91748
+2779,Los Angeles County,91436
+2780,San Diego County,92122
+2781,Los Angeles County,91321
+2782,Contra Costa County,94521
+2783,Kern County,93206
+2784,Tehama County,96075
+2785,Los Angeles County,90272
+2786,Solano County,94591
+2787,Sonoma County,95421
+2788,Riverside County,92553
+2789,San Luis Obispo County,93428
+2790,Fresno County,93657
+2791,Riverside County,92536
+2792,Humboldt County,95528
+2793,Humboldt County,95542
+2794,Los Angeles County,90401
+2795,Mariposa County,95338
+2796,San Bernardino County,92359
+2797,Los Angeles County,91401
+2798,Plumas County,95971
+2799,Los Angeles County,91016
+2800,Tulare County,93207
+2801,Stanislaus County,95386
+2802,Siskiyou County,96025
+2803,San Bernardino County,92284
+2804,San Joaquin County,95230
+2805,Santa Cruz County,95006
+2806,San Francisco County,94131
+2807,Monterey County,93927
+2808,Orange County,92672
+2809,Sonoma County,94923
+2810,Marin County,94925
+2811,Santa Clara County,95014
+2812,San Luis Obispo County,93449
+2813,Alameda County,94606
+2814,San Diego County,92117
+2815,San Luis Obispo County,93420
+2816,Riverside County,92530
+2817,San Bernardino County,92311
+2818,Stanislaus County,95363
+2819,Solano County,94533
+2820,El Dorado County,95635
+2821,Santa Barbara County,93463
+2822,San Bernardino County,91764
+2823,San Francisco County,94102
+2824,Sonoma County,95462
+2825,Tulare County,93244
+2826,San Diego County,91917
+2827,Shasta County,96008
+2828,Siskiyou County,96058
+2829,San Mateo County,94074
+2830,Kern County,93311
+2831,Riverside County,92883
+2832,Los Angeles County,90013
+2833,Mendocino County,95449
+2834,Los Angeles County,90017
+2835,Santa Clara County,95131
+2836,Los Angeles County,90660
+2837,Los Angeles County,90027
+2838,San Bernardino County,92327
+2839,San Diego County,92113
+2840,Riverside County,92595
+2841,Los Angeles County,90035
+2842,Tulare County,93265
+2843,Los Angeles County,90059
+2844,San Diego County,92019
+2845,Sacramento County,95821
+2846,San Diego County,92121
+2847,Alameda County,94580
+2848,San Diego County,92028
+2849,San Diego County,92129
+2850,Mendocino County,95427
+2851,Fresno County,93662
+2852,Santa Cruz County,95019
+2853,Los Angeles County,91384
+2854,San Diego County,91963
+2855,Los Angeles County,90266
+2856,Contra Costa County,94523
+2857,Los Angeles County,91016
+2858,Sacramento County,95818
+2859,Los Angeles County,91740
+2860,San Diego County,92128
+2861,San Diego County,92027
+2862,San Bernardino County,92401
+2863,Santa Clara County,95110
+2864,San Diego County,91916
+2865,Tulare County,93247
+2866,Los Angeles County,91201
+2867,Stanislaus County,95326
+2868,Contra Costa County,94805
+2869,Kern County,93287
+2870,San Bernardino County,92408
+2871,Butte County,95938
+2872,San Luis Obispo County,93446
+2873,Lake County,95493
+2874,Los Angeles County,90066
+2875,Humboldt County,95547
+2876,Los Angeles County,91006
+2877,Sonoma County,94951
+2878,El Dorado County,95623
+2879,Los Angeles County,91773
+2880,Los Angeles County,90002
+2881,Santa Clara County,95032
+2882,San Diego County,91945
+2883,Siskiyou County,96086
+2884,Napa County,94576
+2885,Orange County,92807
+2886,San Bernardino County,91763
+2887,Shasta County,96047
+2888,Riverside County,92236
+2889,Orange County,92808
+2890,Sacramento County,95693
+2891,Santa Barbara County,93117
+2892,Orange County,90631
+2893,Los Angeles County,91342
+2894,Santa Clara County,94089
+2895,Riverside County,92532
+2896,San Diego County,92117
+2897,Mariposa County,95311
+2898,Sacramento County,95825
+2899,Orange County,92805
+2900,San Bernardino County,91709
+2901,Tehama County,96059
+2902,Santa Clara County,95129
+2903,Los Angeles County,91436
+2904,Stanislaus County,95385
+2905,Los Angeles County,90270
+2906,San Mateo County,94403
+2907,Ventura County,93001
+2908,Placer County,95603
+2909,Alameda County,94610
+2910,Los Angeles County,91723
+2911,Los Angeles County,90058
+2912,Kern County,93203
+2913,Sacramento County,95641
+2914,Alameda County,94541
+2915,Nevada County,95960
+2916,Santa Clara County,95032
+2917,San Bernardino County,92339
+2918,Los Angeles County,91601
+2919,Los Angeles County,91773
+2920,Los Angeles County,90505
+2921,San Francisco County,94115
+2922,Tuolumne County,95372
+2923,San Mateo County,94015
+2924,Los Angeles County,91340
+2925,Sacramento County,95628
+2926,San Luis Obispo County,93422
+2927,San Diego County,92128
+2928,Humboldt County,95549
+2929,Los Angeles County,91770
+2930,Los Angeles County,90274
+2931,Lake County,95493
+2932,Plumas County,95923
+2933,Orange County,92831
+2934,Placer County,95602
+2935,Orange County,92704
+2936,San Diego County,92122
+2937,Los Angeles County,90032
+2938,San Diego County,92121
+2939,Glenn County,95963
+2940,Kings County,93204
+2941,Contra Costa County,94806
+2942,Santa Clara County,94040
+2943,Fresno County,93630
+2944,Plumas County,96122
+2945,Los Angeles County,90255
+2946,Los Angeles County,91789
+2947,Alameda County,94539
+2948,Orange County,92843
+2949,Los Angeles County,91206
+2950,Alameda County,94601
+2951,Los Angeles County,90303
+2952,Mendocino County,95449
+2953,Calaveras County,95232
+2954,Santa Clara County,95046
+2955,San Luis Obispo County,93449
+2956,Alameda County,94552
+2957,Tulare County,93270
+2958,Orange County,92807
+2959,San Bernardino County,92338
+2960,Los Angeles County,90042
+2961,San Diego County,92029
+2962,Kern County,93241
+2963,Los Angeles County,90650
+2964,San Bernardino County,91762
+2965,Los Angeles County,91104
+2966,Fresno County,93705
+2967,Sonoma County,95412
+2968,Humboldt County,95503
+2969,Riverside County,92595
+2970,San Joaquin County,95210
+2971,Fresno County,93657
+2972,Los Angeles County,90603
+2973,Los Angeles County,91731
+2974,Orange County,92630
+2975,Orange County,92808
+2976,Fresno County,93650
+2977,San Diego County,92109
+2978,San Bernardino County,91764
+2979,Santa Clara County,95120
+2980,Humboldt County,95540
+2981,San Bernardino County,92371
+2982,San Mateo County,94020
+2983,San Francisco County,94115
+2984,Tuolumne County,95335
+2985,San Benito County,95045
+2986,Ventura County,93041
+2987,Los Angeles County,90037
+2988,Los Angeles County,91007
+2989,Kern County,93224
+2990,San Diego County,92086
+2991,Nevada County,95977
+2992,Ventura County,93015
+2993,Mendocino County,95470
+2994,Alameda County,94609
+2995,Stanislaus County,95313
+2996,San Mateo County,94028
+2997,San Diego County,92121
+2998,San Francisco County,94133
+2999,Los Angeles County,90064
+3000,Los Angeles County,90250
+3001,Los Angeles County,90046
+3002,Siskiyou County,96023
+3003,Alameda County,94605
+3004,Humboldt County,95558
+3005,Orange County,92651
+3006,Madera County,93604
+3007,Los Angeles County,90212
+3008,Los Angeles County,91214
+3009,Los Angeles County,90275
+3010,Del Norte County,95543
+3011,Tulare County,93615
+3012,San Diego County,92130
+3013,San Diego County,92102
+3014,Sonoma County,95425
+3015,Calaveras County,95252
+3016,San Francisco County,94105
+3017,Alameda County,94606
+3018,Orange County,92606
+3019,San Luis Obispo County,93433
+3020,San Joaquin County,95206
+3021,Lassen County,96130
+3022,Placer County,95631
+3023,Fresno County,93702
+3024,Yolo County,95645
+3025,Merced County,95322
+3026,San Diego County,92025
+3027,Yolo County,95645
+3028,Los Angeles County,91381
+3029,Tulare County,93207
+3030,Los Angeles County,91351
+3031,Trinity County,95527
+3032,Los Angeles County,91356
+3033,Orange County,92707
+3034,San Diego County,92019
+3035,Contra Costa County,94564
+3036,Santa Cruz County,95060
+3037,San Mateo County,94005
+3038,Los Angeles County,91767
+3039,Fresno County,93648
+3040,Siskiyou County,96014
+3041,Los Angeles County,93544
+3042,Tuolumne County,95383
+3043,Los Angeles County,91754
+3044,Riverside County,92881
+3045,San Bernardino County,92242
+3046,Sutter County,95953
+3047,Alameda County,94587
+3048,Santa Clara County,95123
+3049,Lake County,95457
+3050,Humboldt County,95526
+3051,Los Angeles County,90039
+3052,Los Angeles County,90022
+3053,Sonoma County,94951
+3054,Sonoma County,95436
+3055,Riverside County,92254
+3056,San Bernardino County,92376
+3057,San Diego County,92111
+3058,Los Angeles County,90037
+3059,Santa Clara County,95132
+3060,Marin County,94937
+3061,Santa Clara County,95020
+3062,Santa Clara County,94304
+3063,Siskiyou County,96034
+3064,Mendocino County,95469
+3065,Los Angeles County,90822
+3066,Santa Clara County,95134
+3067,Humboldt County,95554
+3068,Sacramento County,95831
+3069,Ventura County,93003
+3070,Los Angeles County,90277
+3071,San Diego County,92028
+3072,Lassen County,96114
+3073,Orange County,92653
+3074,Santa Barbara County,93254
+3075,Los Angeles County,90057
+3076,Marin County,94965
+3077,San Joaquin County,95242
+3078,San Bernardino County,92339
+3079,Madera County,93645
+3080,San Francisco County,94132
+3081,Contra Costa County,94517
+3082,Tuolumne County,95379
+3083,San Diego County,92122
+3084,Monterey County,93926
+3085,Los Angeles County,91768
+3086,Santa Barbara County,93436
+3087,Santa Barbara County,93117
+3088,Kern County,93215
+3089,San Diego County,92122
+3090,San Bernardino County,92305
+3091,Los Angeles County,91344
+3092,Glenn County,95920
+3093,Orange County,92868
+3094,Lake County,95422
+3095,Los Angeles County,90404
+3096,Riverside County,92320
+3097,San Joaquin County,95237
+3098,Los Angeles County,90270
+3099,Los Angeles County,91423
+3100,Madera County,93669
+3101,Los Angeles County,90262
+3102,Orange County,92656
+3103,Los Angeles County,90044
+3104,Los Angeles County,90810
+3105,Los Angeles County,90034
+3106,Riverside County,92592
+3107,Fresno County,93612
+3108,Orange County,92676
+3109,Tulare County,93223
+3110,Riverside County,92241
+3111,Imperial County,92233
+3112,Mendocino County,95456
+3113,Los Angeles County,90021
+3114,Sacramento County,95831
+3115,Alameda County,94704
+3116,Fresno County,93705
+3117,San Francisco County,94127
+3118,Santa Clara County,95148
+3119,Siskiyou County,96057
+3120,Santa Clara County,94041
+3121,Madera County,93645
+3122,Monterey County,95039
+3123,Los Angeles County,90032
+3124,Los Angeles County,91208
+3125,Los Angeles County,90301
+3126,Los Angeles County,90014
+3127,Sonoma County,94951
+3128,Humboldt County,95550
+3129,Calaveras County,95246
+3130,Mariposa County,95311
+3131,Stanislaus County,95307
+3132,Los Angeles County,90032
+3133,Los Angeles County,90504
+3134,Contra Costa County,94561
+3135,Los Angeles County,91024
+3136,San Francisco County,94121
+3137,Los Angeles County,90602
+3138,Stanislaus County,95355
+3139,San Diego County,91911
+3140,Alameda County,94536
+3141,Ventura County,93035
+3142,Alameda County,94606
+3143,Fresno County,93641
+3144,Los Angeles County,90065
+3145,Los Angeles County,90502
+3146,Los Angeles County,90024
+3147,Solano County,95687
+3148,San Joaquin County,95366
+3149,Santa Clara County,95128
+3150,Butte County,95938
+3151,Marin County,94901
+3152,Fresno County,93662
+3153,Riverside County,92241
+3154,Los Angeles County,93536
+3155,Alameda County,94586
+3156,Mendocino County,95432
+3157,San Bernardino County,92256
+3158,Alameda County,94621
+3159,Orange County,90621
+3160,Plumas County,95983
+3161,Ventura County,93030
+3162,Napa County,94576
+3163,Sonoma County,94923
+3164,Calaveras County,95252
+3165,Sonoma County,95465
+3166,Santa Cruz County,95065
+3167,San Diego County,91901
+3168,Tehama County,96075
+3169,Colusa County,95932
+3170,Yuba County,95962
+3171,San Diego County,92122
+3172,Marin County,94972
+3173,San Mateo County,94019
+3174,Los Angeles County,91011
+3175,San Joaquin County,95330
+3176,Santa Clara County,94306
+3177,Los Angeles County,90046
+3178,Kern County,93206
+3179,Tuolumne County,95372
+3180,San Francisco County,94129
+3181,Los Angeles County,91040
+3182,Riverside County,92571
+3183,Los Angeles County,90063
+3184,Los Angeles County,90405
+3185,San Diego County,92126
+3186,Los Angeles County,91103
+3187,Orange County,92683
+3188,Shasta County,96047
+3189,San Joaquin County,95212
+3190,Monterey County,93950
+3191,Ventura County,93030
+3192,Mendocino County,95482
+3193,Los Angeles County,90034
+3194,Siskiyou County,96044
+3195,Los Angeles County,91324
+3196,San Bernardino County,92372
+3197,Kern County,93560
+3198,Merced County,95369
+3199,Mono County,96107
+3200,Los Angeles County,90240
+3201,Humboldt County,95514
+3202,Los Angeles County,90221
+3203,Tulare County,93223
+3204,San Bernardino County,92308
+3205,San Luis Obispo County,93442
+3206,Los Angeles County,90302
+3207,San Diego County,92129
+3208,Alpine County,96120
+3209,San Diego County,92028
+3210,Riverside County,92880
+3211,Kings County,93266
+3212,San Bernardino County,92394
+3213,Los Angeles County,91744
+3214,Plumas County,95947
+3215,San Diego County,92109
+3216,Mono County,96133
+3217,Siskiyou County,96044
+3218,San Mateo County,94015
+3219,Orange County,92841
+3220,San Bernardino County,92310
+3221,Tulare County,93265
+3222,San Luis Obispo County,93432
+3223,San Diego County,92027
+3224,Alameda County,94579
+3225,Orange County,92647
+3226,Los Angeles County,91304
+3227,Los Angeles County,90404
+3228,Los Angeles County,90033
+3229,Fresno County,93608
+3230,Imperial County,92250
+3231,Siskiyou County,96094
+3232,San Bernardino County,92371
+3233,Lassen County,96130
+3234,Contra Costa County,94547
+3235,Humboldt County,95546
+3236,Orange County,92624
+3237,Stanislaus County,95328
+3238,San Joaquin County,95320
+3239,San Joaquin County,95202
+3240,Nevada County,95945
+3241,Siskiyou County,96044
+3242,Los Angeles County,90016
+3243,Ventura County,93063
+3244,Santa Clara County,94305
+3245,Marin County,94949
+3246,Los Angeles County,91748
+3247,Los Angeles County,90505
+3248,Ventura County,91361
+3249,San Diego County,92122
+3250,Yolo County,95627
+3251,Los Angeles County,91364
+3252,Stanislaus County,95350
+3253,Mendocino County,95482
+3254,San Diego County,92007
+3255,Contra Costa County,94556
+3256,Santa Barbara County,93254
+3257,Riverside County,92203
+3258,Sierra County,96118
+3259,Butte County,95926
+3260,Sacramento County,95823
+3261,Riverside County,92561
+3262,Los Angeles County,90022
+3263,Orange County,92694
+3264,Butte County,95973
+3265,Los Angeles County,91745
+3266,San Diego County,92121
+3267,Tulare County,93603
+3268,San Diego County,92117
+3269,Fresno County,93626
+3270,San Mateo County,94019
+3271,Sacramento County,95824
+3272,San Luis Obispo County,93444
+3273,San Bernardino County,92327
+3274,San Bernardino County,91701
+3275,Santa Clara County,95129
+3276,Los Angeles County,91505
+3277,Santa Barbara County,93111
+3278,Humboldt County,95501
+3279,Sierra County,95910
+3280,Kern County,93308
+3281,Los Angeles County,90067
+3282,Shasta County,96001
+3283,Yolo County,95691
+3284,San Mateo County,94002
+3285,Santa Cruz County,95019
+3286,San Joaquin County,95258
+3287,Yuba County,95925
+3288,Santa Clara County,95122
+3289,Plumas County,95923
+3290,Orange County,92887
+3291,Riverside County,92881
+3292,Orange County,92647
+3293,Los Angeles County,90210
+3294,Los Angeles County,90670
+3295,Trinity County,96076
+3296,San Francisco County,94105
+3297,Marin County,94965
+3298,Lake County,95453
+3299,Santa Barbara County,93101
+3300,San Luis Obispo County,93402
+3301,San Francisco County,94130
+3302,San Diego County,92009
+3303,San Diego County,91911
+3304,Los Angeles County,90813
+3305,Amador County,95666
+3306,San Bernardino County,92313
+3307,Santa Clara County,95131
+3308,Sacramento County,95823
+3309,Monterey County,93930
+3310,Los Angeles County,90212
+3311,Los Angeles County,91803
+3312,Shasta County,96056
+3313,Los Angeles County,91401
+3314,Los Angeles County,90016
+3315,San Francisco County,94109
+3316,San Diego County,92119
+3317,Lake County,95485
+3318,El Dorado County,95684
+3319,Fresno County,93608
+3320,Tehama County,96021
+3321,San Diego County,91978
+3322,San Luis Obispo County,93465
+3323,Los Angeles County,90247
+3324,San Diego County,92129
+3325,Alameda County,94602
+3326,Kern County,93516
+3327,San Diego County,92126
+3328,Kings County,93266
+3329,Solano County,94533
+3330,Los Angeles County,90002
+3331,San Francisco County,94134
+3332,Los Angeles County,91745
+3333,Yuba County,95961
+3334,San Bernardino County,92342
+3335,Los Angeles County,90814
+3336,San Francisco County,94118
+3337,Orange County,92782
+3338,El Dorado County,95667
+3339,Contra Costa County,94506
+3340,Riverside County,92264
+3341,Kern County,93205
+3342,San Diego County,92114
+3343,San Luis Obispo County,93452
+3344,Riverside County,92551
+3345,San Diego County,92101
+3346,Contra Costa County,94507
+3347,Los Angeles County,90262
+3348,Alameda County,94602
+3349,San Diego County,92122
+3350,San Bernardino County,92399
+3351,San Bernardino County,92332
+3352,San Mateo County,94027
+3353,San Bernardino County,91739
+3354,Orange County,92865
+3355,Mendocino County,95587
+3356,Merced County,93620
+3357,Orange County,92869
+3358,Riverside County,92583
+3359,Sutter County,95953
+3360,San Diego County,92028
+3361,San Francisco County,94114
+3362,San Diego County,92114
+3363,Sacramento County,95683
+3364,Shasta County,96002
+3365,Los Angeles County,90248
+3366,Lake County,95458
+3367,El Dorado County,95672
+3368,Contra Costa County,94530
+3369,Kern County,93225
+3370,San Diego County,92026
+3371,San Francisco County,94124
+3372,Monterey County,93933
+3373,Lake County,95461
+3374,Orange County,92823
+3375,Shasta County,96051
+3376,Kern County,93518
+3377,San Luis Obispo County,93446
+3378,Plumas County,95983
+3379,Kern County,93523
+3380,Orange County,92677
+3381,Fresno County,93631
+3382,Alameda County,94538
+3383,Yolo County,95627
+3384,Los Angeles County,91306
+3385,Sonoma County,95462
+3386,Contra Costa County,94525
+3387,Siskiyou County,96058
+3388,Los Angeles County,91214
+3389,Los Angeles County,91205
+3390,Los Angeles County,91354
+3391,Orange County,92867
+3392,Orange County,90631
+3393,Yuba County,95925
+3394,Contra Costa County,94804
+3395,Fresno County,93728
+3396,San Benito County,95045
+3397,Yuba County,95925
+3398,Humboldt County,95570
+3399,Mendocino County,95460
+3400,Mariposa County,95325
+3401,Sacramento County,95864
+3402,Stanislaus County,95358
+3403,Santa Cruz County,95066
+3404,San Diego County,92126
+3405,San Diego County,92111
+3406,Santa Barbara County,93437
+3407,Los Angeles County,90211
+3408,Merced County,95324
+3409,Riverside County,92262
+3410,Trinity County,96052
+3411,Los Angeles County,93553
+3412,Los Angeles County,90031
+3413,Ventura County,93022
+3414,Nevada County,95949
+3415,Orange County,92802
+3416,San Diego County,92003
+3417,San Diego County,92129
+3418,Orange County,90720
+3419,Imperial County,92257
+3420,Stanislaus County,95382
+3421,Los Angeles County,90031
+3422,Riverside County,92270
+3423,Los Angeles County,90603
+3424,Mendocino County,95494
+3425,Riverside County,92592
+3426,San Joaquin County,95230
+3427,Contra Costa County,94521
+3428,Alameda County,94708
+3429,Ventura County,93060
+3430,Los Angeles County,90222
+3431,Monterey County,93925
+3432,Ventura County,93023
+3433,Kern County,93287
+3434,Placer County,95703
+3435,Santa Clara County,95126
+3436,Santa Clara County,94087
+3437,Fresno County,93242
+3438,Inyo County,93513
+3439,Riverside County,92260
+3440,Santa Clara County,95135
+3441,Los Angeles County,90802
+3442,Los Angeles County,90503
+3443,Sonoma County,95465
+3444,Los Angeles County,90805
+3445,Los Angeles County,91340
+3446,San Diego County,92054
+3447,Los Angeles County,91754
+3448,Sacramento County,95817
+3449,Los Angeles County,90606
+3450,Orange County,92694
+3451,Orange County,92661
+3452,Amador County,95685
+3453,Tehama County,96055
+3454,San Diego County,92020
+3455,Sacramento County,95835
+3456,Los Angeles County,90220
+3457,Sacramento County,95673
+3458,Mendocino County,95470
+3459,Sonoma County,95472
+3460,Lake County,95464
+3461,Riverside County,92203
+3462,Tulare County,93271
+3463,Alameda County,94546
+3464,Los Angeles County,91001
+3465,Los Angeles County,90277
+3466,Madera County,93653
+3467,San Diego County,92027
+3468,Monterey County,93953
+3469,Lake County,95457
+3470,Alameda County,94608
+3471,Alameda County,94707
+3472,Tehama County,96075
+3473,Santa Barbara County,93458
+3474,Tuolumne County,95335
+3475,Mendocino County,95468
+3476,Ventura County,93065
+3477,San Joaquin County,95231
+3478,Los Angeles County,91755
+3479,San Diego County,92115
+3480,Butte County,95930
+3481,Sonoma County,95407
+3482,Contra Costa County,94518
+3483,San Francisco County,94122
+3484,San Bernardino County,92242
+3485,Orange County,92614
+3486,San Diego County,92131
+3487,Santa Clara County,95111
+3488,San Diego County,92122
+3489,San Joaquin County,95206
+3490,Los Angeles County,91750
+3491,Los Angeles County,90503
+3492,Tulare County,93618
+3493,Yuba County,95692
+3494,San Joaquin County,95376
+3495,Los Angeles County,90040
+3496,Orange County,92868
+3497,Los Angeles County,90013
+3498,Placer County,95663
+3499,San Diego County,92109
+3500,Los Angeles County,90027
+3501,Merced County,95333
+3502,Los Angeles County,90814
+3503,Santa Clara County,95111
+3504,Imperial County,92233
+3505,San Diego County,92126
+3506,San Bernardino County,91763
+3507,Los Angeles County,90732
+3508,Shasta County,96008
+3509,Los Angeles County,90041
+3510,San Francisco County,94103
+3511,Contra Costa County,94519
+3512,Tulare County,93247
+3513,Contra Costa County,94561
+3514,Sutter County,95991
+3515,Merced County,95315
+3516,Los Angeles County,90402
+3517,Ventura County,91360
+3518,San Diego County,92083
+3519,San Francisco County,94129
+3520,Kern County,93268
+3521,Orange County,92625
+3522,Sacramento County,95838
+3523,Santa Clara County,94022
+3524,Los Angeles County,90745
+3525,San Luis Obispo County,93452
+3526,Siskiyou County,96058
+3527,Santa Barbara County,93460
+3528,Los Angeles County,90019
+3529,Kings County,93230
+3530,Sutter County,95668
+3531,San Diego County,91941
+3532,Nevada County,95975
+3533,San Diego County,92117
+3534,Los Angeles County,91103
+3535,San Diego County,92003
+3536,Los Angeles County,90248
+3537,Los Angeles County,91321
+3538,Santa Barbara County,93110
+3539,Alameda County,94710
+3540,Yolo County,95606
+3541,San Diego County,92117
+3542,Los Angeles County,91006
+3543,Contra Costa County,94565
+3544,San Diego County,92130
+3545,Ventura County,91320
+3546,Marin County,94904
+3547,Solano County,94535
+3548,San Diego County,92117
+3549,San Francisco County,94103
+3550,Los Angeles County,90064
+3551,San Diego County,92008
+3552,Butte County,95966
+3553,Santa Clara County,95127
+3554,Los Angeles County,90031
+3555,San Francisco County,94129
+3556,Santa Clara County,95134
+3557,Riverside County,92557
+3558,Placer County,95650
+3559,San Francisco County,94124
+3560,Del Norte County,95567
+3561,Mariposa County,95306
+3562,Merced County,95317
+3563,Santa Cruz County,95064
+3564,Colusa County,95912
+3565,Trinity County,95595
+3566,Marin County,94924
+3567,Los Angeles County,90029
+3568,Sacramento County,95628
+3569,Los Angeles County,91740
+3570,Sacramento County,95842
+3571,Los Angeles County,90603
+3572,Imperial County,92251
+3573,San Mateo County,94014
+3574,Merced County,95333
+3575,Contra Costa County,94525
+3576,Calaveras County,95222
+3577,Tuolumne County,95346
+3578,Orange County,92692
+3579,San Bernardino County,92252
+3580,Santa Barbara County,93434
+3581,Shasta County,96096
+3582,Kern County,93263
+3583,Modoc County,96015
+3584,Santa Clara County,95035
+3585,San Diego County,91914
+3586,Sacramento County,95815
+3587,Tulare County,93277
+3588,Orange County,92841
+3589,Placer County,95765
+3590,Los Angeles County,90716
+3591,San Diego County,92126
+3592,Los Angeles County,90211
+3593,Siskiyou County,96050
+3594,Orange County,92604
+3595,Los Angeles County,90071
+3596,Sonoma County,95405
+3597,Riverside County,92225
+3598,Shasta County,96013
+3599,Los Angeles County,91205
+3600,Orange County,92865
+3601,Santa Clara County,95132
+3602,Kings County,93245
+3603,Marin County,94965
+3604,Riverside County,92592
+3605,Sacramento County,95621
+3606,Fresno County,93626
+3607,Contra Costa County,94520
+3608,Glenn County,95920
+3609,Tuolumne County,95329
+3610,Lake County,95453
+3611,San Francisco County,94103
+3612,Ventura County,93022
+3613,Los Angeles County,91506
+3614,Los Angeles County,91205
+3615,Ventura County,93021
+3616,Sonoma County,95407
+3617,Calaveras County,95228
+3618,San Bernardino County,92316
+3619,Los Angeles County,90254
+3620,Calaveras County,95249
+3621,Los Angeles County,91316
+3622,Riverside County,92274
+3623,San Diego County,92027
+3624,Tulare County,93257
+3625,Contra Costa County,94801
+3626,San Diego County,92124
+3627,Yolo County,95694
+3628,Los Angeles County,91303
+3629,San Diego County,92109
+3630,San Diego County,92024
+3631,Sonoma County,95409
+3632,Los Angeles County,90002
+3633,Santa Barbara County,93427
+3634,Santa Clara County,95120
+3635,Los Angeles County,90280
+3636,San Diego County,92127
+3637,Los Angeles County,91803
+3638,Humboldt County,95524
+3639,Santa Barbara County,93437
+3640,Los Angeles County,90249
+3641,Mendocino County,95415
+3642,Fresno County,93675
+3643,Humboldt County,95554
+3644,Alameda County,94609
+3645,Ventura County,93004
+3646,Los Angeles County,90047
+3647,Inyo County,93526
+3648,Riverside County,92276
+3649,Los Angeles County,90640
+3650,Kern County,93560
+3651,Riverside County,92544
+3652,Solano County,94585
+3653,Calaveras County,95257
+3654,San Diego County,91945
+3655,Santa Barbara County,93454
+3656,Santa Cruz County,95065
+3657,Sacramento County,95610
+3658,Los Angeles County,91311
+3659,San Bernardino County,92315
+3660,Riverside County,92509
+3661,San Bernardino County,92316
+3662,Los Angeles County,90245
+3663,Fresno County,93654
+3664,Contra Costa County,94598
+3665,Fresno County,93602
+3666,Yuba County,95962
+3667,Kern County,93250
+3668,Kern County,93215
+3669,San Diego County,92070
+3670,Modoc County,96101
+3671,Butte County,95930
+3672,Humboldt County,95511
+3673,Santa Cruz County,95017
+3674,San Diego County,92126
+3675,Kern County,93238
+3676,Lake County,95453
+3677,Alameda County,94578
+3678,San Diego County,92139
+3679,Solano County,95688
+3680,Contra Costa County,94526
+3681,Amador County,95685
+3682,Fresno County,93210
+3683,Marin County,94904
+3684,San Bernardino County,92392
+3685,Los Angeles County,91011
+3686,Los Angeles County,90640
+3687,Kern County,93304
+3688,Los Angeles County,91745
+3689,Marin County,94939
+3690,Fresno County,93625
+3691,Marin County,94946
+3692,Merced County,95315
+3693,Los Angeles County,90502
+3694,Madera County,93601
+3695,Placer County,95677
+3696,El Dorado County,95735
+3697,Los Angeles County,91316
+3698,Los Angeles County,93532
+3699,Marin County,94945
+3700,San Diego County,92131
+3701,Los Angeles County,90706
+3702,San Diego County,92121
+3703,Sutter County,95659
+3704,San Diego County,92027
+3705,San Diego County,91950
+3706,Riverside County,92504
+3707,Yolo County,95616
+3708,Stanislaus County,95386
+3709,San Diego County,92036
+3710,Los Angeles County,90211
+3711,San Diego County,92082
+3712,Imperial County,92243
+3713,Orange County,92677
+3714,San Diego County,92028
+3715,Humboldt County,95569
+3716,Mono County,96133
+3717,Fresno County,93722
+3718,Sutter County,95993
+3719,Los Angeles County,90650
+3720,Shasta County,96016
+3721,San Mateo County,94401
+3722,Los Angeles County,90601
+3723,Shasta County,96056
+3724,Santa Barbara County,93108
+3725,Merced County,95388
+3726,Nevada County,95946
+3727,Tulare County,93615
+3728,Los Angeles County,91405
+3729,Sacramento County,95817
+3730,Glenn County,95988
+3731,Ventura County,93012
+3732,Riverside County,92543
+3733,Los Angeles County,90041
+3734,Alameda County,94705
+3735,San Diego County,92126
+3736,Sacramento County,95820
+3737,Orange County,92656
+3738,Orange County,92706
+3739,Riverside County,92504
+3740,Orange County,92869
+3741,Sutter County,95668
+3742,San Bernardino County,92336
+3743,Yuba County,95692
+3744,Los Angeles County,90245
+3745,Colusa County,95970
+3746,San Mateo County,94005
+3747,Merced County,95317
+3748,Los Angeles County,90715
+3749,Los Angeles County,91724
+3750,San Diego County,92027
+3751,San Mateo County,94401
+3752,Contra Costa County,94801
+3753,Orange County,92694
+3754,San Mateo County,94303
+3755,Monterey County,93953
+3756,San Bernardino County,92309
+3757,Orange County,92662
+3758,Marin County,94901
+3759,San Bernardino County,92368
+3760,Sacramento County,95837
+3761,Amador County,95640
+3762,San Francisco County,94105
+3763,Nevada County,95960
+3764,Orange County,92675
+3765,Kern County,93305
+3766,Imperial County,92283
+3767,Calaveras County,95232
+3768,San Diego County,92122
+3769,Alameda County,94605
+3770,Napa County,94558
+3771,Humboldt County,95526
+3772,Lake County,95493
+3773,Tehama County,96080
+3774,Alameda County,94579
+3775,Orange County,92835
+3776,San Diego County,91913
+3777,San Bernardino County,92364
+3778,Siskiyou County,96034
+3779,Mendocino County,95415
+3780,Alameda County,94550
+3781,Monterey County,93926
+3782,Los Angeles County,91501
+3783,Santa Clara County,95035
+3784,San Diego County,92117
+3785,San Diego County,92027
+3786,Napa County,94508
+3787,Orange County,92868
+3788,Los Angeles County,91331
+3789,Santa Clara County,94086
+3790,Orange County,92620
+3791,Los Angeles County,90034
+3792,Orange County,92691
+3793,San Diego County,91962
+3794,Los Angeles County,90405
+3795,Santa Clara County,94306
+3796,Los Angeles County,90045
+3797,Orange County,92673
+3798,Sacramento County,95662
+3799,Solano County,95620
+3800,San Joaquin County,95336
+3801,San Bernardino County,92377
+3802,Santa Clara County,95133
+3803,Santa Barbara County,93458
+3804,San Luis Obispo County,93430
+3805,San Joaquin County,95236
+3806,Santa Cruz County,95017
+3807,Los Angeles County,91423
+3808,Sacramento County,95608
+3809,Alameda County,94555
+3810,Los Angeles County,91792
+3811,San Bernardino County,92242
+3812,Shasta County,96016
+3813,Contra Costa County,94556
+3814,San Diego County,91950
+3815,Kern County,93263
+3816,San Diego County,92130
+3817,San Bernardino County,92313
+3818,Los Angeles County,91768
+3819,Los Angeles County,91384
+3820,Modoc County,96015
+3821,Los Angeles County,91040
+3822,Alameda County,94578
+3823,Sierra County,95910
+3824,San Diego County,92129
+3825,Placer County,95648
+3826,Santa Clara County,94041
+3827,San Diego County,92173
+3828,Sacramento County,95821
+3829,San Diego County,91902
+3830,Humboldt County,95551
+3831,Los Angeles County,91748
+3832,Sutter County,95957
+3833,Fresno County,93625
+3834,Shasta County,96069
+3835,San Bernardino County,91786
+3836,Riverside County,92508
+3837,Kern County,93241
+3838,Mendocino County,95420
+3839,Kings County,93212
+3840,San Luis Obispo County,93428
+3841,Los Angeles County,91607
+3842,Marin County,94941
+3843,Los Angeles County,91104
+3844,Los Angeles County,90255
+3845,Orange County,92707
+3846,Colusa County,95979
+3847,Orange County,90740
+3848,San Diego County,92028
+3849,Plumas County,95934
+3850,San Diego County,92075
+3851,Los Angeles County,91340
+3852,Lassen County,96109
+3853,Orange County,92655
+3854,San Mateo County,94060
+3855,San Bernardino County,92285
+3856,Los Angeles County,90242
+3857,Shasta County,96062
+3858,Solano County,94512
+3859,Los Angeles County,91768
+3860,San Diego County,92109
+3861,Sonoma County,95425
+3862,Contra Costa County,94509
+3863,Los Angeles County,91108
+3864,Los Angeles County,90049
+3865,Siskiyou County,96057
+3866,San Bernardino County,92401
+3867,Los Angeles County,90293
+3868,Santa Clara County,95122
+3869,Los Angeles County,90069
+3870,Alameda County,94550
+3871,Los Angeles County,90712
+3872,Riverside County,92557
+3873,El Dorado County,95664
+3874,San Bernardino County,92399
+3875,Siskiyou County,96038
+3876,Riverside County,92592
+3877,Los Angeles County,91403
+3878,Alameda County,94541
+3879,Modoc County,96112
+3880,Fresno County,93630
+3881,Los Angeles County,91302
+3882,Riverside County,92592
+3883,Orange County,92612
+3884,Riverside County,92264
+3885,Napa County,94599
+3886,Contra Costa County,94526
+3887,Placer County,95678
+3888,Lassen County,96136
+3889,Los Angeles County,91105
+3890,Marin County,94940
+3891,San Diego County,92131
+3892,Ventura County,93012
+3893,Los Angeles County,91601
+3894,Kern County,93203
+3895,Orange County,92705
+3896,Yolo County,95605
+3897,Orange County,92840
+3898,Sonoma County,95492
+3899,San Diego County,92121
+3900,San Francisco County,94111
+3901,Tuolumne County,95310
+3902,Lake County,95457
+3903,Los Angeles County,90605
+3904,Sonoma County,94951
+3905,San Diego County,92040
+3906,Orange County,90720
+3907,Los Angeles County,91020
+3908,Sutter County,95982
+3909,Los Angeles County,91741
+3910,Orange County,92866
+3911,Los Angeles County,91355
+3912,Sacramento County,95842
+3913,San Diego County,92126
+3914,Monterey County,93901
+3915,Amador County,95665
+3916,Orange County,92657
+3917,Santa Clara County,95117
+3918,Los Angeles County,90039
+3919,Los Angeles County,90805
+3920,Fresno County,93646
+3921,San Mateo County,94014
+3922,Sacramento County,95610
+3923,Kern County,93285
+3924,San Joaquin County,95210
+3925,San Francisco County,94112
+3926,Butte County,95942
+3927,San Diego County,92109
+3928,Orange County,92708
+3929,Placer County,95746
+3930,San Diego County,92130
+3931,Los Angeles County,91007
+3932,Sacramento County,95837
+3933,Lassen County,96114
+3934,Ventura County,91362
+3935,Riverside County,92211
+3936,Plumas County,96103
+3937,Tulare County,93286
+3938,Los Angeles County,90039
+3939,San Bernardino County,92308
+3940,Yuba County,95903
+3941,Orange County,92844
+3942,San Bernardino County,91709
+3943,Kern County,93205
+3944,Riverside County,92583
+3945,Los Angeles County,91106
+3946,Fresno County,93726
+3947,Los Angeles County,90006
+3948,Sierra County,96118
+3949,Los Angeles County,93544
+3950,Los Angeles County,90290
+3951,Orange County,92861
+3952,Lassen County,96109
+3953,Merced County,95340
+3954,San Diego County,92084
+3955,Contra Costa County,94547
+3956,Los Angeles County,91770
+3957,Imperial County,92250
+3958,San Bernardino County,92394
+3959,Orange County,92821
+3960,San Joaquin County,95231
+3961,Madera County,93653
+3962,Riverside County,92230
+3963,Fresno County,93704
+3964,Los Angeles County,90302
+3965,Santa Clara County,95120
+3966,Los Angeles County,90058
+3967,Santa Clara County,95121
+3968,Los Angeles County,90245
+3969,San Francisco County,94117
+3970,Orange County,92683
+3971,Trinity County,96010
+3972,Kern County,93531
+3973,Shasta County,96013
+3974,Humboldt County,95551
+3975,San Luis Obispo County,93449
+3976,Contra Costa County,94507
+3977,Placer County,95747
+3978,Yolo County,95695
+3979,Los Angeles County,91024
+3980,Sacramento County,95822
+3981,Marin County,94924
+3982,San Diego County,92123
+3983,Lake County,95457
+3984,San Mateo County,94403
+3985,El Dorado County,95633
+3986,Los Angeles County,91604
+3987,Marin County,94946
+3988,San Diego County,91901
+3989,Mendocino County,95490
+3990,Alameda County,94580
+3991,Orange County,92646
+3992,San Francisco County,94131
+3993,Los Angeles County,90403
+3994,Los Angeles County,91724
+3995,Los Angeles County,91350
+3996,Los Angeles County,90008
+3997,Riverside County,92571
+3998,Placer County,95746
+3999,Santa Barbara County,93103
+4000,San Bernardino County,92411
+4001,Riverside County,92548
+4002,San Bernardino County,92301
+4003,Sonoma County,95404
+4004,Kern County,93285
+4005,San Bernardino County,92285
+4006,Contra Costa County,94523
+4007,San Diego County,92128
+4008,Santa Barbara County,93458
+4009,San Joaquin County,95206
+4010,Mendocino County,95415
+4011,Madera County,93653
+4012,Trinity County,96024
+4013,San Diego County,92126
+4014,Los Angeles County,91321
+4015,Lassen County,96137
+4016,Contra Costa County,94513
+4017,San Diego County,92104
+4018,Contra Costa County,94509
+4019,Ventura County,93022
+4020,Imperial County,92249
+4021,Riverside County,92563
+4022,Butte County,95914
+4023,Mendocino County,95469
+4024,Kings County,93212
+4025,Stanislaus County,95326
+4026,San Diego County,92027
+4027,Los Angeles County,90404
+4028,Los Angeles County,90660
+4029,Butte County,95968
+4030,San Diego County,91913
+4031,Fresno County,93720
+4032,Kern County,93268
+4033,Contra Costa County,94523
+4034,Los Angeles County,91306
+4035,Calaveras County,95252
+4036,Yuba County,95962
+4037,Mendocino County,95490
+4038,Kern County,93561
+4039,Mono County,93512
+4040,Los Angeles County,91792
+4041,San Bernardino County,91710
+4042,Sonoma County,95436
+4043,Orange County,92886
+4044,Los Angeles County,91790
+4045,San Diego County,91915
+4046,Madera County,93644
+4047,San Bernardino County,91701
+4048,Sacramento County,95626
+4049,Siskiyou County,96097
+4050,Los Angeles County,90717
+4051,Santa Clara County,95113
+4052,San Joaquin County,95242
+4053,Los Angeles County,91203
+4054,Los Angeles County,90056
+4055,San Bernardino County,92332
+4056,San Bernardino County,92392
+4057,Los Angeles County,91436
+4058,Riverside County,92282
+4059,Los Angeles County,90723
+4060,Solano County,94510
+4061,San Diego County,91901
+4062,Sacramento County,95829
+4063,Los Angeles County,90038
+4064,Riverside County,92509
+4065,Amador County,95669
+4066,Kings County,93266
+4067,Alameda County,94603
+4068,San Diego County,92084
+4069,Sonoma County,95441
+4070,Monterey County,93960
+4071,Lake County,95485
+4072,Yolo County,95627
+4073,Madera County,93645
+4074,Los Angeles County,90272
+4075,Marin County,94940
+4076,San Diego County,92028
+4077,San Diego County,92110
+4078,Los Angeles County,90220
+4079,San Mateo County,94044
+4080,Lake County,95461
+4081,San Bernardino County,91786
+4082,Contra Costa County,94572
+4083,Humboldt County,95565
+4084,Shasta County,96088
+4085,Los Angeles County,90717
+4086,Calaveras County,95252
+4087,Tulare County,93647
+4088,San Bernardino County,92410
+4089,Butte County,95916
+4090,Riverside County,92223
+4091,Kings County,93204
+4092,Los Angeles County,90250
+4093,Calaveras County,95223
+4094,Fresno County,93622
+4095,San Bernardino County,92405
+4096,Napa County,94599
+4097,Riverside County,92591
+4098,Humboldt County,95564
+4099,Orange County,92651
+4100,Riverside County,92592
+4101,Riverside County,92220
+4102,Los Angeles County,91355
+4103,Butte County,95928
+4104,Los Angeles County,90071
+4105,Imperial County,92233
+4106,Trinity County,95595
+4107,Los Angeles County,90025
+4108,Mendocino County,95468
+4109,Los Angeles County,91202
+4110,Ventura County,93012
+4111,San Diego County,92056
+4112,Los Angeles County,90026
+4113,Alpine County,96120
+4114,San Bernardino County,91762
+4115,Sutter County,95993
+4116,Stanislaus County,95367
+4117,Ventura County,93066
+4118,Los Angeles County,91731
+4119,San Bernardino County,92377
+4120,Sacramento County,95864
+4121,Alameda County,94607
+4122,San Diego County,92027
+4123,Riverside County,92879
+4124,San Bernardino County,92324
+4125,Ventura County,93015
+4126,San Bernardino County,91762
+4127,Los Angeles County,91406
+4128,Shasta County,96019
+4129,Los Angeles County,91011
+4130,San Luis Obispo County,93402
+4131,Orange County,92651
+4132,Los Angeles County,90043
+4133,Los Angeles County,91344
+4134,Fresno County,93625
+4135,Humboldt County,95536
+4136,Santa Cruz County,95062
+4137,San Diego County,92027
+4138,San Diego County,92130
+4139,Napa County,94508
+4140,Riverside County,92270
+4141,Los Angeles County,91776
+4142,Mariposa County,95338
+4143,Sacramento County,95825
+4144,Los Angeles County,90670
+4145,Los Angeles County,91206
+4146,Santa Clara County,95122
+4147,Los Angeles County,91766
+4148,Merced County,95340
+4149,Solano County,95687
+4150,Los Angeles County,91755
+4151,Santa Barbara County,93427
+4152,Los Angeles County,90814
+4153,Orange County,92870
+4154,Los Angeles County,90815
+4155,Trinity County,96091
+4156,Sacramento County,95628
+4157,Mendocino County,95445
+4158,Stanislaus County,95358
+4159,Los Angeles County,90304
+4160,Merced County,95322
+4161,San Diego County,92126
+4162,Los Angeles County,90011
+4163,San Diego County,92122
+4164,Humboldt County,95526
+4165,Mendocino County,95456
+4166,San Diego County,92075
+4167,Modoc County,96006
+4168,San Mateo County,94402
+4169,Riverside County,92583
+4170,Santa Cruz County,95005
+4171,Sacramento County,95628
+4172,San Bernardino County,92337
+4173,Los Angeles County,90222
+4174,Los Angeles County,91208
+4175,Los Angeles County,93563
+4176,San Diego County,92108
+4177,Sierra County,96125
+4178,Los Angeles County,90248
+4179,San Francisco County,94127
+4180,Orange County,92648
+4181,Riverside County,92570
+4182,Napa County,94599
+4183,Los Angeles County,90745
+4184,Kern County,93243
+4185,Kern County,93516
+4186,Contra Costa County,94564
+4187,San Mateo County,94080
+4188,Los Angeles County,91770
+4189,Sonoma County,95441
+4190,Los Angeles County,90068
+4191,San Bernardino County,92368
+4192,Los Angeles County,90023
+4193,Riverside County,92557
+4194,San Diego County,92129
+4195,San Diego County,92121
+4196,Los Angeles County,90746
+4197,Contra Costa County,94805
+4198,Los Angeles County,90401
+4199,San Diego County,92128
+4200,San Diego County,92008
+4201,San Diego County,92121
+4202,Mendocino County,95410
+4203,Napa County,94559
+4204,Marin County,94925
+4205,Tulare County,93244
+4206,Santa Clara County,94301
+4207,Ventura County,93015
+4208,Amador County,95669
+4209,Los Angeles County,90028
+4210,Los Angeles County,91401
+4211,San Luis Obispo County,93420
+4212,San Diego County,92126
+4213,Los Angeles County,91423
+4214,Humboldt County,95554
+4215,Madera County,93669
+4216,Mono County,93512
+4217,Calaveras County,95245
+4218,Orange County,92805
+4219,San Diego County,92007
+4220,San Francisco County,94117
+4221,Contra Costa County,94517
+4222,Santa Clara County,94306
+4223,San Diego County,92129
+4224,Los Angeles County,91016
+4225,San Joaquin County,95236
+4226,Shasta County,96071
+4227,Kern County,93505
+4228,Tulare County,93267
+4229,Ventura County,91377
+4230,Contra Costa County,94556
+4231,Los Angeles County,90638
+4232,Los Angeles County,90715
+4233,Los Angeles County,90712
+4234,Los Angeles County,91732
+4235,San Diego County,92027
+4236,Sonoma County,95412
+4237,San Bernardino County,91763
+4238,San Diego County,92007
+4239,Mendocino County,95410
+4240,San Diego County,92009
+4241,San Diego County,92028
+4242,San Francisco County,94114
+4243,Riverside County,92882
+4244,Shasta County,96016
+4245,San Diego County,92121
+4246,Los Angeles County,90505
+4247,Sacramento County,95824
+4248,Mendocino County,95463
+4249,Orange County,92802
+4250,Los Angeles County,90023
+4251,Plumas County,95934
+4252,Mendocino County,95428
+4253,Mono County,93546
+4254,Riverside County,92561
+4255,Tulare County,93256
+4256,Ventura County,93001
+4257,Butte County,95930
+4258,San Joaquin County,95209
+4259,Orange County,92704
+4260,Sonoma County,95472
+4261,Fresno County,93720
+4262,Los Angeles County,90808
+4263,Riverside County,92543
+4264,Los Angeles County,90503
+4265,San Diego County,91915
+4266,Riverside County,92230
+4267,Fresno County,93722
+4268,Fresno County,93646
+4269,Los Angeles County,91342
+4270,San Diego County,92121
+4271,Sacramento County,95630
+4272,Yuba County,95981
+4273,Sacramento County,95826
+4274,Los Angeles County,90040
+4275,San Diego County,92026
+4276,Los Angeles County,90062
+4277,Sutter County,95991
+4278,Merced County,95365
+4279,Riverside County,92505
+4280,Merced County,95369
+4281,Los Angeles County,91203
+4282,Modoc County,96104
+4283,El Dorado County,95735
+4284,Riverside County,92210
+4285,Riverside County,92203
+4286,Santa Clara County,95138
+4287,Fresno County,93728
+4288,Orange County,92662
+4289,Tulare County,93219
+4290,Amador County,95669
+4291,Santa Cruz County,95006
+4292,San Diego County,92108
+4293,San Bernardino County,92405
+4294,San Diego County,92122
+4295,Santa Clara County,95129
+4296,San Diego County,92028
+4297,Santa Clara County,95051
+4298,Sacramento County,95632
+4299,San Francisco County,94124
+4300,Butte County,95914
+4301,Los Angeles County,90808
+4302,San Bernardino County,91701
+4303,San Bernardino County,92354
+4304,Alameda County,94602
+4305,Santa Barbara County,93427
+4306,Del Norte County,95567
+4307,Sacramento County,95610
+4308,Los Angeles County,90212
+4309,Los Angeles County,91605
+4310,Fresno County,93701
+4311,Mendocino County,95585
+4312,Santa Clara County,95140
+4313,Monterey County,93450
+4314,Merced County,93620
+4315,Los Angeles County,90002
+4316,Alameda County,94536
+4317,Mendocino County,95437
+4318,Madera County,93637
+4319,Orange County,92865
+4320,Santa Barbara County,93109
+4321,Santa Clara County,94306
+4322,Lake County,95451
+4323,Yolo County,95776
+4324,San Diego County,92127
+4325,Riverside County,92553
+4326,Trinity County,96091
+4327,Los Angeles County,91744
+4328,Alameda County,94580
+4329,Calaveras County,95228
+4330,Orange County,92832
+4331,Napa County,94558
+4332,Marin County,94939
+4333,Santa Barbara County,93455
+4334,San Bernardino County,92410
+4335,San Luis Obispo County,93428
+4336,Los Angeles County,90746
+4337,Los Angeles County,91768
+4338,Sacramento County,95632
+4339,Tuolumne County,95379
+4340,Los Angeles County,90221
+4341,Nevada County,95959
+4342,Los Angeles County,91741
+4343,San Diego County,92124
+4344,San Bernardino County,92313
+4345,Kern County,93280
+4346,San Diego County,92115
+4347,Los Angeles County,91307
+4348,Fresno County,93210
+4349,San Diego County,92122
+4350,Contra Costa County,94509
+4351,Sacramento County,95742
+4352,San Diego County,92109
+4353,Trinity County,95552
+4354,San Diego County,92129
+4355,Los Angeles County,90015
+4356,Stanislaus County,95328
+4357,Los Angeles County,90808
+4358,Riverside County,92262
+4359,San Luis Obispo County,93401
+4360,Los Angeles County,91711
+4361,Ventura County,93010
+4362,San Bernardino County,92252
+4363,Los Angeles County,91733
+4364,Sacramento County,95842
+4365,Los Angeles County,90304
+4366,Orange County,92661
+4367,San Joaquin County,95219
+4368,Los Angeles County,91506
+4369,San Bernardino County,92252
+4370,Los Angeles County,91020
+4371,Riverside County,92553
+4372,Los Angeles County,91335
+4373,Tulare County,93221
+4374,San Diego County,92154
+4375,Riverside County,92570
+4376,Orange County,92657
+4377,Fresno County,93668
+4378,San Bernardino County,92408
+4379,Los Angeles County,90008
+4380,Santa Clara County,94304
+4381,Los Angeles County,90606
+4382,Kern County,93505
+4383,Humboldt County,95524
+4384,San Diego County,92014
+4385,Riverside County,92562
+4386,Los Angeles County,91101
+4387,Sacramento County,95819
+4388,Los Angeles County,90405
+4389,Shasta County,96073
+4390,San Diego County,92027
+4391,Nevada County,95946
+4392,Mendocino County,95488
+4393,Alameda County,94705
+4394,San Bernardino County,91763
+4395,Sonoma County,94923
+4396,El Dorado County,95684
+4397,Santa Barbara County,93454
+4398,Tehama County,96059
+4399,Los Angeles County,90670
+4400,Marin County,94930
+4401,Los Angeles County,91324
+4402,Los Angeles County,91745
+4403,Yolo County,95607
+4404,San Diego County,92019
+4405,Stanislaus County,95368
+4406,Yuba County,95919
+4407,Tulare County,93286
+4408,San Diego County,92027
+4409,San Mateo County,94005
+4410,Los Angeles County,90015
+4411,Los Angeles County,93510
+4412,Sonoma County,95421
+4413,Napa County,94567
+4414,Lake County,95422
+4415,Kern County,93243
+4416,Los Angeles County,91605
+4417,Riverside County,92282
+4418,Shasta County,96017
+4419,Los Angeles County,90803
+4420,Merced County,95334
+4421,San Francisco County,94122
+4422,Los Angeles County,91405
+4423,Riverside County,92501
+4424,San Bernardino County,92310
+4425,San Luis Obispo County,93444
+4426,Merced County,95334
+4427,San Joaquin County,95337
+4428,Los Angeles County,90278
+4429,San Diego County,92064
+4430,Ventura County,93065
+4431,Orange County,92823
+4432,Sacramento County,95817
+4433,Tuolumne County,95321
+4434,Los Angeles County,90064
+4435,Lassen County,96121
+4436,Los Angeles County,91350
+4437,Orange County,92676
+4438,Siskiyou County,96039
+4439,Modoc County,96101
+4440,Sonoma County,95439
+4441,Riverside County,92592
+4442,Alameda County,94552
+4443,Riverside County,92586
+4444,Los Angeles County,90035
+4445,Alameda County,94710
+4446,San Bernardino County,92345
+4447,Los Angeles County,90744
+4448,Riverside County,92551
+4449,Stanislaus County,95328
+4450,Sonoma County,94952
+4451,Los Angeles County,90037
+4452,San Bernardino County,92301
+4453,Orange County,92604
+4454,San Diego County,92117
+4455,Kern County,93225
+4456,San Bernardino County,91761
+4457,Tehama County,96035
+4458,Riverside County,92201
+4459,Alameda County,94608
+4460,San Diego County,91916
+4461,Sonoma County,95446
+4462,Sutter County,95674
+4463,Yuba County,95981
+4464,Santa Cruz County,95060
+4465,Orange County,92626
+4466,Solano County,94589
+4467,Sacramento County,95820
+4468,Orange County,90740
+4469,Napa County,94559
+4470,San Diego County,92126
+4471,Los Angeles County,90027
+4472,Siskiyou County,96034
+4473,Riverside County,92586
+4474,Orange County,92606
+4475,Alameda County,94612
+4476,Santa Clara County,95121
+4477,Siskiyou County,96027
+4478,Alameda County,94588
+4479,Contra Costa County,94563
+4480,San Diego County,92101
+4481,San Diego County,92069
+4482,Contra Costa County,94583
+4483,Sacramento County,95819
+4484,Santa Clara County,95121
+4485,Los Angeles County,90601
+4486,Los Angeles County,91107
+4487,Calaveras County,95245
+4488,San Diego County,92027
+4489,El Dorado County,95709
+4490,San Bernardino County,91710
+4491,Los Angeles County,91602
+4492,Humboldt County,95525
+4493,Los Angeles County,90602
+4494,Solano County,94590
+4495,San Diego County,91978
+4496,Santa Clara County,95120
+4497,Los Angeles County,93532
+4498,Monterey County,93905
+4499,San Diego County,92122
+4500,Los Angeles County,90277
+4501,Alameda County,94612
+4502,Los Angeles County,91505
+4503,Los Angeles County,90402
+4504,Los Angeles County,91104
+4505,Los Angeles County,90808
+4506,Fresno County,93725
+4507,Merced County,95334
+4508,San Mateo County,94020
+4509,San Diego County,92027
+4510,Orange County,92869
+4511,Inyo County,93513
+4512,Santa Clara County,95051
+4513,Orange County,92627
+4514,Los Angeles County,90046
+4515,Orange County,92676
+4516,San Luis Obispo County,93465
+4517,Trinity County,96076
+4518,Los Angeles County,90303
+4519,San Mateo County,94061
+4520,Los Angeles County,90201
+4521,Riverside County,92551
+4522,San Mateo County,94002
+4523,Calaveras County,95255
+4524,Siskiyou County,96023
+4525,Marin County,94945
+4526,Kern County,93308
+4527,Riverside County,92592
+4528,Los Angeles County,90404
+4529,San Luis Obispo County,93432
+4530,Modoc County,96112
+4531,Los Angeles County,90006
+4532,Los Angeles County,91303
+4533,Sacramento County,95673
+4534,Los Angeles County,90057
+4535,Mariposa County,95345
+4536,San Mateo County,94044
+4537,San Diego County,92129
+4538,Orange County,92692
+4539,Shasta County,96033
+4540,Colusa County,95970
+4541,San Bernardino County,92374
+4542,Modoc County,96108
+4543,Plumas County,96020
+4544,Kern County,93312
+4545,Los Angeles County,91766
+4546,Sacramento County,95841
+4547,El Dorado County,95726
+4548,Santa Cruz County,95003
+4549,Stanislaus County,95355
+4550,Tuolumne County,95372
+4551,Fresno County,93703
+4552,Stanislaus County,95326
+4553,Orange County,92648
+4554,Tulare County,93271
+4555,Humboldt County,95525
+4556,Stanislaus County,95313
+4557,Los Angeles County,91301
+4558,Contra Costa County,94804
+4559,Contra Costa County,94596
+4560,Los Angeles County,91352
+4561,San Luis Obispo County,93430
+4562,Placer County,95722
+4563,Calaveras County,95257
+4564,Sonoma County,94931
+4565,Alameda County,94706
+4566,Los Angeles County,91723
+4567,San Bernardino County,92397
+4568,Mendocino County,95454
+4569,Tulare County,93256
+4570,Ventura County,91361
+4571,San Joaquin County,95215
+4572,Los Angeles County,91364
+4573,Riverside County,92274
+4574,San Diego County,91911
+4575,San Bernardino County,91763
+4576,Siskiyou County,96025
+4577,Monterey County,93925
+4578,Los Angeles County,91740
+4579,Los Angeles County,91311
+4580,Siskiyou County,96014
+4581,Los Angeles County,91340
+4582,San Diego County,92084
+4583,Los Angeles County,93535
+4584,Placer County,95681
+4585,San Bernardino County,91784
+4586,Orange County,92705
+4587,Alameda County,94704
+4588,Solano County,94512
+4589,Los Angeles County,90059
+4590,Santa Clara County,95030
+4591,Monterey County,93926
+4592,Riverside County,92225
+4593,Siskiyou County,95568
+4594,Orange County,92673
+4595,Placer County,95648
+4596,Santa Clara County,95133
+4597,Napa County,94559
+4598,Los Angeles County,90731
+4599,Solano County,94591
+4600,Fresno County,93705
+4601,Alameda County,94702
+4602,Mendocino County,95470
+4603,Solano County,94510
+4604,Los Angeles County,91351
+4605,El Dorado County,95762
+4606,San Mateo County,94038
+4607,Yolo County,95612
+4608,Los Angeles County,90501
+4609,Riverside County,92262
+4610,Los Angeles County,91356
+4611,San Luis Obispo County,93401
+4612,San Diego County,92117
+4613,Butte County,95928
+4614,Kern County,93523
+4615,Yolo County,95607
+4616,San Francisco County,94130
+4617,Los Angeles County,90701
+4618,Lassen County,96132
+4619,Los Angeles County,91767
+4620,Sacramento County,95864
+4621,Colusa County,95912
+4622,Los Angeles County,91505
+4623,San Joaquin County,95242
+4624,Los Angeles County,90007
+4625,Fresno County,93608
+4626,Kern County,93287
+4627,Placer County,95677
+4628,Alameda County,94610
+4629,San Bernardino County,92335
+4630,Los Angeles County,91604
+4631,Los Angeles County,91303
+4632,San Diego County,92025
+4633,Los Angeles County,90305
+4634,San Mateo County,94028
+4635,Los Angeles County,91356
+4636,Los Angeles County,91355
+4637,Sutter County,95982
+4638,Los Angeles County,90210
+4639,San Bernardino County,92407
+4640,Santa Clara County,95148
+4641,Modoc County,96112
+4642,Los Angeles County,90806
+4643,Trinity County,96010
+4644,Tuolumne County,95370
+4645,Sacramento County,95641
+4646,Los Angeles County,90401
+4647,Los Angeles County,90028
+4648,San Joaquin County,95330
+4649,Orange County,92653
+4650,Calaveras County,95246
+4651,Orange County,92647
+4652,Fresno County,93721
+4653,Tulare County,93265
+4654,Marin County,94903
+4655,El Dorado County,95614
+4656,Fresno County,93612
+4657,San Diego County,92129
+4658,San Bernardino County,92301
+4659,Ventura County,93021
+4660,Los Angeles County,90670
+4661,San Mateo County,94028
+4662,San Mateo County,94038
+4663,Ventura County,93012
+4664,Orange County,92646
+4665,Merced County,93635
+4666,Sonoma County,94954
+4667,San Francisco County,94134
+4668,Alameda County,94702
+4669,Sacramento County,95670
+4670,Calaveras County,95249
+4671,Mendocino County,95460
+4672,Orange County,90621
+4673,San Diego County,92127
+4674,Los Angeles County,91355
+4675,Riverside County,92223
+4676,Los Angeles County,90640
+4677,Mendocino County,95432
+4678,Contra Costa County,94596
+4679,Riverside County,92220
+4680,Riverside County,92592
+4681,Yuba County,95919
+4682,Alameda County,94586
+4683,San Bernardino County,92358
+4684,San Mateo County,94061
+4685,Inyo County,93514
+4686,Ventura County,93004
+4687,Orange County,92845
+4688,Fresno County,93706
+4689,Sonoma County,95452
+4690,Merced County,93635
+4691,Los Angeles County,91748
+4692,Ventura County,91320
+4693,Los Angeles County,90504
+4694,Butte County,95965
+4695,Sierra County,96124
+4696,Orange County,90623
+4697,Ventura County,93015
+4698,Humboldt County,95551
+4699,San Bernardino County,92336
+4700,Santa Barbara County,93110
+4701,Del Norte County,95548
+4702,San Joaquin County,95212
+4703,Orange County,92663
+4704,Sonoma County,95401
+4705,Los Angeles County,91505
+4706,Riverside County,92548
+4707,Los Angeles County,90640
+4708,Tulare County,93219
+4709,Stanislaus County,95380
+4710,Santa Barbara County,93110
+4711,San Diego County,92027
+4712,Fresno County,93701
+4713,Siskiyou County,96034
+4714,Los Angeles County,90280
+4715,Los Angeles County,91776
+4716,Los Angeles County,90272
+4717,Siskiyou County,96044
+4718,Los Angeles County,93535
+4719,Napa County,94567
+4720,San Diego County,92114
+4721,San Diego County,92027
+4722,San Diego County,91962
+4723,San Diego County,92121
+4724,Los Angeles County,91801
+4725,Stanislaus County,95357
+4726,San Diego County,92154
+4727,Los Angeles County,91706
+4728,Kern County,93224
+4729,San Bernardino County,92394
+4730,Fresno County,93641
+4731,Contra Costa County,94521
+4732,San Diego County,92027
+4733,Tulare County,93267
+4734,Mariposa County,95311
+4735,Los Angeles County,90277
+4736,Santa Barbara County,93108
+4737,Shasta County,96001
+4738,Los Angeles County,91324
+4739,Yolo County,95605
+4740,Los Angeles County,91024
+4741,Humboldt County,95514
+4742,Orange County,90720
+4743,Sacramento County,95816
+4744,Butte County,95965
+4745,Los Angeles County,91746
+4746,Los Angeles County,90804
+4747,Alameda County,94578
+4748,San Diego County,91978
+4749,Fresno County,93701
+4750,Orange County,90620
+4751,Los Angeles County,90220
+4752,Siskiyou County,96134
+4753,San Mateo County,94044
+4754,Orange County,92651
+4755,Orange County,92704
+4756,Alameda County,94546
+4757,Santa Clara County,95135
+4758,Sonoma County,94922
+4759,Los Angeles County,91790
+4760,Los Angeles County,90249
+4761,Los Angeles County,91607
+4762,San Diego County,92118
+4763,Stanislaus County,95361
+4764,Los Angeles County,90036
+4765,Riverside County,92592
+4766,Kern County,93305
+4767,Riverside County,92592
+4768,Los Angeles County,90405
+4769,El Dorado County,95651
+4770,San Luis Obispo County,93461
+4771,Orange County,92688
+4772,Sacramento County,95673
+4773,Los Angeles County,91108
+4774,Mendocino County,95417
+4775,Tehama County,96022
+4776,Orange County,92870
+4777,Santa Cruz County,95064
+4778,Los Angeles County,90230
+4779,San Diego County,92111
+4780,Sonoma County,95409
+4781,Tehama County,96080
+4782,San Diego County,92054
+4783,Calaveras County,95245
+4784,Siskiyou County,96027
+4785,Los Angeles County,91107
+4786,Orange County,92703
+4787,Alameda County,94705
+4788,Orange County,92677
+4789,Riverside County,92234
+4790,San Bernardino County,91730
+4791,San Diego County,92028
+4792,Amador County,95689
+4793,Los Angeles County,90305
+4794,San Joaquin County,95219
+4795,Orange County,92780
+4796,Los Angeles County,90605
+4797,Los Angeles County,90044
+4798,Imperial County,92227
+4799,Santa Cruz County,95066
+4800,Trinity County,96091
+4801,Los Angeles County,91311
+4802,Riverside County,92595
+4803,Tulare County,93221
+4804,Placer County,96146
+4805,Los Angeles County,93536
+4806,Los Angeles County,91773
+4807,Inyo County,93513
+4808,Orange County,92706
+4809,San Diego County,92126
+4810,Alameda County,94610
+4811,Plumas County,95971
+4812,Solano County,94585
+4813,Humboldt County,95573
+4814,Riverside County,92223
+4815,Los Angeles County,90241
+4816,San Diego County,92027
+4817,Kern County,93203
+4818,Sacramento County,95841
+4819,Kern County,93226
+4820,Los Angeles County,90061
+4821,Fresno County,93728
+4822,Los Angeles County,91780
+4823,San Diego County,92027
+4824,Los Angeles County,90230
+4825,Humboldt County,95501
+4826,Los Angeles County,90715
+4827,Kings County,93230
+4828,Plumas County,96122
+4829,Alameda County,94603
+4830,Placer County,96146
+4831,San Bernardino County,92392
+4832,Humboldt County,95551
+4833,San Benito County,95043
+4834,San Diego County,91906
+4835,Tulare County,93292
+4836,Sonoma County,95407
+4837,Mono County,93517
+4838,San Diego County,91913
+4839,San Diego County,92126
+4840,Tulare County,93270
+4841,San Bernardino County,91709
+4842,San Diego County,92130
+4843,Alameda County,94621
+4844,Fresno County,93242
+4845,Stanislaus County,95307
+4846,Los Angeles County,90013
+4847,Los Angeles County,91789
+4848,Los Angeles County,90808
+4849,San Francisco County,94121
+4850,Orange County,92677
+4851,Contra Costa County,94595
+4852,Los Angeles County,90005
+4853,Fresno County,93621
+4854,Santa Cruz County,95006
+4855,San Bernardino County,92256
+4856,Sacramento County,95630
+4857,Kings County,93202
+4858,Los Angeles County,90803
+4859,San Joaquin County,95202
+4860,El Dorado County,95619
+4861,Los Angeles County,90063
+4862,Tulare County,93265
+4863,Sacramento County,95864
+4864,Kern County,93280
+4865,San Luis Obispo County,93461
+4866,Santa Clara County,95127
+4867,Riverside County,92505
+4868,Solano County,94591
+4869,El Dorado County,95682
+4870,Tuolumne County,95327
+4871,Stanislaus County,95363
+4872,San Francisco County,94109
+4873,Los Angeles County,90262
+4874,Shasta County,96013
+4875,Stanislaus County,95356
+4876,Los Angeles County,91344
+4877,Imperial County,92233
+4878,San Diego County,92070
+4879,Fresno County,93602
+4880,El Dorado County,95667
+4881,Mendocino County,95459
+4882,Los Angeles County,90260
+4883,San Francisco County,94108
+4884,San Diego County,92027
+4885,Los Angeles County,91750
+4886,Los Angeles County,90712
+4887,Riverside County,92582
+4888,San Diego County,92122
+4889,Monterey County,95012
+4890,Humboldt County,95558
+4891,Tulare County,93244
+4892,Los Angeles County,91767
+4893,Stanislaus County,95382
+4894,Placer County,95678
+4895,Mendocino County,95420
+4896,Riverside County,92592
+4897,Santa Clara County,94040
+4898,Placer County,95677
+4899,Shasta County,96040
+4900,Los Angeles County,90265
+4901,Trinity County,96076
+4902,Los Angeles County,91024
+4903,Los Angeles County,90815
+4904,Orange County,90680
+4905,Butte County,95917
+4906,Yolo County,95695
+4907,Tuolumne County,95327
+4908,Los Angeles County,91303
+4909,San Diego County,92122
+4910,San Luis Obispo County,93452
+4911,San Bernardino County,91701
+4912,Contra Costa County,94506
+4913,Santa Cruz County,95076
+4914,Lake County,95461
+4915,Los Angeles County,91423
+4916,Yolo County,95618
+4917,Santa Clara County,94024
+4918,Los Angeles County,91702
+4919,Santa Clara County,95046
+4920,San Mateo County,94402
+4921,Los Angeles County,91206
+4922,Tulare County,93219
+4923,San Diego County,92059
+4924,Los Angeles County,90232
+4925,Amador County,95689
+4926,Lassen County,96123
+4927,Humboldt County,95521
+4928,Los Angeles County,91355
+4929,Los Angeles County,90001
+4930,Alameda County,94538
+4931,Los Angeles County,90031
+4932,Sacramento County,95826
+4933,Los Angeles County,91722
+4934,Santa Barbara County,93454
+4935,Lake County,95422
+4936,Amador County,95629
+4937,Contra Costa County,94572
+4938,Kern County,93312
+4939,Marin County,94940
+4940,Los Angeles County,91030
+4941,San Joaquin County,95237
+4942,Ventura County,93063
+4943,Riverside County,92595
+4944,San Francisco County,94121
+4945,Mariposa County,93623
+4946,Los Angeles County,91775
+4947,Riverside County,91752
+4948,Los Angeles County,90249
+4949,Riverside County,92253
+4950,San Bernardino County,92354
+4951,Yuba County,95901
+4952,Calaveras County,95246
+4953,Orange County,92602
+4954,Calaveras County,95255
+4955,Orange County,92627
+4956,San Diego County,92117
+4957,Lake County,95423
+4958,Orange County,92610
+4959,San Diego County,92007
+4960,Los Angeles County,91006
+4961,Orange County,92626
+4962,Los Angeles County,91304
+4963,Kern County,93518
+4964,Amador County,95642
+4965,Tulare County,93267
+4966,Santa Clara County,95116
+4967,Santa Clara County,94301
+4968,Marin County,94903
+4969,Marin County,94970
+4970,Los Angeles County,91765
+4971,Monterey County,95039
+4972,Tulare County,93270
+4973,Shasta County,96001
+4974,Los Angeles County,90274
+4975,Fresno County,93622
+4976,Tulare County,93292
+4977,Los Angeles County,90057
+4978,San Diego County,92107
+4979,Sonoma County,95442
+4980,Fresno County,93668
+4981,Fresno County,93704
+4982,Shasta County,96065
+4983,Los Angeles County,90029
+4984,San Diego County,92069
+4985,San Luis Obispo County,93446
+4986,Alameda County,94608
+4987,Los Angeles County,91040
+4988,Los Angeles County,90024
+4989,Orange County,92835
+4990,Los Angeles County,90810
+4991,Los Angeles County,91803
+4992,Los Angeles County,90049
+4993,Monterey County,95039
+4994,San Diego County,92027
+4995,Alameda County,94566
+4996,Riverside County,92592
+4997,Santa Barbara County,93108
+4998,Stanislaus County,95367
+4999,Los Angeles County,91741
+5000,Shasta County,96047
+5001,Stanislaus County,95316
+5002,Los Angeles County,90815
+5003,San Diego County,92009
+5004,Los Angeles County,91104
+5005,Los Angeles County,91343
+5006,San Diego County,92028
+5007,Placer County,95746
+5008,Colusa County,95987
+5009,Los Angeles County,93550
+5010,Placer County,95650
+5011,San Diego County,92131
+5012,Humboldt County,95573
+5013,Orange County,92656
+5014,Monterey County,95004
+5015,San Diego County,92036
+5016,Santa Cruz County,95017
+5017,San Diego County,92118
+5018,Monterey County,93908
+5019,San Diego County,92028
+5020,Los Angeles County,91765
+5021,Riverside County,92509
+5022,Imperial County,92249
+5023,Los Angeles County,93551
+5024,Madera County,93638
+5025,San Bernardino County,92356
+5026,San Diego County,92059
+5027,San Joaquin County,95207
+5028,Shasta County,96088
+5029,Orange County,92612
+5030,Ventura County,93030
+5031,Madera County,93645
+5032,Placer County,95658
+5033,San Diego County,92116
+5034,Ventura County,91360
+5035,Sacramento County,95624
+5036,Santa Cruz County,95064
+5037,Yolo County,95606
+5038,Butte County,95926
+5039,Placer County,96146
+5040,Contra Costa County,94583
+5041,Contra Costa County,94513
+5042,Los Angeles County,91311
+5043,Fresno County,93726
+5044,Napa County,94567
+5045,Sacramento County,95825
+5046,Mendocino County,95459
+5047,Los Angeles County,90039
+5048,Los Angeles County,91208
+5049,San Diego County,92037
+5050,Riverside County,92282
+5051,San Francisco County,94132
+5052,San Bernardino County,92284
+5053,Los Angeles County,91792
+5054,San Luis Obispo County,93422
+5055,San Mateo County,94030
+5056,Los Angeles County,91335
+5057,Los Angeles County,90056
+5058,Sacramento County,95834
+5059,Los Angeles County,90291
+5060,Alameda County,94542
+5061,Mendocino County,95420
+5062,Sonoma County,95452
+5063,Placer County,95713
+5064,Mariposa County,95338
+5065,El Dorado County,96150
+5066,Shasta County,96019
+5067,San Bernardino County,91710
+5068,Tuolumne County,95346
+5069,Mendocino County,95428
+5070,Riverside County,92518
+5071,Riverside County,92543
+5072,San Diego County,92130
+5073,Mendocino County,95427
+5074,San Diego County,92107
+5075,Los Angeles County,90713
+5076,Riverside County,92596
+5077,Los Angeles County,90004
+5078,San Joaquin County,95336
+5079,Sacramento County,95638
+5080,Alameda County,94544
+5081,Los Angeles County,90713
+5082,Los Angeles County,90304
+5083,Los Angeles County,91103
+5084,San Bernardino County,92374
+5085,Riverside County,92539
+5086,Butte County,95926
+5087,Los Angeles County,90805
+5088,Monterey County,93426
+5089,Ventura County,91377
+5090,Placer County,95703
+5091,Nevada County,95949
+5092,Los Angeles County,91401
+5093,Sutter County,95674
+5094,Humboldt County,95562
+5095,Mono County,93546
+5096,Los Angeles County,91746
+5097,San Joaquin County,95207
+5098,Sonoma County,95476
+5099,Mono County,93546
+5100,Los Angeles County,91350
+5101,San Diego County,92121
+5102,San Diego County,92114
+5103,Humboldt County,95525
+5104,Riverside County,92260
+5105,Kings County,93230
+5106,Modoc County,96108
+5107,Los Angeles County,91203
+5108,Los Angeles County,91789
+5109,Los Angeles County,91352
+5110,Los Angeles County,91745
+5111,Tehama County,96061
+5112,Los Angeles County,90715
+5113,Yuba County,95692
+5114,San Joaquin County,95219
+5115,Los Angeles County,90019
+5116,Los Angeles County,90004
+5117,Los Angeles County,91790
+5118,Merced County,95317
+5119,Sonoma County,95404
+5120,Monterey County,93901
+5121,Kern County,93560
+5122,Sacramento County,95683
+5123,Orange County,92606
+5124,Los Angeles County,90806
+5125,Los Angeles County,91775
+5126,Sacramento County,95683
+5127,Riverside County,92504
+5128,Alameda County,94703
+5129,Los Angeles County,90650
+5130,Mendocino County,95587
+5131,Los Angeles County,91405
+5132,Kern County,93285
+5133,San Mateo County,94015
+5134,San Mateo County,94066
+5135,Fresno County,93662
+5136,Los Angeles County,90302
+5137,Orange County,92840
+5138,Butte County,95966
+5139,San Mateo County,94403
+5140,Marin County,94956
+5141,Sutter County,95982
+5142,Los Angeles County,90010
+5143,San Diego County,92020
+5144,Sacramento County,95826
+5145,Los Angeles County,90266
+5146,Butte County,95928
+5147,San Diego County,92119
+5148,Marin County,94925
+5149,Colusa County,95987
+5150,Monterey County,93907
+5151,Merced County,95301
+5152,Santa Clara County,95051
+5153,Los Angeles County,90042
+5154,Contra Costa County,94509
+5155,Placer County,95765
+5156,San Diego County,91910
+5157,Tuolumne County,95383
+5158,Amador County,95642
+5159,San Diego County,91914
+5160,San Francisco County,94116
+5161,Riverside County,92586
+5162,Kings County,93245
+5163,San Luis Obispo County,93420
+5164,San Bernardino County,92359
+5165,Los Angeles County,91010
+5166,San Diego County,92126
+5167,Marin County,94941
+5168,Ventura County,91360
+5169,Yolo County,95616
+5170,San Mateo County,94019
+5171,Nevada County,95959
+5172,Ventura County,93035
+5173,Napa County,94574
+5174,Orange County,92653
+5175,San Bernardino County,91786
+5176,Santa Barbara County,93111
+5177,Los Angeles County,90803
+5178,Los Angeles County,90706
+5179,Los Angeles County,90004
+5180,San Mateo County,94062
+5181,Orange County,92802
+5182,Ventura County,93021
+5183,Los Angeles County,91411
+5184,San Diego County,91978
+5185,Yuba County,95935
+5186,San Francisco County,94104
+5187,Los Angeles County,93543
+5188,San Bernardino County,92404
+5189,Riverside County,92507
+5190,Tuolumne County,95310
+5191,Fresno County,93654
+5192,Los Angeles County,91367
+5193,Humboldt County,95565
+5194,Riverside County,92532
+5195,Stanislaus County,95361
+5196,Inyo County,93526
+5197,San Diego County,92065
+5198,San Luis Obispo County,93405
+5199,San Diego County,92122
+5200,Fresno County,93602
+5201,Glenn County,95943
+5202,Fresno County,93641
+5203,Placer County,95747
+5204,Orange County,92832
+5205,San Francisco County,94111
+5206,San Mateo County,94061
+5207,San Francisco County,94131
+5208,Marin County,94939
+5209,San Diego County,92117
+5210,Mendocino County,95466
+5211,Los Angeles County,90040
+5212,Riverside County,92548
+5213,Santa Cruz County,95010
+5214,Los Angeles County,90027
+5215,Orange County,92861
+5216,Los Angeles County,91108
+5217,Los Angeles County,90059
+5218,Orange County,92844
+5219,Los Angeles County,91203
+5220,Colusa County,95932
+5221,San Diego County,92130
+5222,Los Angeles County,91302
+5223,Alameda County,94601
+5224,Los Angeles County,91020
+5225,San Diego County,92070
+5226,Riverside County,92882
+5227,Sacramento County,95641
+5228,Los Angeles County,90242
+5229,Orange County,92806
+5230,San Mateo County,94404
+5231,San Joaquin County,95376
+5232,Orange County,92688
+5233,Alameda County,94542
+5234,Sacramento County,95655
+5235,San Diego County,91977
+5236,Kern County,93268
+5237,Tehama County,96021
+5238,Santa Cruz County,95076
+5239,Shasta County,96051
+5240,San Bernardino County,91764
+5241,Orange County,92655
+5242,Los Angeles County,90606
+5243,Shasta County,96062
+5244,San Bernardino County,92397
+5245,San Diego County,92109
+5246,Los Angeles County,91208
+5247,San Diego County,92109
+5248,San Diego County,92121
+5249,Lake County,95458
+5250,Placer County,95648
+5251,Los Angeles County,91351
+5252,Contra Costa County,94804
+5253,Ventura County,93030
+5254,Mendocino County,95494
+5255,Los Angeles County,91768
+5256,San Diego County,92126
+5257,Fresno County,93720
+5258,Orange County,92602
+5259,Orange County,92832
+5260,Los Angeles County,91604
+5261,Placer County,95681
+5262,Los Angeles County,91304
+5263,El Dorado County,95672
+5264,San Diego County,91978
+5265,Orange County,92676
+5266,Sutter County,95668
+5267,Los Angeles County,91204
+5268,Los Angeles County,90275
+5269,Yolo County,95627
+5270,San Diego County,92113
+5271,Yolo County,95612
+5272,Santa Clara County,95124
+5273,San Diego County,92117
+5274,Merced County,95317
+5275,Los Angeles County,90014
+5276,Los Angeles County,91335
+5277,Kings County,93239
+5278,Santa Clara County,95116
+5279,Orange County,92806
+5280,San Diego County,92122
+5281,Madera County,93643
+5282,Monterey County,93923
+5283,Riverside County,92201
+5284,Kern County,93226
+5285,Orange County,92804
+5286,San Diego County,92086
+5287,San Francisco County,94111
+5288,Los Angeles County,90280
+5289,Los Angeles County,90260
+5290,Los Angeles County,91326
+5291,San Diego County,92027
+5292,Sonoma County,95401
+5293,Santa Clara County,95128
+5294,Placer County,95678
+5295,Los Angeles County,90247
+5296,Solano County,94589
+5297,Siskiyou County,96085
+5298,San Bernardino County,92309
+5299,Alameda County,94709
+5300,San Mateo County,94066
+5301,Monterey County,93907
+5302,Ventura County,93003
+5303,Orange County,92653
+5304,Kern County,93313
+5305,Butte County,95948
+5306,Contra Costa County,94803
+5307,San Diego County,91934
+5308,Tuolumne County,95364
+5309,Los Angeles County,91384
+5310,Los Angeles County,90278
+5311,Siskiyou County,96023
+5312,Sonoma County,94928
+5313,Inyo County,93514
+5314,San Diego County,92103
+5315,Los Angeles County,90061
+5316,San Bernardino County,92407
+5317,Santa Barbara County,93454
+5318,Butte County,95954
+5319,Los Angeles County,90022
+5320,Contra Costa County,94565
+5321,Alameda County,94605
+5322,Placer County,95661
+5323,Los Angeles County,91214
+5324,Los Angeles County,90042
+5325,Los Angeles County,93535
+5326,Shasta County,96056
+5327,Orange County,92782
+5328,Orange County,90680
+5329,San Francisco County,94105
+5330,Lassen County,96117
+5331,San Diego County,91941
+5332,Orange County,92705
+5333,Los Angeles County,90660
+5334,San Diego County,92117
+5335,Fresno County,93702
+5336,Los Angeles County,90254
+5337,Sacramento County,95742
+5338,Los Angeles County,90005
+5339,Alameda County,94560
+5340,Los Angeles County,90018
+5341,Orange County,92604
+5342,Kern County,93240
+5343,Contra Costa County,94530
+5344,Los Angeles County,91042
+5345,Los Angeles County,91702
+5346,San Bernardino County,91764
+5347,San Diego County,91914
+5348,San Diego County,92173
+5349,Sacramento County,95834
+5350,Riverside County,92506
+5351,Orange County,92886
+5352,Contra Costa County,94517
+5353,Orange County,92861
+5354,Ventura County,91320
+5355,San Diego County,91945
+5356,Ventura County,93035
+5357,San Francisco County,94118
+5358,Los Angeles County,91505
+5359,El Dorado County,95634
+5360,Riverside County,92571
+5361,Sierra County,95910
+5362,Merced County,95322
+5363,San Mateo County,94010
+5364,Kern County,93518
+5365,Sacramento County,95825
+5366,Sacramento County,95827
+5367,Marin County,94970
+5368,Los Angeles County,90249
+5369,San Diego County,91911
+5370,San Bernardino County,91786
+5371,Los Angeles County,91105
+5372,Kern County,93501
+5373,Los Angeles County,91740
+5374,Mendocino County,95410
+5375,San Francisco County,94116
+5376,Santa Clara County,94086
+5377,Calaveras County,95246
+5378,Plumas County,96105
+5379,Alameda County,94619
+5380,Siskiyou County,96067
+5381,Los Angeles County,90041
+5382,Solano County,94571
+5383,Santa Clara County,95134
+5384,Los Angeles County,90732
+5385,Merced County,95315
+5386,Tehama County,96029
+5387,San Bernardino County,92371
+5388,Riverside County,92880
+5389,Tulare County,93277
+5390,Los Angeles County,93591
+5391,Fresno County,93609
+5392,San Francisco County,94104
+5393,Sonoma County,95465
+5394,San Diego County,91935
+5395,Los Angeles County,91803
+5396,San Diego County,91977
+5397,Merced County,95348
+5398,Orange County,92801
+5399,San Diego County,92123
+5400,Los Angeles County,90028
+5401,Contra Costa County,94506
+5402,Calaveras County,95223
+5403,Santa Barbara County,93103
+5404,Los Angeles County,91203
+5405,San Diego County,92028
+5406,Los Angeles County,90048
+5407,Los Angeles County,91325
+5408,San Benito County,95043
+5409,Los Angeles County,91321
+5410,San Diego County,92154
+5411,Riverside County,92210
+5412,San Luis Obispo County,93444
+5413,San Bernardino County,92376
+5414,Los Angeles County,90008
+5415,Riverside County,92276
+5416,Fresno County,93602
+5417,Orange County,90630
+5418,San Mateo County,94063
+5419,Lassen County,96132
+5420,San Luis Obispo County,93405
+5421,Santa Clara County,95134
+5422,Solano County,94510
+5423,Los Angeles County,91767
+5424,Merced County,95333
+5425,Alameda County,94708
+5426,Sonoma County,94931
+5427,Kern County,93313
+5428,Santa Clara County,95054
+5429,Los Angeles County,90038
+5430,Butte County,95916
+5431,Orange County,92679
+5432,San Bernardino County,92397
+5433,Kern County,93304
+5434,Los Angeles County,90008
+5435,Los Angeles County,90248
+5436,San Joaquin County,95366
+5437,Alameda County,94601
+5438,Nevada County,95960
+5439,Butte County,95973
+5440,Los Angeles County,91205
+5441,Alameda County,94587
+5442,Napa County,94574
+5443,San Diego County,92028
+5444,Santa Clara County,95132
+5445,San Bernardino County,92410
+5446,Riverside County,92590
+5447,Los Angeles County,90254
+5448,Mendocino County,95437
+5449,Orange County,92704
+5450,Los Angeles County,90035
+5451,San Bernardino County,91739
+5452,San Mateo County,94404
+5453,Orange County,92614
+5454,Los Angeles County,90016
+5455,Contra Costa County,94523
+5456,Sonoma County,95472
+5457,Butte County,95968
+5458,Ventura County,91360
+5459,Sacramento County,95841
+5460,Riverside County,92587
+5461,Alameda County,94552
+5462,Tuolumne County,95310
+5463,Los Angeles County,90813
+5464,Los Angeles County,90723
+5465,Orange County,90620
+5466,Los Angeles County,90012
+5467,Shasta County,96062
+5468,Shasta County,96051
+5469,Tulare County,93207
+5470,Mono County,93517
+5471,Riverside County,92592
+5472,Humboldt County,95521
+5473,Calaveras County,95222
+5474,Alameda County,94603
+5475,Los Angeles County,91007
+5476,Alameda County,94606
+5477,Santa Cruz County,95060
+5478,San Bernardino County,91737
+5479,Solano County,94571
+5480,Alameda County,94618
+5481,Marin County,94947
+5482,San Joaquin County,95231
+5483,Monterey County,93906
+5484,Los Angeles County,90292
+5485,Santa Barbara County,93434
+5486,Alameda County,94706
+5487,Orange County,92630
+5488,Los Angeles County,91204
+5489,Sacramento County,95632
+5490,San Bernardino County,92336
+5491,Ventura County,91362
+5492,Sacramento County,95814
+5493,Los Angeles County,91301
+5494,San Diego County,92103
+5495,Fresno County,93703
+5496,Alameda County,94607
+5497,Sacramento County,95608
+5498,Imperial County,92283
+5499,Riverside County,92860
+5500,Santa Clara County,95119
+5501,Monterey County,93905
+5502,Los Angeles County,91706
+5503,San Diego County,91916
+5504,Contra Costa County,94517
+5505,San Diego County,92126
+5506,Los Angeles County,90731
+5507,Riverside County,92590
+5508,Fresno County,93710
+5509,Sonoma County,95446
+5510,Fresno County,93628
+5511,San Diego County,92109
+5512,San Bernardino County,92356
+5513,Orange County,92688
+5514,Stanislaus County,95386
+5515,Tuolumne County,95372
+5516,Los Angeles County,91042
+5517,Los Angeles County,90265
+5518,Kern County,93238
+5519,Marin County,94945
+5520,Colusa County,95979
+5521,Sacramento County,95814
+5522,Humboldt County,95540
+5523,Solano County,94535
+5524,Kings County,93245
+5525,Humboldt County,95511
+5526,Orange County,92649
+5527,Riverside County,92555
+5528,Los Angeles County,90293
+5529,Los Angeles County,90807
+5530,Riverside County,92236
+5531,Los Angeles County,91331
+5532,Los Angeles County,90731
+5533,Orange County,92647
+5534,Tehama County,96022
+5535,Tulare County,93235
+5536,Sonoma County,95412
+5537,Merced County,95301
+5538,Los Angeles County,90260
+5539,Alameda County,94577
+5540,Los Angeles County,91010
+5541,Los Angeles County,91722
+5542,Trinity County,96010
+5543,San Diego County,92117
+5544,Santa Clara County,94024
+5545,Los Angeles County,90806
+5546,San Luis Obispo County,93420
+5547,Fresno County,93706
+5548,San Joaquin County,95215
+5549,Alameda County,94703
+5550,San Diego County,92130
+5551,Merced County,95348
+5552,Contra Costa County,94556
+5553,Napa County,94515
+5554,Los Angeles County,90706
+5555,Orange County,92843
+5556,Santa Clara County,95037
+5557,Los Angeles County,90265
+5558,Los Angeles County,91711
+5559,San Bernardino County,92335
+5560,Los Angeles County,90047
+5561,Los Angeles County,90026
+5562,Sonoma County,95450
+5563,Los Angeles County,90502
+5564,San Diego County,92028
+5565,Contra Costa County,94564
+5566,Plumas County,95934
+5567,Riverside County,92591
+5568,San Joaquin County,95320
+5569,Placer County,95703
+5570,San Mateo County,94303
+5571,Los Angeles County,91042
+5572,San Bernardino County,92404
+5573,Riverside County,92503
+5574,San Bernardino County,92342
+5575,Orange County,92703
+5576,Santa Clara County,94022
+5577,Fresno County,93710
+5578,San Diego County,91915
+5579,Los Angeles County,90703
+5580,Riverside County,92539
+5581,San Diego County,92026
+5582,Fresno County,93656
+5583,Sacramento County,95838
+5584,Los Angeles County,90220
+5585,Contra Costa County,94806
+5586,Santa Clara County,95130
+5587,San Bernardino County,92372
+5588,Butte County,95954
+5589,El Dorado County,95720
+5590,San Diego County,92109
+5591,Butte County,95941
+5592,Los Angeles County,90292
+5593,Siskiyou County,96086
+5594,Los Angeles County,90066
+5595,Santa Cruz County,95010
+5596,Riverside County,92532
+5597,Merced County,95303
+5598,Tulare County,93647
+5599,Los Angeles County,91776
+5600,Los Angeles County,90270
+5601,Humboldt County,95536
+5602,Stanislaus County,95361
+5603,El Dorado County,95636
+5604,Santa Clara County,95125
+5605,Los Angeles County,90067
+5606,Monterey County,95039
+5607,Riverside County,92501
+5608,Fresno County,93667
+5609,Los Angeles County,90605
+5610,Los Angeles County,90029
+5611,Sacramento County,95834
+5612,San Mateo County,94028
+5613,Fresno County,93668
+5614,Stanislaus County,95360
+5615,Riverside County,92883
+5616,Los Angeles County,90504
+5617,Riverside County,92561
+5618,Sacramento County,95838
+5619,Madera County,93643
+5620,Marin County,94946
+5621,Sacramento County,95822
+5622,San Diego County,92110
+5623,Fresno County,93612
+5624,Los Angeles County,90004
+5625,Los Angeles County,90038
+5626,Fresno County,93722
+5627,Butte County,95928
+5628,Shasta County,96007
+5629,Riverside County,92567
+5630,Sacramento County,95624
+5631,Del Norte County,95543
+5632,San Diego County,92024
+5633,Santa Clara County,94087
+5634,Los Angeles County,93552
+5635,San Diego County,91980
+5636,Shasta County,96017
+5637,Siskiyou County,96085
+5638,Los Angeles County,91343
+5639,Mendocino County,95463
+5640,Monterey County,93906
+5641,El Dorado County,95664
+5642,Shasta County,96017
+5643,Placer County,95661
+5644,Santa Cruz County,95065
+5645,Riverside County,92530
+5646,Kings County,93202
+5647,Los Angeles County,91789
+5648,Los Angeles County,90042
+5649,Los Angeles County,91302
+5650,Siskiyou County,96025
+5651,Sacramento County,95829
+5652,San Diego County,92117
+5653,Imperial County,92283
+5654,Los Angeles County,91792
+5655,El Dorado County,95664
+5656,Placer County,95631
+5657,Monterey County,93908
+5658,Los Angeles County,91722
+5659,San Diego County,92109
+5660,Kern County,93301
+5661,Sacramento County,95823
+5662,El Dorado County,95635
+5663,Orange County,92845
+5664,Mendocino County,95449
+5665,Riverside County,92587
+5666,El Dorado County,95709
+5667,Madera County,93601
+5668,Los Angeles County,90640
+5669,Orange County,92887
+5670,Orange County,92867
+5671,San Diego County,92091
+5672,Placer County,95703
+5673,Orange County,92832
+5674,Fresno County,93242
+5675,Alameda County,94577
+5676,Santa Clara County,95128
+5677,Butte County,95916
+5678,Butte County,95948
+5679,Los Angeles County,90603
+5680,Alameda County,94545
+5681,Los Angeles County,90066
+5682,Los Angeles County,90032
+5683,Los Angeles County,90222
+5684,Riverside County,92203
+5685,Santa Clara County,95136
+5686,Los Angeles County,91791
+5687,Los Angeles County,90022
+5688,Los Angeles County,90660
+5689,Sonoma County,95448
+5690,San Diego County,92109
+5691,Solano County,95620
+5692,Napa County,94599
+5693,Riverside County,92223
+5694,Plumas County,95934
+5695,Los Angeles County,91356
+5696,Yolo County,95691
+5697,Sacramento County,95815
+5698,Kern County,93225
+5699,Santa Clara County,95127
+5700,Los Angeles County,91741
+5701,Los Angeles County,90048
+5702,San Diego County,92028
+5703,Mendocino County,95466
+5704,Mendocino County,95466
+5705,Orange County,92646
+5706,Shasta County,96071
+5707,Calaveras County,95222
+5708,Ventura County,91320
+5709,Stanislaus County,95356
+5710,Sacramento County,95827
+5711,Sacramento County,95828
+5712,San Francisco County,94133
+5713,Contra Costa County,94553
+5714,San Diego County,92118
+5715,Contra Costa County,94530
+5716,Contra Costa County,94598
+5717,San Bernardino County,92373
+5718,Riverside County,92562
+5719,Mendocino County,95437
+5720,San Diego County,92109
+5721,Los Angeles County,90011
+5722,Kern County,93560
+5723,Santa Cruz County,95062
+5724,San Diego County,92129
+5725,Orange County,92624
+5726,Orange County,92866
+5727,Los Angeles County,91502
+5728,San Joaquin County,95220
+5729,El Dorado County,95623
+5730,San Bernardino County,92337
+5731,Sacramento County,95819
+5732,Ventura County,93063
+5733,Ventura County,93065
+5734,Shasta County,96073
+5735,Yuba County,95918
+5736,Sonoma County,94952
+5737,Ventura County,93041
+5738,San Diego County,92117
+5739,Los Angeles County,90043
+5740,Santa Clara County,94089
+5741,Tulare County,93257
+5742,Monterey County,93930
+5743,Sonoma County,95405
+5744,Los Angeles County,90061
+5745,Sacramento County,95615
+5746,Monterey County,93908
+5747,Lake County,95464
+5748,Los Angeles County,90803
+5749,Orange County,92614
+5750,Los Angeles County,90249
+5751,Lassen County,96132
+5752,Marin County,94970
+5753,Placer County,95678
+5754,El Dorado County,95762
+5755,Fresno County,93609
+5756,San Bernardino County,92339
+5757,Los Angeles County,90266
+5758,Riverside County,92505
+5759,El Dorado County,95614
+5760,San Bernardino County,92368
+5761,Butte County,95917
+5762,San Diego County,92117
+5763,Tuolumne County,95329
+5764,Plumas County,96105
+5765,Butte County,95938
+5766,Los Angeles County,93534
+5767,Sacramento County,95621
+5768,Orange County,92624
+5769,Contra Costa County,94595
+5770,Butte County,95966
+5771,San Francisco County,94123
+5772,San Bernardino County,92332
+5773,Fresno County,93651
+5774,Los Angeles County,91607
+5775,Kern County,93240
+5776,Solano County,94590
+5777,Los Angeles County,90042
+5778,Alameda County,94550
+5779,Los Angeles County,90045
+5780,San Joaquin County,95336
+5781,Santa Clara County,95111
+5782,Los Angeles County,91606
+5783,San Mateo County,94010
+5784,Los Angeles County,90201
+5785,Los Angeles County,91504
+5786,Riverside County,92882
+5787,San Francisco County,94122
+5788,Los Angeles County,90260
+5789,Stanislaus County,95328
+5790,Santa Barbara County,93110
+5791,San Diego County,92028
+5792,Yolo County,95618
+5793,Humboldt County,95546
+5794,Kern County,93251
+5795,Los Angeles County,90746
+5796,Los Angeles County,90280
+5797,San Bernardino County,92314
+5798,Los Angeles County,91302
+5799,Santa Barbara County,93105
+5800,Kern County,93249
+5801,Los Angeles County,90807
+5802,Orange County,90680
+5803,San Diego County,92083
+5804,Mariposa County,95325
+5805,Tehama County,96080
+5806,Sacramento County,95835
+5807,San Mateo County,94063
+5808,Los Angeles County,90717
+5809,Solano County,95687
+5810,San Bernardino County,91761
+5811,Riverside County,92545
+5812,Los Angeles County,93543
+5813,San Diego County,92107
+5814,San Bernardino County,92358
+5815,Sonoma County,95465
+5816,Los Angeles County,91411
+5817,Stanislaus County,95323
+5818,Riverside County,92586
+5819,Calaveras County,95223
+5820,Los Angeles County,91340
+5821,Riverside County,92240
+5822,Los Angeles County,90822
+5823,Modoc County,96006
+5824,Shasta County,96071
+5825,Santa Clara County,95020
+5826,Mendocino County,95429
+5827,Sonoma County,95448
+5828,El Dorado County,95633
+5829,Merced County,95340
+5830,Los Angeles County,90745
+5831,San Diego County,92065
+5832,Alameda County,94560
+5833,Alameda County,94602
+5834,Santa Barbara County,93013
+5835,Monterey County,93950
+5836,San Diego County,91905
+5837,Los Angeles County,91401
+5838,San Diego County,92086
+5839,San Francisco County,94112
+5840,Los Angeles County,91506
+5841,San Diego County,92027
+5842,Riverside County,92883
+5843,San Francisco County,94109
+5844,Alameda County,94603
+5845,Santa Cruz County,95033
+5846,Santa Clara County,95050
+5847,San Diego County,92061
+5848,San Bernardino County,92315
+5849,El Dorado County,95720
+5850,San Diego County,92028
+5851,Fresno County,93611
+5852,San Diego County,92126
+5853,Los Angeles County,90277
+5854,El Dorado County,95726
+5855,Riverside County,92254
+5856,Humboldt County,95560
+5857,Contra Costa County,94513
+5858,Trinity County,96024
+5859,San Diego County,92122
+5860,Merced County,95388
+5861,Los Angeles County,91706
+5862,Sutter County,95991
+5863,Los Angeles County,90232
+5864,Riverside County,92563
+5865,San Bernardino County,92301
+5866,Riverside County,92582
+5867,Monterey County,93933
+5868,Monterey County,93905
+5869,Monterey County,93901
+5870,Humboldt County,95558
+5871,San Joaquin County,95376
+5872,San Diego County,92117
+5873,Los Angeles County,90744
+5874,Los Angeles County,90806
+5875,Mendocino County,95488
+5876,San Bernardino County,92364
+5877,San Bernardino County,91710
+5878,Monterey County,93960
+5879,Mendocino County,95456
+5880,Santa Clara County,95046
+5881,San Joaquin County,95336
+5882,El Dorado County,95651
+5883,Santa Cruz County,95005
+5884,San Joaquin County,95366
+5885,Santa Barbara County,93254
+5886,Merced County,95324
+5887,San Bernardino County,92405
+5888,San Diego County,92126
+5889,Nevada County,95960
+5890,Nevada County,95945
+5891,Fresno County,93667
+5892,Santa Barbara County,93436
+5893,Monterey County,93908
+5894,Yuba County,95922
+5895,San Luis Obispo County,93433
+5896,Los Angeles County,90059
+5897,Santa Barbara County,93013
+5898,San Diego County,91934
+5899,Alameda County,94577
+5900,San Diego County,92102
+5901,Monterey County,93940
+5902,Sacramento County,95660
+5903,San Joaquin County,95205
+5904,San Mateo County,94065
+5905,Kings County,93245
+5906,Alameda County,94538
+5907,Kings County,93266
+5908,Los Angeles County,90010
+5909,Los Angeles County,90057
+5910,Calaveras County,95251
+5911,Orange County,92706
+5912,Sutter County,95659
+5913,Los Angeles County,91405
+5914,Marin County,94941
+5915,Lake County,95464
+5916,Solano County,94585
+5917,Alameda County,94555
+5918,Fresno County,93657
+5919,San Bernardino County,92337
+5920,San Mateo County,94080
+5921,Glenn County,95920
+5922,Tulare County,93647
+5923,Los Angeles County,90014
+5924,San Diego County,92117
+5925,Los Angeles County,91342
+5926,Fresno County,93721
+5927,Mono County,96133
+5928,Fresno County,93664
+5929,Riverside County,92882
+5930,Los Angeles County,90062
+5931,Fresno County,93210
+5932,San Francisco County,94121
+5933,Kings County,93239
+5934,Los Angeles County,90023
+5935,San Joaquin County,95204
+5936,Los Angeles County,90810
+5937,Ventura County,93041
+5938,Riverside County,92596
+5939,Santa Cruz County,95018
+5940,Alameda County,94539
+5941,Calaveras County,95251
+5942,Los Angeles County,90745
+5943,Riverside County,92211
+5944,Los Angeles County,91403
+5945,Sacramento County,95819
+5946,Ventura County,91320
+5947,Siskiyou County,96057
+5948,Alameda County,94706
+5949,Calaveras County,95251
+5950,Los Angeles County,90262
+5951,San Francisco County,94124
+5952,Glenn County,95963
+5953,Fresno County,93706
+5954,Butte County,95969
+5955,Alameda County,94709
+5956,Imperial County,92257
+5957,Lassen County,96136
+5958,San Francisco County,94110
+5959,Imperial County,92249
+5960,Fresno County,93621
+5961,Glenn County,95963
+5962,Sacramento County,95690
+5963,Los Angeles County,90033
+5964,San Mateo County,94060
+5965,Los Angeles County,91606
+5966,Riverside County,92260
+5967,Fresno County,93675
+5968,San Bernardino County,91762
+5969,Shasta County,96008
+5970,Los Angeles County,90005
+5971,Santa Barbara County,93013
+5972,Los Angeles County,90011
+5973,Yuba County,95918
+5974,Orange County,92845
+5975,San Diego County,92121
+5976,San Joaquin County,95220
+5977,San Diego County,92028
+5978,Los Angeles County,93591
+5979,Kern County,93311
+5980,Santa Clara County,95037
+5981,Monterey County,93925
+5982,Siskiyou County,96050
+5983,Mendocino County,95469
+5984,Los Angeles County,91205
+5985,Los Angeles County,90813
+5986,Los Angeles County,90026
+5987,San Diego County,91902
+5988,Humboldt County,95570
+5989,Sacramento County,95615
+5990,Los Angeles County,91331
+5991,Stanislaus County,95351
+5992,Humboldt County,95542
+5993,Riverside County,92860
+5994,Orange County,92801
+5995,Los Angeles County,91702
+5996,Orange County,92612
+5997,Sacramento County,95843
+5998,Ventura County,91362
+5999,El Dorado County,95651
+6000,Riverside County,92545
+6001,Yuba County,95919
+6002,San Diego County,92110
+6003,Alameda County,94536
+6004,Riverside County,92545
+6005,Glenn County,95939
+6006,Los Angeles County,90006
+6007,Riverside County,92555
+6008,San Diego County,91962
+6009,San Diego County,91932
+6010,Plumas County,96020
+6011,Sutter County,95957
+6012,Los Angeles County,91326
+6013,Plumas County,95971
+6014,Santa Clara County,95130
+6015,Colusa County,95970
+6016,Shasta County,96028
+6017,Kern County,93251
+6018,Sutter County,95674
+6019,Kings County,93204
+6020,San Mateo County,94020
+6021,Riverside County,92240
+6022,Orange County,92802
+6023,Amador County,95689
+6024,Los Angeles County,91214
+6025,San Bernardino County,92358
+6026,Sonoma County,94922
+6027,Alameda County,94538
+6028,El Dorado County,95684
+6029,Humboldt County,95528
+6030,Los Angeles County,91343
+6031,San Joaquin County,95237
+6032,Contra Costa County,94519
+6033,Sacramento County,95638
+6034,Alameda County,94609
+6035,San Mateo County,94404
+6036,San Diego County,92082
+6037,Los Angeles County,90036
+6038,Fresno County,93242
+6039,Los Angeles County,90066
+6040,Los Angeles County,91204
+6041,Alameda County,94566
+6042,Merced County,95322
+6043,San Diego County,92008
+6044,Lake County,95485
+6045,Santa Clara County,95125
+6046,San Diego County,92119
+6047,Los Angeles County,91731
+6048,San Diego County,92040
+6049,San Bernardino County,92345
+6050,Monterey County,93450
+6051,Los Angeles County,90247
+6052,Sacramento County,95832
+6053,Trinity County,96052
+6054,Los Angeles County,90660
+6055,Alameda County,94611
+6056,Santa Clara County,94043
+6057,Santa Cruz County,95003
+6058,Santa Barbara County,93013
+6059,Santa Cruz County,95076
+6060,San Diego County,92004
+6061,San Bernardino County,92377
+6062,Solano County,94512
+6063,Los Angeles County,91011
+6064,Orange County,90631
+6065,Sonoma County,95412
+6066,Los Angeles County,91381
+6067,Santa Barbara County,93109
+6068,Los Angeles County,90241
+6069,Riverside County,92563
+6070,Sacramento County,95608
+6071,Mendocino County,95429
+6072,El Dorado County,95614
+6073,Alameda County,94560
+6074,San Diego County,92075
+6075,Los Angeles County,90061
+6076,Kern County,93307
+6077,San Diego County,92117
+6078,Los Angeles County,91006
+6079,Kern County,93215
+6080,Sonoma County,95462
+6081,Los Angeles County,90303
+6082,San Diego County,92139
+6083,Imperial County,92249
+6084,Humboldt County,95546
+6085,Tulare County,93274
+6086,Santa Clara County,95050
+6087,Orange County,90621
+6088,Los Angeles County,91801
+6089,Contra Costa County,94520
+6090,Kern County,93306
+6091,San Diego County,92028
+6092,San Diego County,92066
+6093,Mendocino County,95445
+6094,Alameda County,94708
+6095,San Diego County,92126
+6096,Butte County,95948
+6097,Orange County,92782
+6098,Los Angeles County,90504
+6099,Humboldt County,95560
+6100,Los Angeles County,91423
+6101,Siskiyou County,96027
+6102,San Diego County,92037
+6103,Sacramento County,95837
+6104,Riverside County,92567
+6105,Madera County,93604
+6106,Alameda County,94588
+6107,San Bernardino County,92242
+6108,San Bernardino County,92376
+6109,Los Angeles County,90701
+6110,Riverside County,92210
+6111,Los Angeles County,90044
+6112,Stanislaus County,95323
+6113,Solano County,94535
+6114,San Diego County,92130
+6115,Tulare County,93618
+6116,Los Angeles County,90025
+6117,Imperial County,92231
+6118,Yuba County,95901
+6119,Riverside County,92532
+6120,San Diego County,92117
+6121,San Diego County,92054
+6122,Trinity County,95527
+6123,Yolo County,95691
+6124,Los Angeles County,90275
+6125,Contra Costa County,94526
+6126,Los Angeles County,91765
+6127,Marin County,94924
+6128,Lassen County,96117
+6129,Riverside County,92561
+6130,Kern County,93561
+6131,Santa Clara County,95116
+6132,Monterey County,93955
+6133,Ventura County,91362
+6134,Placer County,95658
+6135,Merced County,95340
+6136,Los Angeles County,91791
+6137,Placer County,95603
+6138,Los Angeles County,91732
+6139,Sacramento County,95820
+6140,Placer County,95663
+6141,Stanislaus County,95363
+6142,Kern County,93518
+6143,Sonoma County,95409
+6144,Contra Costa County,94595
+6145,Santa Clara County,95127
+6146,San Diego County,92126
+6147,Glenn County,95939
+6148,San Diego County,92109
+6149,Los Angeles County,90601
+6150,Mendocino County,95460
+6151,Santa Cruz County,95076
+6152,Imperial County,92251
+6153,Riverside County,92879
+6154,San Diego County,91902
+6155,Humboldt County,95573
+6156,Calaveras County,95249
+6157,San Diego County,92020
+6158,Los Angeles County,91106
+6159,San Diego County,92105
+6160,Glenn County,95988
+6161,Orange County,92780
+6162,Tulare County,93292
+6163,San Bernardino County,91784
+6164,San Joaquin County,95204
+6165,Orange County,92861
+6166,Kern County,93238
+6167,Lassen County,96117
+6168,Plumas County,95971
+6169,Los Angeles County,90605
+6170,San Diego County,92109
+6171,Monterey County,93927
+6172,Solano County,94590
+6173,Kern County,93241
+6174,San Diego County,92119
+6175,Orange County,92833
+6176,Los Angeles County,91030
+6177,Kern County,93203
+6178,Orange County,92679
+6179,Los Angeles County,91354
+6180,Tulare County,93219
+6181,Los Angeles County,90815
+6182,Los Angeles County,91790
+6183,Santa Clara County,95054
+6184,Santa Barbara County,93455
+6185,San Francisco County,94103
+6186,San Luis Obispo County,93451
+6187,Riverside County,92234
+6188,Fresno County,93667
+6189,San Diego County,92071
+6190,Los Angeles County,90245
+6191,San Diego County,91950
+6192,Kern County,93250
+6193,Los Angeles County,90025
+6194,San Diego County,92121
+6195,San Francisco County,94117
+6196,San Diego County,92122
+6197,Riverside County,92544
+6198,Los Angeles County,93551
+6199,San Joaquin County,95204
+6200,Los Angeles County,90813
+6201,San Diego County,91914
+6202,Sacramento County,95828
+6203,Orange County,92841
+6204,San Diego County,92117
+6205,Los Angeles County,90266
+6206,Sierra County,96118
+6207,Los Angeles County,90303
+6208,Mendocino County,95429
+6209,Kern County,93283
+6210,Los Angeles County,93536
+6211,Santa Clara County,94304
+6212,Santa Clara County,95138
+6213,San Francisco County,94131
+6214,Alameda County,94502
+6215,Lassen County,96130
+6216,Modoc County,96104
+6217,Los Angeles County,90241
+6218,San Francisco County,94102
+6219,San Bernardino County,92377
+6220,Los Angeles County,90804
+6221,Merced County,93635
+6222,San Diego County,92028
+6223,San Diego County,92126
+6224,Merced County,95303
+6225,San Diego County,92071
+6226,Los Angeles County,90003
+6227,Los Angeles County,91791
+6228,Orange County,92708
+6229,Nevada County,95946
+6230,Stanislaus County,95380
+6231,Los Angeles County,93550
+6232,Fresno County,93668
+6233,Tehama County,96021
+6234,San Joaquin County,95330
+6235,Los Angeles County,90018
+6236,Los Angeles County,90013
+6237,Marin County,94901
+6238,San Luis Obispo County,93422
+6239,Sacramento County,95655
+6240,Kern County,93516
+6241,San Luis Obispo County,93402
+6242,San Diego County,92027
+6243,Kern County,93226
+6244,Alameda County,94707
+6245,San Diego County,92021
+6246,Los Angeles County,91750
+6247,Los Angeles County,91307
+6248,Lake County,95451
+6249,Mendocino County,95454
+6250,Sacramento County,95608
+6251,Stanislaus County,95368
+6252,San Diego County,92126
+6253,Santa Clara County,95125
+6254,Los Angeles County,90041
+6255,Santa Clara County,94304
+6256,Plumas County,95947
+6257,Los Angeles County,90003
+6258,Los Angeles County,90065
+6259,San Diego County,92082
+6260,Los Angeles County,91711
+6261,San Diego County,92028
+6262,Ventura County,93060
+6263,Los Angeles County,90255
+6264,Contra Costa County,94803
+6265,San Diego County,92054
+6266,Riverside County,92260
+6267,Tehama County,96080
+6268,Contra Costa County,94565
+6269,San Bernardino County,92354
+6270,San Bernardino County,92335
+6271,Placer County,95677
+6272,Mendocino County,95585
+6273,San Diego County,92173
+6274,Plumas County,96103
+6275,El Dorado County,96150
+6276,Colusa County,95987
+6277,Madera County,93614
+6278,Contra Costa County,94518
+6279,Butte County,95966
+6280,Alameda County,94587
+6281,San Diego County,92028
+6282,San Mateo County,94080
+6283,San Diego County,92070
+6284,Los Angeles County,90822
+6285,Monterey County,93927
+6286,Santa Clara County,95050
+6287,San Joaquin County,95320
+6288,Tehama County,96059
+6289,Humboldt County,95528
+6290,Sacramento County,95838
+6291,Los Angeles County,90501
+6292,Tulare County,93291
+6293,San Diego County,92122
+6294,Yuba County,95901
+6295,Kern County,93304
+6296,Los Angeles County,90250
+6297,Fresno County,93650
+6298,Orange County,90740
+6299,Los Angeles County,90012
+6300,Santa Clara County,95112
+6301,Colusa County,95979
+6302,Butte County,95969
+6303,Riverside County,92555
+6304,Los Angeles County,90006
+6305,Riverside County,92530
+6306,Riverside County,92230
+6307,Sacramento County,95829
+6308,Kern County,93249
+6309,Monterey County,93927
+6310,Sacramento County,95842
+6311,Fresno County,93727
+6312,San Bernardino County,92364
+6313,Fresno County,93622
+6314,Contra Costa County,94598
+6315,Humboldt County,95560
+6316,San Bernardino County,92336
+6317,Riverside County,92230
+6318,Humboldt County,95540
+6319,Placer County,95631
+6320,San Joaquin County,95212
+6321,Los Angeles County,90016
+6322,San Mateo County,94063
+6323,Kern County,93283
+6324,Orange County,92648
+6325,Modoc County,96006
+6326,Los Angeles County,91307
+6327,Yolo County,95606
+6328,Alameda County,94607
+6329,Riverside County,92592
+6330,Shasta County,96088
+6331,Madera County,93614
+6332,Los Angeles County,90293
+6333,Los Angeles County,90272
+6334,Riverside County,92592
+6335,Plumas County,95923
+6336,Colusa County,95912
+6337,Los Angeles County,90034
+6338,Siskiyou County,96025
+6339,San Diego County,92019
+6340,Los Angeles County,91108
+6341,Los Angeles County,91325
+6342,Los Angeles County,91773
+6343,Santa Clara County,94024
+6344,Santa Barbara County,93455
+6345,San Bernardino County,92313
+6346,Kern County,93301
+6347,Stanislaus County,95350
+6348,Sacramento County,95830
+6349,San Mateo County,94021
+6350,San Diego County,92117
+6351,Shasta County,96065
+6352,Merced County,95388
+6353,Humboldt County,95536
+6354,San Diego County,92109
+6355,Santa Clara County,95008
+6356,San Joaquin County,95202
+6357,Riverside County,92262
+6358,Santa Clara County,95139
+6359,San Diego County,92083
+6360,Los Angeles County,93536
+6361,Los Angeles County,91342
+6362,Alpine County,96120
+6363,Sacramento County,95833
+6364,Los Angeles County,90814
+6365,San Mateo County,94010
+6366,Los Angeles County,91755
+6367,Los Angeles County,90291
+6368,Los Angeles County,90502
+6369,San Mateo County,94021
+6370,Butte County,95914
+6371,Riverside County,92264
+6372,Kern County,93215
+6373,Orange County,92663
+6374,Los Angeles County,90807
+6375,San Diego County,92114
+6376,Stanislaus County,95356
+6377,Los Angeles County,90045
+6378,Monterey County,93950
+6379,Los Angeles County,91105
+6380,Fresno County,93616
+6381,San Mateo County,94074
+6382,Los Angeles County,91324
+6383,Santa Cruz County,95017
+6384,San Diego County,92021
+6385,Santa Clara County,95126
+6386,Placer County,95658
+6387,Los Angeles County,90007
+6388,San Diego County,92064
+6389,Los Angeles County,90018
+6390,Alameda County,94539
+6391,Orange County,92630
+6392,Sacramento County,95690
+6393,Los Angeles County,91602
+6394,Humboldt County,95565
+6395,Marin County,94972
+6396,Stanislaus County,95357
+6397,Los Angeles County,91604
+6398,Siskiyou County,96058
+6399,Los Angeles County,90265
+6400,Napa County,94558
+6401,Los Angeles County,90293
+6402,Los Angeles County,91001
+6403,Orange County,92808
+6404,San Bernardino County,92284
+6405,Los Angeles County,90638
+6406,San Diego County,92028
+6407,El Dorado County,95633
+6408,San Joaquin County,95237
+6409,Fresno County,93631
+6410,Los Angeles County,90274
+6411,Santa Cruz County,95010
+6412,Placer County,95747
+6413,Santa Barbara County,93103
+6414,Kern County,93240
+6415,Sonoma County,95492
+6416,Trinity County,96052
+6417,Los Angeles County,91381
+6418,Los Angeles County,93544
+6419,Ventura County,93033
+6420,Los Angeles County,91601
+6421,Contra Costa County,94507
+6422,Monterey County,93930
+6423,San Diego County,91917
+6424,Los Angeles County,91722
+6425,Marin County,94903
+6426,Santa Clara County,95139
+6427,Contra Costa County,94564
+6428,Santa Clara County,94089
+6429,Modoc County,96015
+6430,San Mateo County,94044
+6431,Los Angeles County,90019
+6432,Sonoma County,95452
+6433,Los Angeles County,90069
+6434,El Dorado County,95636
+6435,Imperial County,92233
+6436,Mendocino County,95469
+6437,Riverside County,92518
+6438,Contra Costa County,94563
+6439,Butte County,95942
+6440,San Diego County,92116
+6441,Fresno County,93616
+6442,Alameda County,94501
+6443,Kern County,93301
+6444,Los Angeles County,90022
+6445,Fresno County,93628
+6446,San Diego County,92028
+6447,San Diego County,91941
+6448,Stanislaus County,95367
+6449,Mendocino County,95432
+6450,San Diego County,92075
+6451,Sierra County,96125
