@@ -18,12 +18,13 @@ CREATE TABLE IF NOT EXISTS public.telecom_customer_churn
     offer character varying(100) COLLATE pg_catalog."default",
     phoneservice character varying(15) COLLATE pg_catalog."default",
     AvgMonthlyLongDistanceCharges double precision,
+    MultipleLines character varying(15) COLLATE pg_catalog."default",
     InternetService character varying(15) COLLATE pg_catalog."default",
     InternetType character varying(250) COLLATE pg_catalog."default",
     AvgMonthlyGBDownload integer,
     OnlineSecurity character varying(15) COLLATE pg_catalog."default",
     OnlineBackup character varying(15) COLLATE pg_catalog."default",
-    DeviceProtectionPlan integer,
+    DeviceProtectionPlan character varying(15) COLLATE pg_catalog."default",
     premiumTechSupport character varying(15) COLLATE pg_catalog."default",
     StreamingTV character varying(15) COLLATE pg_catalog."default",
     StreamingMovies character varying(15) COLLATE pg_catalog."default",
@@ -39,10 +40,7 @@ CREATE TABLE IF NOT EXISTS public.telecom_customer_churn
     TotalLongDistanceCharges double precision,
     TotalRevenue double precision,
     CustomerStatus character varying(250) COLLATE pg_catalog."default",
-    ChurnCategory character varying(250) COLLATE pg_catalog."default"
+    ChurnCategory character varying(250) COLLATE pg_catalog."default",
+    ChurnReason character varying(250) COLLATE pg_catalog."default"
 )
 
-TABLESPACE pg_default;
-
-ALTER TABLE IF EXISTS public.telecom_customer_churn
-    OWNER to lzftwtpxmfhkqh;
