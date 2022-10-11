@@ -26,7 +26,11 @@ def dashboard():
 def dashboard():
     return render_template("modeling.html")
 
-@app.route("/prediction.html")
+@app.route("/summary.html")
+def dashboard():
+    return render_template("summary.html")
+
+@app.route("/predictions.html")
 def dashboard():
     return render_template("predictions.html")
 

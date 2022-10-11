@@ -1,4 +1,8 @@
 
 .jumbotron {
     background-color:rgb(242, 244, 255) !important; 
-}
+};
+
+.input-group-text {
+    font-weight: "bold" !important; 
+};
