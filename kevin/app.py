@@ -28,7 +28,7 @@ def dashboard():
 
 @app.route("/prediction.html")
 def dashboard():
-    return render_template("prediction.html")
+    return render_template("predictions.html")
 
 
 
