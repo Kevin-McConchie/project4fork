@@ -1,8 +1,12 @@
 ### Dependencies and set up
 from flask import Flask, render_template, jsonify, request, redirect
-
+import joblib
+import numpy as np
+import sklearn
 
 app = Flask(__name__)
+
+
 
 ### Routes
 
@@ -14,28 +18,22 @@ def home():
 def returnhome():
     return render_template("index.html")
 
-@app.route("/preprocessing.html")
-def map():
-    return render_template("preprocessing.html")
-
-@app.route("/analysis.html")
-def dashboard():
-    return render_template("analysis.html")
-
-@app.route("/modeling.html")
-def dashboard():
-    return render_template("modeling.html")
-
-@app.route("/summary.html")
-def dashboard():
-    return render_template("summary.html")
-
-@app.route("/predictions.html")
-def dashboard():
-    return render_template("predictions.html")
 
 
-
+@app.route("/predictions.html", methods=['POST',' GET' ])
+def predictions():
+    if request.methods == 'POST':
+        # print(request.form)
+        array =[x for x in request.form.values()]
+        print(input)
+        X= request.form.values()
+        # X= np.ravel(X)
+        X_scaler= joblib.load('Xscaler.sav')
+        model = joblib.load('LogisticRegression.sav')
+        scaled_results = X_scaler.transform(np.array(input))
+        result = model.predict(scaled_results)
+        
+    return redirect("/")
 
 
 
