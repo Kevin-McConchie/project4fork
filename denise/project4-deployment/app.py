@@ -1,169 +1,116 @@
 import sqlalchemy
-import os
 import numpy as np
 from sqlalchemy.ext.automap import automap_base
 from sqlalchemy.orm import Session
 from sqlalchemy import create_engine, func
 import pandas as pd
 
-from flask import Flask, jsonify,render_template
+from flask import Flask, jsonify, render_template
+import  configparser
+from flask import Response
 
+config = configparser.ConfigParser()
+config.read('../../my_config.ini')
 
-#################################################
-# Flask Setup
-#################################################
-app = Flask(__name__)
-
-#################################################
-# Database Setup
-#################################################
-
-from flask_sqlalchemy import SQLAlchemy
-app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL', '') or "sqlite:///db.sqlite"
-
-# Remove tracking modifications
-app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
-
-db = SQLAlchemy(app)
+config.sections()
+DBPass = config.get('postgres', 'password')
 
 # flask setup
 
+connection_string = f"postgres:{DBPass}@localhost:5432/Project3"
+engine = create_engine(f'postgresql://{connection_string}')
+conn = engine.connect()
 
+# reflect an existing database into a new model
+base = automap_base()
+# reflect the tables
+base.prepare(engine, reflect=True)
+
+australia_healthsites = base.classes.australia_healthsites
+
+app = Flask(__name__)
+
+# flask routes
 @app.route("/")
-def home():
-    return render_template("index.html")   
+def homepage():
+    return (
+        f"Welcome to the Australia Health Sites APIs <br/>"
+        f"Available Routes:<br/>"
+        f"/api/healthcaretypes<br/>"
+        f"/api/v0/healthsites<br/>"
+        f"/api/v0/metaoperators<br/>"
+        f"/api/v0/statestats<br/>"
+
+    )
 
 
-from .models import (statepostcodes, 
-                     statestats_v, 
-                     meta_operators_v as mv,
-                     healthsites_v    as hv)
-
+@app.route("/api/healthcaretypes")
+def healthcaretypes():
+    healthcaretype = pd.read_sql("SELECT DISTINCT meta_healthcare FROM australia_healthsites", conn)
+    print(type(healthcaretype))
+    return healthcaretype.to_json()
 
 
 
 @app.route("/api/v0/healthsites")
 def healthsites():
 
-    l_list = []
-    l_dict = {}  
+    sqltext1 = "Select ah.lat,ah.lon,ah.osm_id, ah.completeness,ah.loc_amenity, ah.access_hours, ah.addr_postcode, ah.meta_healthcare, ah.loc_name ,"
+    sqltext2 = "spc.state, spc.abbreviation From australia_healthsites ah Left Join StatePostCodes   spc on to_number(addr_postcode,'9999') Between spc.postcode_low and spc.postcode_high "
+    sqltext3 = "Where lat is not null and lon is not null and substring(COALESCE(addr_postcode,'0'),1,1) IN ('0','1','2','3','4','5','6','7','8','9')"
 
-    results = db.session.query(hv.lat, hv.lon, hv.osm_id, hv.completeness, hv.loc_amenity, hv.access_hours, 
-                               hv.addr_postcode, hv.loc_name, hv.state, hv.meta_healthcare, hv.abbreviation).all()
+    sqltext = sqltext1 + sqltext2 +sqltext3
+    print(sqltext)
+
+    df = pd.read_sql(sqltext, conn)  
+    
+    data = []
+
+    for index, row in df.iterrows():
+    
+
+        data.append([{
+            "lat": row['lat'],
+            "lon": row['lon'],
+            "osm_id": row['osm_id'],
+            "completeness": row['completeness'],
+            "loc_amenity":row['loc_amenity'],
+            "access_hours":row['access_hours'],
+            "addr_postcode":row['addr_postcode'],
+            "meta_healthcare":row['meta_healthcare'],
+            "loc_name":row['loc_name'],
+            "state_name": row['state'], 
+            "state_code": row['abbreviation'],                      
+        }])
 
 
-    for i in range(len(results)):
-             
-        l_dict = {
-                "lat"               : results[i][0],
-                "lon"               : results[i][1],
-                "osm_id"            : results[i][2],
-                "completeness"      : results[i][3],
-                "loc_amenity"       : results[i][4],
-                "access_hours"      : results[i][5],
-                "addr_postcode"     : results[i][6],
-                "loc_name"          : results[i][7],
-                "state"             : results[i][8],
-                "meta_healthcare"   : results[i][9],
-                "abbreviation"      : results[i][10]
-            }
 
-        l_list.append(l_dict)
 
-    return jsonify(l_list)  
 
+    return jsonify(data)
+
+    #return df.to_json()
 
 
 @app.route("/api/v0/metaoperators")
 def metaoperators():
 
-    l_list = []
-    l_dict = {}  
+    
+    sqltext = "Select * From meta_operators_v"
+    df = pd.read_sql(sqltext, conn)  
 
-    results = db.session.query(mv.lat, mv.lon, mv.osm_id, mv.completeness, mv.loc_amenity, mv.access_hours, 
-                               mv.addr_postcode, mv.loc_name, mv.state, mv.meta_operator, mv.meta_speciality, 
-                               mv.meta_emergency, mv.contact_url, mv.meta_operator_type, mv.contact_phone, 
-                               mv.meta_wheelchair, mv.address).all()
-
-
-    for i in range(len(results)):
-             
-        l_dict = {
-                "lat"               : results[i][0],
-                "lon"               : results[i][1],
-                "osm_id"            : results[i][2],
-                "completeness"      : results[i][3],
-                "loc_amenity"       : results[i][4],
-                "access_hours"      : results[i][5],
-                "addr_postcode"     : results[i][6],
-                "loc_name"          : results[i][7],
-                "state"             : results[i][8],
-                "meta_operator"     : results[i][9],
-                "meta_speciality"   : results[i][10],
-                "meta_emergency"    : results[i][11],
-                "contact_url"       : results[i][12],
-                "meta_operator_type"  : results[i][13],
-                "contact_phone"     : results[i][14],
-                "meta_wheelchair"   : results[i][15],
-                "address"           : results[i][16]
-            }
-
-        l_list.append(l_dict)
-
-    return jsonify(l_list)  
-
-
+    return Response(df.to_json(orient="records"), mimetype='application/json')
 
 
 @app.route("/api/v0/statestats")
 def statestats():
 
-    l_list = []
-    l_dict = {}
-
     
-    results = db.session.query(statestats_v.state, statestats_v.statecode, statestats_v.type, statestats_v.rowcount).all()
+    sqltext = "Select * From statestats_v"
+    df = pd.read_sql(sqltext, conn)  
 
-    for i in range(len(results)):
-             
-        l_dict = {
-                "state"     : results[i][0],
-                "statecode" : results[i][1],
-                "type"      : results[i][2],
-                "rowcount"  : results[i][3]
-            }
+    return Response(df.to_json(orient="records"), mimetype='application/json')
 
-        l_list.append(l_dict)
-
-    return jsonify(l_list)  
-
-
-
-
-
-
-@app.route("/api/v0/states")
-def states():
-
-    l_list = []
-    l_dict = {}
-
-    results = db.session.query(statepostcodes.state, statepostcodes.abbreviation, statepostcodes.postcode_low).all()
-   
-    
-    for i in range(len(results)):
-        
-        
-        l_dict = {
-                "state": results[i][0],
-                "statecode": results[i][1],
-                "postcode": results[i][2]
-            }
-
-        l_list.append(l_dict)
-
-    return jsonify(l_list)  
-    
 
 if __name__ == '__main__':
     app.run(debug=True)
