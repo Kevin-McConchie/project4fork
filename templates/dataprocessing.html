@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Model Name Here</title>
+    <title>Data Processing</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css"
         integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
@@ -65,7 +65,7 @@
 
             <div class="row featurette">
                 <div class="col-md-12">
-                    <h2 style="color:DodgerBlue;" class="featurette-heading">Data Proessing Approach<span
+                    <h2 style="color:DodgerBlue;" class="featurette-heading">Data Processing Approach<span
                             class="text-muted"></span></h2>
 
                     <p class="lead">
@@ -98,6 +98,72 @@
                         src="../static/images/after_clean_total_charge.png" style="width:300px;height:300px;">
                 </div>
 
+            </div>
+
+            <hr class="featurette-divider">
+
+            <div class="row featurette">
+                <div class="col-md-7 order-md-2">
+                    <h2 class="featurette-heading">Analysis of data columns to identify Explantory and Response
+                        variables<span class="text-muted"></span> </h2>
+                    <p class="lead">X is the independent variables or also called the Explantory Variable -the variables
+                        we are using to make predictions<br>
+                        The variables we identified that describe the product/service and customer behaviour:
+                    </p>
+                    <ul>
+                        <li>Tenure in Months - number of months the customer has stayed with the company</li>
+                        <li>PhoneService - whether the customer has a phone service or not (Yes, No)</li>
+                        <li>MultipleLines - whether the customer has multiple lines or not (Yes, No, No phone service)
+                        </li>
+                        <li>InternetService - customer’s internet service provider (DSL, Fiber optic, No)</li>
+                        <li>OnlineBackup - whether the customer has online backup or not (Yes, No, No internet service)
+                        </li>
+                        <li>DeviceProtection - whether the customer has device protection or not (Yes, No, No internet
+                            service)</li>
+                        <li>TechSupport - whether the customer has tech support or not (Yes, No, No internet service)
+                        </li>
+                        <li>StreamingTV - whether the customer has streaming TV or not (Yes, No, No internet service)
+                        </li>
+                        <li>StreamingMovies - whether the customer has streaming movies or no(Yes, No, No internet
+                            service)</li>
+                        <li>PaperlessBilling - bills issued in paperless form </li>
+                        <li>PaymentMethod - payment method used by customer (Electronic check, Mailed check, Credit card
+                            (automatic), Bank transfer (automatic))</li>
+                        <li>MonthlyCharges - amount of charge for service on monthly bases</li>
+                        <li>TotalCharges - cumulative charges for service during subscription (tenure) period</li>
+                        <li>Contract - type of contract according to duration (Month-to-month, One year, Two year)</li>
+
+                    </ul>
+                    </p>
+                    </p>
+                </div>
+                <div class="col-md-5 order-md-1">
+                    <img class="featurette-image img-fluid mx-auto" data-src="holder.js/300x300/auto" alt="500x500"
+                        src=../static/images/column_selection.png data-holder-rendered="true"
+                        style="width: 500px; height: 500px;">
+                </div>
+            </div>
+
+            <hr class="featurette-divider">
+
+            <div class="row featurette">
+                <div class="col-md-4">
+                    <h2 class="featurette-heading">y is the dependent variable or also described as Response
+                        variable/Outcome Variable<span
+                            class="text-muted"></span></h2>
+                    <p class="lead"> variable we are trying to predict or estimate . In our project we
+                        are looking into a Binary outcome of whether the customer will Churn or not. </p>
+                        <ul>
+                            <li>Customer Status– output value, predict variable</li>
+                            <li>Customer Category- whether the customer is satisfied or not</li>
+                            <li>Customer Reason- reason for churn</li>
+                          </ul>
+                </div>
+                <div class="col-md-8">
+                    <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="500x500"
+                        src="../static/images/churn_correlation.png"
+                        data-holder-rendered="true" style="width: 800px; height: 500px;">
+                </div>
             </div>
 
             <hr class="featurette-divider">
