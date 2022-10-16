@@ -53,122 +53,61 @@
     <!-- Top Banner-->
     <main role="main">
         <section class="jumbotron text-left">
-            <div class="container" src="../images/customer_churn_image.jpg">
-                <h1 class="jumbotron-heading">Data Processing</h1>
-            </div>
+            <div class="container">
+                <h1 class="jumbotron-heading">Data Processing - Feature Engineering, identified most valuable features,
+                    and EDA</h1>
 
+            </div>
         </section>
 
         <div class="container">
+            <hr class="featurette-divider">
 
+            <div class="row featurette">
+                <div class="col-md-12">
+                    <h2 style="color:DodgerBlue;" class="featurette-heading">Data Proessing Approach<span
+                            class="text-muted"></span></h2>
 
-        <div class="row featurette">
-            <div class="col-md-7">
-                <h2 class="featurette-heading">To be or not to be,that is the question? <span class="text-muted">---
-                        Don't Churn your brain to understand the Customer Churn.</span></h2>
-                <p class="lead">Data visualization allows you to quickly detect patterns,
-                    trends, and outliers in churn, enabling you to make key business decisions
-                    that can address negative patterns before they get out of control.
-                    
-                    Scroll down to use our interactive graphs to understand the data
-                    and explore the explantory and responsive variables. </p>
+                    <p class="lead">
+                        We have performed data preprocessing, Missing Value Analysis, Feature Engineering, identified
+                        most valuable customers, tagged churners, and performed required EDA. We have mentioned few
+                        inferences observed during EDA.
+
+                    </p>
+
+                </div>
+            </div>
+            <div class="col-md-1">
+
+                <img src="../static/images/dataprocessing_approach.png" style="width:1000px;height:500px;">
+
             </div>
 
-            <!-- <div class="col-md-2">
-                <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="500x500"
-                    style="width: 200px; height: 150px;"
-                    src="../static//images/customer_churn_image.jpg"
-                    data-holder-rendered="true">
-            </div> -->
+            <div class="row">
 
-            <div class="col-md-5">
-                <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="500x500"
-                    style="width: 300px; height: 150px;" src="../static//images/customer_churn_image.jpg" data-holder-rendered="true">
+                <div class="col-6 col-md-4">
+                    <h5 style="color:DodgerBlue;">Data set with all columns and Datatypes</h5><img
+                        src="../static/images/datacleaning.png" style="width:300px;height:300px;">
+                </div>
+                <div class="col-6 col-md-4">
+                    <h5 style="color:DodgerBlue;">Before removing the null values in dataset</h5><img
+                        src="../static/images/before_clean_total_charge.png" style="width:300px;height:300px;">
+                </div>
+                <div class="col-6 col-md-4">
+                    <h5 style="color:DodgerBlue;">After removing the null values in dataset</h5><img
+                        src="../static/images/after_clean_total_charge.png" style="width:300px;height:300px;">
+                </div>
+
             </div>
+
+            <hr class="featurette-divider">
+
         </div>
-        <br>
-        <br>
-        <br>
-
-        <div class="row">
-                
-            <div class="col-6 col-md-4"><h5 style="color:DodgerBlue;">Heat Map</h5>
-                <img src="../static/images/heatmap.png" style="width:400px;height:400px;"></div>
-            <div class="col-6 col-md-1"><h5 style="color:DodgerBlue;"></h5>
-               </div>
-            <div class="col-6 col-md-7"><h5 style="color:DodgerBlue;">Interactive Map</h5>
-                <object data="..\static\images\histogram.html"
-            width="100%" height="100%" type="text/html"style="width: 700px; height: 500px;">
-            </object>
-            
-          </div>
-          <br>
-        <br>
-        <br>
-        <hr class="featurette-divider">
-
-
-        <div class="row featurette">
-            <div class="col-md-7 order-md-2">
-                <h2 class="featurette-heading">Data Cleaning techniques are:<span class="text-muted">
-                    correcting typos in the data, removing special characters,
-                    converting from one data type to another, null value treatment etc.
-                </span></h2>
-                <p class="lead">                        <br>Steps to clean data:</br>
-                    1. Check how many rows and columns(also known as features) are in the dataset.
-                    <br>2. Look for unwanted features by going through the meta info provided.</br>
-                    3. Identify Numerical and Categorical features in the gathered data and check if formatting is required or not.
-                    <br>4. Check if there are any null values in the data set and replace them with meaningful data.</br></p>
-            </div>
-
-            <div class="col-md-5">
-                <img class="featurette-image img-fluid mx-auto" data-src="holder.js/250x500/auto" alt="500x500"
-                    src="../static//images/datacleaning_process.png"
-                    data-holder-rendered="true">
-            </div>
-
-            
-        </div>
-
-        <div class="row">
-                
-            <div class="col-6 col-md-4"><h5 style="color:DodgerBlue;">Data set with all columns and Datatypes</h5>
-                <img src="../static/images/datacleaning.png" style="width:250px;height:250px;"></div>
-            <div class="col-6 col-md-4"><h5 style="color:DodgerBlue;">Before removing the null values in dataset</h5>
-                <img src="../static/images/before_clean_total_charge.png" style="width:250px;height:250px;"></div>
-            <div class="col-6 col-md-4"><h5 style="color:DodgerBlue;">After removing the null values in dataset</h5>
-                <img src="../static/images/after_clean_total_charge.png" style="width:250px;height:250px;"></div>
-            
-          </div>
-
-        <hr class="featurette-divider">
-
-        <div class="row featurette">
-            <div class="col-md-7">
-                <h2 class="featurette-heading">And lastly, this one. <span class="text-muted">Checkmate.</span></h2>
-                <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis
-                    euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus,
-                    tellus ac cursus commodo.</p>
-            </div>
-            <div class="col-md-5">
-                <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="500x500"
-                    src="..\static\images\histogram.html"
-                    data-holder-rendered="true" style="width: 500px; height: 500px;">
-            </div>
         </div>
 
 
-        <hr class="featurette-divider">
 
         <!-- /END THE FEATURETTES -->
-        <div class="col-md-12">
-            <object data="..\static\images\histogram.html"
-            width="100%" height="100%" type="text/html"style="width: 500px; height: 500px;">
-            </object>
-        </div>
-    </div>
-
-</div>
 
         </div><!-- /.container -->
 
