@@ -1,9 +1,0 @@
-totalchargeschurn_no = preprocessing_df[preprocessing_df['customerstatus']== 0]['totalcharges']
-totalchargeschurn_yes = preprocessing_df[preprocessing_df['customerstatus']== 1]['totalcharges']
-
-plt.xlabel("Total Charges")
-plt.ylabel("Number Of Customers")
-plt.title("Customer Churn Prediction Visualiztion")
-
-plt.hist([totalchargeschurn_yes, totalchargeschurn_no], rwidth=0.95, color=['blue','green'],label=['Churn=Yes','Churn=No'])  # type: ignore
-plt.legend()

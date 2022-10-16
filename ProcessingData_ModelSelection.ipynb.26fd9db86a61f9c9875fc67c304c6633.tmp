@@ -1,1 +1,0 @@
-k_fold_cross_validation(classifier5, "Adaboost")

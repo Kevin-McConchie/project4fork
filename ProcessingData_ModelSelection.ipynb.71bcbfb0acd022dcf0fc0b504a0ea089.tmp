@@ -1,4 +1,0 @@
-df_num      = data_df.select_dtypes('number')
-df_object   = data_df.select_dtypes('object')
-fig1        = px.histogram(data_df, x="totalcharges", color="gender", marginal="rug", hover_data=df_object.columns)
-fig1.show()

@@ -1,9 +1,0 @@
-tenurechurn_no = preprocessing_df[preprocessing_df['customerstatus']== 0]['tenureinmonths']
-tenurechurn_yes = preprocessing_df[preprocessing_df['customerstatus']== 1]['tenureinmonths']
-
-plt.xlabel("Tenure")
-plt.ylabel("Number Of Customers")
-plt.title("Customer Churn Prediction Visualiztion")
-
-plt.hist([tenurechurn_yes, tenurechurn_no], rwidth=0.95, color=['blue','green'],label=['Churn=Yes','Churn=No'])  # type: ignore
-plt.legend()

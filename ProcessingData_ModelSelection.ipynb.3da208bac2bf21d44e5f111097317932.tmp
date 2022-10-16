@@ -1,4 +1,0 @@
-fig0 = px.scatter_mapbox(data_df, lat="latitude", lon="longtitude", color="totalcharges", size="age", animation_frame="tenureinmonths",
-                  color_continuous_scale=px.colors.cyclical.IceFire, size_max=15, zoom=4,
-                  mapbox_style="carto-positron")
-fig0.show()

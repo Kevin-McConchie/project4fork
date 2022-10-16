@@ -1,9 +1,0 @@
-def foo(x):
-    if x == 'Stayed':
-        return 0
-    elif x == 'Churned':
-        return 1
-    else:
-        return x
-preprocessing_df['customerstatus']=preprocessing_df['customerstatus'].apply(lambda x : foo(x))
-preprocessing_df.head(2)

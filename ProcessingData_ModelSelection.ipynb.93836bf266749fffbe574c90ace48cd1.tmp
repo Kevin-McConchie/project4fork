@@ -1,9 +1,0 @@
-refchurn_no = preprocessing_df[preprocessing_df['customerstatus']== 0]['numberofreferrals']
-refchurn_yes = preprocessing_df[preprocessing_df['customerstatus']== 1]['numberofreferrals']
-
-plt.xlabel("Refferals")
-plt.ylabel("Number Of Customers")
-plt.title("Customer Churn Prediction Visualiztion")
-
-plt.hist([refchurn_yes, refchurn_no], rwidth=0.95, color=['red','green'],label=['Churn=Yes','Churn=No'])  # type: ignore
-plt.legend()

@@ -1,3 +1,0 @@
-# type: ignore
-test_labels = bestAdaModFitted2.predict_proba(np.array(X_test.values))[:,1]
-roc_auc_score(y_test,test_labels , average = 'macro', sample_weight = None)

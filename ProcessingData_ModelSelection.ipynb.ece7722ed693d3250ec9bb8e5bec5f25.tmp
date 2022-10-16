@@ -1,3 +1,0 @@
-preprocessing_df = data_df.copy()
-preprocessing_df = preprocessing_df.drop(['churnreason','customerid','city','totalrefunds','zipcode','latitude','longtitude','totalextradatacharges','totalrevenue'],axis=1)
-preprocessing_df.head(2)

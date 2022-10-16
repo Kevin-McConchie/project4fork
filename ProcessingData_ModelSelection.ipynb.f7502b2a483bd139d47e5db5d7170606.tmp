@@ -1,8 +1,0 @@
-tens_pred = tens_model.predict(X_test)
-y_pred6 = []
-for element in tens_pred:
-    if element > 0.5:
-        y_pred6.append(1)
-    else:
-        y_pred6.append(0)
-y_pred6[:10]

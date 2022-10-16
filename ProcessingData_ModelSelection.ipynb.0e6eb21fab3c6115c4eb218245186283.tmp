@@ -1,5 +1,0 @@
-score_array = []
-for each in range(1,100):
-    rf_loop = RandomForestClassifier(n_estimators = each, random_state = 1) 
-    rf_loop.fit(X_train,y_train)
-    score_array.append(rf_loop.score(X_test,y_test))

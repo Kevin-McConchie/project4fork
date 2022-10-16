@@ -1,1 +1,0 @@
-perf = perf.set_index('Model')

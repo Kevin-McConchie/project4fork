@@ -1,9 +1,0 @@
-agechurn_no = preprocessing_df[preprocessing_df['customerstatus']== 0]['age']
-agechurn_yes = preprocessing_df[preprocessing_df['customerstatus']== 1]['age']
-
-plt.xlabel("Age")
-plt.ylabel("Number Of Customers")
-plt.title("Customer Churn Prediction Visualiztion")
-
-plt.hist([agechurn_yes, agechurn_no], rwidth=0.95, color=['red','green'],label=['Churn=Yes','Churn=No'])  # type: ignore
-plt.legend()

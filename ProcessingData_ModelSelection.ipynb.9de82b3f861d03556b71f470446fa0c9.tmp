@@ -1,8 +1,0 @@
-# we will drop 'TotalCharges'&'Total Long Distance Charges' from VIF test dataset.
-#Here we are only considering the continuous variable and not the categorical data.
-# categorical variables have a greater tendency to generate collinearity is that the three-way or four-way tabulations often form linear combinations that lead to complete collinearity
-ds_vif2 = ds_vif.drop(columns = ["totalcharges","phoneservice","totallongdistancecharges","internetservice","streamingtv","streamingmovies","streamingmusic","unlimiteddata","multiplelines","deviceprotectionplan", 'premiumtechsupport','paperlessbilling','onlinesecurity',"onlinebackup",'married','gender'])
-
-# check colinearity again
-vif2 = calculate_vif(ds_vif2)
-print(vif2)

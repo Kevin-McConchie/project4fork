@@ -1,2 +1,0 @@
-for col in preprocessing_df:
-    print(f'{col}: {preprocessing_df[col].unique()}') 

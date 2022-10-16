@@ -1,9 +1,0 @@
-predictions = [y_pred, y_pred2 , y_pred3, y_pred4, y_pred5]
-
-for i, j in zip(predictions, eval_.Model.values):
-    plt.figure(figsize=(4,3))
-    sns.heatmap(confusion_matrix(y_test, i),
-                annot=True,fmt = "d",linecolor="k",linewidths=3)
-    
-    plt.title(j,fontsize=14)
-    plt.show()

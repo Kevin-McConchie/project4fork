@@ -1,9 +1,0 @@
-monthchurn_no = preprocessing_df[preprocessing_df['customerstatus']== 0]['monthlycharge']
-monthchurn_yes = preprocessing_df[preprocessing_df['customerstatus']== 1]['monthlycharge']
-
-plt.xlabel("Monthly charge")
-plt.ylabel("Number Of Customers")
-plt.title("Customer Churn Prediction Visualiztion")
-
-plt.hist([monthchurn_yes, monthchurn_no], rwidth=0.95, color=['red','green'],label=['Churn=Yes','Churn=No'])  # type: ignore
-plt.legend()

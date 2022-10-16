@@ -1,6 +1,0 @@
-cols_to_scale = ['totallongdistancecharges','tenureinmonths','monthlycharge','totalcharges','avgmonthlygbdownload',
-                 'avgmonthlylongdistancecharges','age','numberofreferrals','offer','contract','churncategory']
-
-scaler = MinMaxScaler()
-processed_df[cols_to_scale] = scaler.fit_transform(processed_df[cols_to_scale])
-processed_df.head(2)

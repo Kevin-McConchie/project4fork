@@ -1,2 +1,0 @@
-fig = px.histogram(data_df, x='totalcharges')
-fig

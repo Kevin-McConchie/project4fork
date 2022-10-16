@@ -1,8 +1,0 @@
-score_array = []
-
-for each in range(1,25):
-    knn_loop = KNeighborsClassifier(n_neighbors = each) 
-    knn_loop.fit(X_train,y_train)
-    score_array.append(knn_loop.score(X_test,y_test))
-
-score_array

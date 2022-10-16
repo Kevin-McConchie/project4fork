@@ -1,9 +1,0 @@
-## Correlation between churn and  object datatype
-cols = ['contract',"paymentmethod","offer","internettype",'gender']
-
-plt.figure(figsize=(20,5))
-
-for i, col in enumerate(cols):
-    ax = plt.subplot(1, len(cols), i+1)
-    sns.countplot(x ="customerstatus", hue = str(col), data = preprocessing_df)
-    ax.set_title(f"{col}")

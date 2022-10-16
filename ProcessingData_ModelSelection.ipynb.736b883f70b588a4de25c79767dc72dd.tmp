@@ -1,2 +1,0 @@
-fig8 = px.scatter_matrix(data_df, dimensions=["age", "monthlycharge", "tenureinmonths","avgmonthlylongdistancecharges"], color="customerstatus",width=1200, height=1200)
-fig8.show()

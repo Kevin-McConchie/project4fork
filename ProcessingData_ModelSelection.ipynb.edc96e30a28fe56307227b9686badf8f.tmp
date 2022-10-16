@@ -1,6 +1,0 @@
-classifier5 = AdaBoostClassifier()
-
-adaHyperParams = {'n_estimators': [10,50,100,200,420], "learning_rate":  [0.001, 0.01, 0.1, 0.3]}
-gridSearchAda = RandomizedSearchCV(estimator = classifier5, param_distributions = adaHyperParams, n_iter = 5,
-                                   scoring = 'roc_auc') # other option accuracy
-gridSearchAda.fit(X_train, y_train)

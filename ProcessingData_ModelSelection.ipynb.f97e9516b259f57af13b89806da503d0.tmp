@@ -1,3 +1,0 @@
-def k_fold_cross_validation(classifier_name, name):
-    accuracies = cross_val_score(estimator=classifier_name, X=X_train, y=y_train, cv =10)
-    print(name, "accuracy: %0.2f (+/- %0.2f)"  % (accuracies.mean(), accuracies.std() * 2))
