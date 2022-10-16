@@ -18,8 +18,16 @@ def returnhome():
     return render_template("index.html")
 
 @app.route("/cleaning.html")
-def template():
+def cleaning():
     return render_template("cleaning.html")
+
+@app.route("/dataprocessing.html")
+def dataprocessing():
+    return render_template("dataprocessing.html")
+
+@app.route("/models.html")
+def models():
+    return render_template("models.html")
 
 
 
