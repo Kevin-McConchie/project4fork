@@ -8,7 +8,7 @@
     <title>Your Model Name Here</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css"
         integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
     <link rel="stylesheet" href="../static/css/style.css">
 </head>
 
@@ -36,14 +36,14 @@
                         Models
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                        <a class="dropdown-item" href="decisiontree.html">Decision Tree Model</a>
-                        <a class="dropdown-item" href="knn.html">Knn Model</a>
+                        <a class="dropdown-item" href="cleaning.html">Data Cleaning</a>
+                        <!-- <a class="dropdown-item" href="knn.html">Knn Model</a>
                         <a class="dropdown-item" href="kmean.html">Kmean Model</a>
                         <a class="dropdown-item" href="logistic.html">Logistic Regression Model</a>
-                        <a class="dropdown-item" href="randomforest.html">Random Forest Model</a>
-                        <br>
-                        <a class="dropdown-item" href="conclusion.html">Conclusion</a>
-                        <a class="dropdown-item" href="form.html">Random Forest Model</a>
+                        <a class="dropdown-item" href="randomforest.html">Random Forest Model</a> -->
+                        <!-- <br> -->
+                        <a class="dropdown-item" href="Template.html">Template</a>
+                        <a class="dropdown-item" href="form.html">Prediction Form</a>
 
                     </div>
                 </li>
@@ -53,67 +53,39 @@
     <!-- Top Banner-->
     <main role="main">
         <section class="jumbotron text-left">
-            <div class="container">
+            <div class="container" src="../images/customer_churn_image.jpg">
                 <h1 class="jumbotron-heading">Your Model Name here</h1>
-
             </div>
+
         </section>
 
-        <div class="container">
-            <hr class="featurette-divider">
-
-            <div class="row featurette">
-                <div class="col-md-7">
-                    <h2 class="featurette-heading">First featurette heading. <span class="text-muted">It'll blow your
-                            mind.</span></h2>
-                    <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis
-                        euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus,
-                        tellus ac cursus commodo.</p>
-                </div>
-                <div class="col-md-5">
-                    <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="500x500"
-                        style="width: 500px; height: 500px;"
-                        src="data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%22500%22%20height%3D%22500%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20500%20500%22%20preserveAspectRatio%3D%22none%22%3E%3Cdefs%3E%3Cstyle%20type%3D%22text%2Fcss%22%3E%23holder_183c1263930%20text%20%7B%20fill%3A%23AAAAAA%3Bfont-weight%3Abold%3Bfont-family%3AArial%2C%20Helvetica%2C%20Open%20Sans%2C%20sans-serif%2C%20monospace%3Bfont-size%3A25pt%20%7D%20%3C%2Fstyle%3E%3C%2Fdefs%3E%3Cg%20id%3D%22holder_183c1263930%22%3E%3Crect%20width%3D%22500%22%20height%3D%22500%22%20fill%3D%22%23EEEEEE%22%3E%3C%2Frect%3E%3Cg%3E%3Ctext%20x%3D%22185.1171875%22%20y%3D%22261.1%22%3E500x500%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fg%3E%3C%2Fsvg%3E"
-                        data-holder-rendered="true">
-                </div>
+        <div class="row featurette">
+            <div class="col-md-4">
+                <h2 class="featurette-heading">To be or not to be,that is the question? <span class="text-muted">---
+                        Don't Churn your brain to understand the Customer Churn.</span></h2>
+                <p class="lead">Data visualization allows you to quickly detect patterns,
+                    trends, and outliers in churn, enabling you to make key business decisions
+                    that can address negative patterns before they get out of control.
+                    Scroll down to use our interactive graphs to understand the data
+                    and explore the explantory and responsive variables. </p>
             </div>
 
-            <hr class="featurette-divider">
-
-            <div class="row featurette">
-                <div class="col-md-7 order-md-2">
-                    <h2 class="featurette-heading">Oh yeah, it's that good. <span class="text-muted">See for
-                            yourself.</span></h2>
-                    <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis
-                        euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus,
-                        tellus ac cursus commodo.</p>
-                </div>
-                <div class="col-md-5 order-md-1">
-                    <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="500x500"
-                        src=../images/ss.png data-holder-rendered="true" style="width: 500px; height: 500px;">
-                </div>
+            <div class="col-md-4">
+                <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="500x500"
+                    style="width: 500px; height: 500px;"
+                    src="https://www.madlytics.com/wp-content/uploads/2017/08/Customer-churn-2.png?x47358"
+                    data-holder-rendered="true">
             </div>
 
-            <hr class="featurette-divider">
-
-            <div class="row featurette">
-                <div class="col-md-7">
-                    <h2 class="featurette-heading">And lastly, this one. <span class="text-muted">Checkmate.</span></h2>
-                    <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis
-                        euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus,
-                        tellus ac cursus commodo.</p>
-                </div>
-                <div class="col-md-5">
-                    <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="500x500"
-                        src="data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%22500%22%20height%3D%22500%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20500%20500%22%20preserveAspectRatio%3D%22none%22%3E%3Cdefs%3E%3Cstyle%20type%3D%22text%2Fcss%22%3E%23holder_183c1263933%20text%20%7B%20fill%3A%23AAAAAA%3Bfont-weight%3Abold%3Bfont-family%3AArial%2C%20Helvetica%2C%20Open%20Sans%2C%20sans-serif%2C%20monospace%3Bfont-size%3A25pt%20%7D%20%3C%2Fstyle%3E%3C%2Fdefs%3E%3Cg%20id%3D%22holder_183c1263933%22%3E%3Crect%20width%3D%22500%22%20height%3D%22500%22%20fill%3D%22%23EEEEEE%22%3E%3C%2Frect%3E%3Cg%3E%3Ctext%20x%3D%22185.1171875%22%20y%3D%22261.1%22%3E500x500%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fg%3E%3C%2Fsvg%3E"
-                        data-holder-rendered="true" style="width: 500px; height: 500px;">
-                </div>
+            <div class="col-md-4">
+                <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="500x500"
+                    style="width: 500px; height: 500px;" src="../static/images/heatmap.png" data-holder-rendered="true">
             </div>
+        </div>
 
-            
-            <hr class="featurette-divider">
+ 
 
-            <!-- /END THE FEATURETTES -->
+        <!-- /END THE FEATURETTES -->
 
         </div><!-- /.container -->
 
@@ -121,7 +93,7 @@
         <!-- FOOTER -->
         <footer class="container">
             <p class="float-right"><a href="#">Back to top</a></p>
-            <p class="lead text-muted">Collaborators: Deepa Nair, Denise Demerkol, Jeya Emmanuel, Kevin McConchie,
+            <p class="lead text-muted">Created by: Deepa Nair, Denise Demerkol, Jeya Emmanuel, Kevin McConchie,
                 Kinlay Denning</p>
         </footer>
     </main>
