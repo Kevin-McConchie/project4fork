@@ -5,10 +5,10 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Model Name Here</title>
+    <title>Exploring Models</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css"
         integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" ></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
     <link rel="stylesheet" href="../static/css/style.css">
 </head>
 
@@ -16,7 +16,7 @@
 
     <!-- Navbar -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-        <a class="navbar-brand text-warning" href="index.html" >Machine Learning</a>
+        <a class="navbar-brand text-warning" href="index.html">Machine Learning</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown"
             aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -36,15 +36,12 @@
                         Project Details
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                        <a class="dropdown-item" href="cleaning2.html">Data Cleaning</a>
+                        <a class="dropdown-item" href="cleaning.html">Data Cleaning</a>
                         <a class="dropdown-item" href="dataprocessing.html">Data Processing</a>
-                        <!-- <a class="dropdown-item" href="kmean.html">Kmean Model</a>
-                        <a class="dropdown-item" href="logistic.html">Logistic Regression Model</a>
-                        <a class="dropdown-item" href="randomforest.html">Random Forest Model</a> -->
+                        <a class="dropdown-item" href="models.html">Explored Models</a>
+                        <!-- <a class="dropdown-item" href="logistic.html">Logistic Regression Model</a> -->
                         <br>
-                        <a class="dropdown-item" href="Template.html">Template</a>
                         <a class="dropdown-item" href="form.html">Prediction Form</a>
-
                     </div>
                 </li>
             </ul>
@@ -56,7 +53,7 @@
             <div class="container" src=>
                 <h1 class="jumbotron-heading">Machine Learning Models</h1>
             </div>
- 
+
         </section>
 
         <div class="container">
@@ -64,38 +61,43 @@
 
             <div class="row featurette">
                 <div class="col-md-7">
-                    <h2 class="featurette-heading">Models <span class="text-muted">.</span></h2>
+                    <h2 class="featurette-heading">Models<span class="text-muted"></span></h2>
                     <p class="lead">We used the following supervised models for telecom customer churn prediction:</p>
 
-                <ul>
-                    <li>Logistic Regression</li>
-                    <li>Decision Tree</li>
-                    <li>Random Forest</li>                    
-                    <li>K-Nearest Neighbors</li>
-                    <li>Support Vector Machines</li>
-                    <li>Adaboost</li>
-                    <li>TensorFlow</li>
+                    <ul class="lead">
+                        <li>Logistic Regression</li>
+                        <li>Decision Tree</li>
+                        <li>Random Forest</li>
+                        <li>K-Nearest Neighbors</li>
+                        <li>Support Vector Machines</li>
+                        <li>Adaboost</li>
+                        <li>TensorFlow</li>
 
-                </ul>
+                    </ul>
                 </div>
                 <div class="col-md-5">
                     <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="500x500"
-                        style="width: 500px; height: 500px;"
-                        src="../static/images/machine_learning.png"
+                        style="width: 300px; height: 300px;" src="../static/images/machine_learning.png"
                         data-holder-rendered="true">
                 </div>
             </div>
 
             <hr class="featurette-divider">
-
+            F
             <div class="row featurette">
                 <div class="col-md-7 order-md-2">
                     <h2 class="featurette-heading">Logistic Regression</h2>
-                    <p class="lead"> We used this model, because the response variable is binary and it fits our purpose to predict if the customer will stay or churned. </p>
+                    <p class="lead"> Logistic Regression is used when the dependent variable(target) is categorical. For
+                        example, To predict whether an email is spam (1) or (0)
+                    <p class="lead">Its a statistical method to predict a
+                        discrete output or category within Machine Learning.</p>
+                    <p class="lead">This was the model that fit best and was used to predict churn outcome in our app.
+                    </p>
                 </div>
                 <div class="col-md-5 order-md-1">
                     <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="500x500"
-                        src=../static/images/logisticregression.png data-holder-rendered="true" style="width: 500px; height: 500px;">
+                        src=../static/images/logisticregression.png data-holder-rendered="true"
+                        style="width: 400px; height: 400px">
                 </div>
             </div>
 
@@ -103,15 +105,18 @@
 
             <div class="row featurette">
                 <div class="col-md-7">
-                    <h2 class="featurette-heading">Decision Tree <span class="text-muted">Checkmate.</span></h2>
-                    <p class="lead">We used decision tree model because we want to see if we can investigate when the customer is likely to syat with an offer, and based on the parameters suggest the best offer: offer 1, offer 2, or offer 3. 
-                        We choose "customer status" feature for prediction, and this model may not be the best fit. We investigate the accuracy, precision and compare with other models to choose the best model.
-                    </p>
-                </div>
+                    <h2 class="featurette-heading">Decision Tree <span class="text-muted"></span></h2>
+                    <p class="lead">We used decision tree model because we want to see if we can investigate when the
+                        customer is likely to stay with an offer, and based on the parameters suggest the best offer:
+                        offer 1, offer 2, or offer 3.</p>
+                    <p class="lead"> We choose "customer status" feature for prediction, and this model may not be the
+                        best fit. We investigate the accuracy, precision and compare with other models to choose the
+                        best model.</p>
+                   </div>
                 <div class="col-md-5">
                     <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="500x500"
-                        src=../static/images/DecisionTree.png
-                        data-holder-rendered="true" style="width: 500px; height: 500px;">
+                        src=../static/images/DecisionTree.png data-holder-rendered="true"
+                        style="width: 400px; height: 400px">
                 </div>
             </div>
 
@@ -124,7 +129,8 @@
                 </div>
                 <div class="col-md-5 order-md-1">
                     <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="500x500"
-                        src=../static/images/RandomForest.png data-holder-rendered="true" style="width: 500px; height: 500px;">
+                        src=../static/images/RandomForest.png data-holder-rendered="true"
+                        style="width: 400px; height: 400px">
                 </div>
             </div>
 
@@ -137,8 +143,7 @@
                 </div>
                 <div class="col-md-5">
                     <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="500x500"
-                        src=../static/images/KNN.png 
-                        data-holder-rendered="true" style="width: 500px; height: 500px;">
+                        src=../static/images/KNN.png data-holder-rendered="true" style="width: 400px; height: 400px">
                 </div>
             </div>
 
@@ -151,11 +156,11 @@
                 </div>
                 <div class="col-md-5 order-md-1">
                     <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="500x500"
-                        src=../static/images/SVC.png data-holder-rendered="true" style="width: 500px; height: 500px;">
+                        src=../static/images/SVC.png data-holder-rendered="true" style="width: 400px; height: 400px">
                 </div>
             </div>
 
- 
+
             <hr class="featurette-divider">
 
             <div class="row featurette">
@@ -165,37 +170,43 @@
                 </div>
                 <div class="col-md-5">
                     <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="500x500"
-                    src=../static/images/Adaboost.png 
-                        data-holder-rendered="true" style="width: 500px; height: 500px;">
+                        src=../static/images/Adaboost.png data-holder-rendered="true"
+                        style="width: 400px; height: 400px">
                 </div>
-            </div>       
-            
+            </div>
+
             <hr class="featurette-divider">
 
             <div class="row featurette">
                 <div class="col-md-7 order-md-2">
                     <h2 class="featurette-heading">TensorFlow </h2>
-                    <p class="lead"></p>
+                    <p class="lead">TensorFlow is an open-source library developed by Google primarily for deep learning
+                        applications. It also supports traditional machine learning. TensorFlow was originally developed
+                        for large numerical computations without keeping deep learning in mind.</p>
+                        <p class="lead"> TensorFlow accepts data in the form of multi-dimensional arrays of higher
+                            dimensions called tensors. Multi-dimensional arrays are very handy in handling large amounts of
+                            data.</p>
                 </div>
                 <div class="col-md-5 order-md-1">
                     <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="500x500"
-                        src=../static/images/Tensorflow.png data-holder-rendered="true" style="width: 500px; height: 500px;">
+                        src=../static/images/Tensorflow.png data-holder-rendered="true"
+                        style="width: 400px; height: 400px">
                 </div>
             </div>
-            
-            
+
+
 
             <hr class="featurette-divider">
 
             <!-- /END THE FEATURETTES -->
 
 
-        <!-- FOOTER -->
-        <footer class="container">
-            <p class="float-right"><a href="#">Back to top</a></p>
-            <p class="lead text-muted">Collaborators: Deepa Nair, Denise Demerkol, Jeya Emmanuel, Kevin McConchie,
-                Kinlay Denning, Radhika Alapati</p>
-        </footer>
+            <!-- FOOTER -->
+            <footer class="container">
+                <p class="float-right"><a href="#">Back to top</a></p>
+                <p class="lead text-muted">Collaborators: Deepa Nair, Denise Demerkol, Jeya Emmanuel, Kevin McConchie,
+                    Kinlay Denning, Radhika Alapati</p>
+            </footer>
     </main>
 
     <!-- Scripts -->
