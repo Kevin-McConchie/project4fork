@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Models</title>
+    <title>Your Model Name Here</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css"
         integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" ></script>
@@ -36,41 +36,52 @@
                         Project Details
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                        <a class="dropdown-item" href="cleaning.html">Data Cleaning</a>
+                        <a class="dropdown-item" href="cleaning2.html">Data Cleaning</a>
                         <a class="dropdown-item" href="dataprocessing.html">Data Processing</a>
-                        <a class="dropdown-item" href="models.html">Explored Models</a>
-                        <!-- <a class="dropdown-item" href="logistic.html">Logistic Regression Model</a> -->
+                        <!-- <a class="dropdown-item" href="kmean.html">Kmean Model</a>
+                        <a class="dropdown-item" href="logistic.html">Logistic Regression Model</a>
+                        <a class="dropdown-item" href="randomforest.html">Random Forest Model</a> -->
                         <br>
+                        <a class="dropdown-item" href="Template.html">Template</a>
                         <a class="dropdown-item" href="form.html">Prediction Form</a>
+
                     </div>
                 </li>
             </ul>
         </div>
     </nav>
-    
     <!-- Top Banner-->
-    <div class="container">
-        <div class="jumbotron">
+    <main role="main">
+        <section class="jumbotron text-left">
             <div class="container" src=>
-                <h1 class="jumbotron-heading">Telecom Customer Churn Prediction</h1>
-        </div>
-    </div>
+                <h1 class="jumbotron-heading">Machine Learning Models</h1>
+            </div>
+ 
+        </section>
 
         <div class="container">
             <hr class="featurette-divider">
 
             <div class="row featurette">
                 <div class="col-md-7">
-                    <p class="lead">Nowadays, everyone connected to the telecom technology one way or the other(ex: Mobile or Internet). We can see there is a clear evidence when the telecom technology used as a foundation to expand computer (cloud)or digital technology(Netflix, Facebook, Snapshot, Instagram, Twitter , Amazon Prime, Ecommerce, online payment etc).
-                        <br><br>
-                        Now we know how important is the Telecom technology either Internet or Mobile services(4G, 5G), and if telecom operators don't provide quality of service they loose the customers to the competitors. It became a norm the people can survive without food for day but not without mobile phone.
-                        <br><br>
-                        We have done our project to investigate and learn more about customer behaviors, and the best ways to keep hard earned customer with the company.</p>
+                    <h2 class="featurette-heading">Models <span class="text-muted">.</span></h2>
+                    <p class="lead">We used the following supervised models for telecom customer churn prediction:</p>
+
+                <ul>
+                    <li>Logistic Regression</li>
+                    <li>Decision Tree</li>
+                    <li>Random Forest</li>                    
+                    <li>K-Nearest Neighbors</li>
+                    <li>Support Vector Machines</li>
+                    <li>Adaboost</li>
+                    <li>TensorFlow</li>
+
+                </ul>
                 </div>
                 <div class="col-md-5">
                     <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="500x500"
                         style="width: 500px; height: 500px;"
-                        src="../static/images/customer-loyalty-service-support-care-trust-business-concept.jpg"
+                        src="../static/images/machine_learning.png"
                         data-holder-rendered="true">
                 </div>
             </div>
@@ -79,14 +90,12 @@
 
             <div class="row featurette">
                 <div class="col-md-7 order-md-2">
-                    <h2 class="featurette-heading">What Is Churn Rate? </h2>
-                    <p class="lead">The churn rate, also known as the rate of attrition or customer churn, is the rate at which customers stop doing business with an entity. It is most commonly expressed as the percentage of service subscribers who discontinue their subscriptions within a given time period. 
-
-                        For a company to expand its clientele, its growth rate (measured by the number of new customers) must exceed its churn rate.</p></p>
+                    <h2 class="featurette-heading">Logistic Regression</h2>
+                    <p class="lead"> We used this model, because the response variable is binary and it fits our purpose to predict if the customer will stay or churned. </p>
                 </div>
                 <div class="col-md-5 order-md-1">
-                    <img class="featurette-image img-fluid mx-auto" data-src="holder.js/300x300/auto" alt="500x500"
-                        src=../static/images/customer_churn_image.jpg data-holder-rendered="true" style="width: 300px; height: 300px;">
+                    <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="500x500"
+                        src=../static/images/logisticregression.png data-holder-rendered="true" style="width: 500px; height: 500px;">
                 </div>
             </div>
 
@@ -94,32 +103,98 @@
 
             <div class="row featurette">
                 <div class="col-md-7">
-                    <h2 class="featurette-heading">And lastly, this one. <span class="text-muted">Checkmate.</span></h2>
-                    <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis
-                        euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus,
-                        tellus ac cursus commodo.</p>
+                    <h2 class="featurette-heading">Decision Tree <span class="text-muted">Checkmate.</span></h2>
+                    <p class="lead">We used decision tree model because we want to see if we can investigate when the customer is likely to syat with an offer, and based on the parameters suggest the best offer: offer 1, offer 2, or offer 3. 
+                        We choose "customer status" feature for prediction, and this model may not be the best fit. We investigate the accuracy, precision and compare with other models to choose the best model.
+                    </p>
                 </div>
                 <div class="col-md-5">
                     <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="500x500"
-                        src="data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%22500%22%20height%3D%22500%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20500%20500%22%20preserveAspectRatio%3D%22none%22%3E%3Cdefs%3E%3Cstyle%20type%3D%22text%2Fcss%22%3E%23holder_183c1263933%20text%20%7B%20fill%3A%23AAAAAA%3Bfont-weight%3Abold%3Bfont-family%3AArial%2C%20Helvetica%2C%20Open%20Sans%2C%20sans-serif%2C%20monospace%3Bfont-size%3A25pt%20%7D%20%3C%2Fstyle%3E%3C%2Fdefs%3E%3Cg%20id%3D%22holder_183c1263933%22%3E%3Crect%20width%3D%22500%22%20height%3D%22500%22%20fill%3D%22%23EEEEEE%22%3E%3C%2Frect%3E%3Cg%3E%3Ctext%20x%3D%22185.1171875%22%20y%3D%22261.1%22%3E500x500%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fg%3E%3C%2Fsvg%3E"
+                        src=../static/images/DecisionTree.png
                         data-holder-rendered="true" style="width: 500px; height: 500px;">
                 </div>
             </div>
 
+            <hr class="featurette-divider">
 
+            <div class="row featurette">
+                <div class="col-md-7 order-md-2">
+                    <h2 class="featurette-heading">Random Forest </h2>
+                    <p class="lead"></p>
+                </div>
+                <div class="col-md-5 order-md-1">
+                    <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="500x500"
+                        src=../static/images/RandomForest.png data-holder-rendered="true" style="width: 500px; height: 500px;">
+                </div>
+            </div>
+
+            <hr class="featurette-divider">
+
+            <div class="row featurette">
+                <div class="col-md-7">
+                    <h2 class="featurette-heading">K-Nearest Neighbors </h2>
+                    <p class="lead">.</p>
+                </div>
+                <div class="col-md-5">
+                    <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="500x500"
+                        src=../static/images/KNN.png 
+                        data-holder-rendered="true" style="width: 500px; height: 500px;">
+                </div>
+            </div>
+
+            <hr class="featurette-divider">
+
+            <div class="row featurette">
+                <div class="col-md-7 order-md-2">
+                    <h2 class="featurette-heading">Support Vector Machines</h2>
+                    <p class="lead"></p>
+                </div>
+                <div class="col-md-5 order-md-1">
+                    <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="500x500"
+                        src=../static/images/SVC.png data-holder-rendered="true" style="width: 500px; height: 500px;">
+                </div>
+            </div>
+
+ 
+            <hr class="featurette-divider">
+
+            <div class="row featurette">
+                <div class="col-md-7">
+                    <h2 class="featurette-heading">Adaboost </h2>
+                    <p class="lead"></p>
+                </div>
+                <div class="col-md-5">
+                    <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="500x500"
+                    src=../static/images/Adaboost.png 
+                        data-holder-rendered="true" style="width: 500px; height: 500px;">
+                </div>
+            </div>       
             
+            <hr class="featurette-divider">
+
+            <div class="row featurette">
+                <div class="col-md-7 order-md-2">
+                    <h2 class="featurette-heading">TensorFlow </h2>
+                    <p class="lead"></p>
+                </div>
+                <div class="col-md-5 order-md-1">
+                    <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="500x500"
+                        src=../static/images/Tensorflow.png data-holder-rendered="true" style="width: 500px; height: 500px;">
+                </div>
+            </div>
+            
+            
+
             <hr class="featurette-divider">
 
             <!-- /END THE FEATURETTES -->
 
-        </div><!-- /.container -->
 
         <!-- FOOTER -->
         <footer class="container">
             <p class="float-right"><a href="#">Back to top</a></p>
             <p class="lead text-muted">Collaborators: Deepa Nair, Denise Demerkol, Jeya Emmanuel, Kevin McConchie,
-                Kinlay Denning, Radhika Alapati
-            </p>
+                Kinlay Denning, Radhika Alapati</p>
         </footer>
     </main>
 
