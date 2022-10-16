@@ -1,0 +1,19 @@
+accuracy_tensor_flow = tens_model.evaluate(X_test,y_test)
+
+print("\n\n-----------------------------------------------------------")
+print("Accuracy of Tensor flow: ", accuracy_tensor_flow)
+print("Execution time: %0.8f seconds" % (t1 - t0))
+print("-----------------------------------------------------------")
+
+
+cm = tf.math.confusion_matrix(labels=y_test,predictions=y_pred)
+
+plt.figure(figsize = (10,7))
+sns.heatmap(cm, annot=True, fmt='d')
+plt.xlabel('Predicted')
+plt.ylabel('Truth')
+
+model_comparison = model_comparison.append(
+    {'Model': 'Tensor Flow Classifier',
+     'Accuracy': accuracy_tensor_flow,
+     'Execution time': '%0.8f seconds' % (t1 - t0)}, ignore_index = True)

@@ -1,0 +1,2 @@
+for i,j in enumerate(score_array):
+    print(i+1,":",j)

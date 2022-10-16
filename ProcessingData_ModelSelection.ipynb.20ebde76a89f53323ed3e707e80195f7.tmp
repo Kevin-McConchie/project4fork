@@ -1,0 +1,3 @@
+# type: ignore
+eval_ =lr.append(knn).append(dt).append(rf).append(ab).sort_values(["Precision", "Recall", "F2 Score"], ascending = False).reset_index().drop(columns = "index")
+eval_

@@ -1,0 +1,25 @@
+metrics = list()
+cm = dict()
+
+for lab in coeff_labels:
+
+    # Preciision, recall, f-score from the multi-class support function
+    precision, recall, fscore, _ = score(y_test, y_pred[lab], average='weighted')  # type: ignore
+    
+    # The usual way to calculate accuracy
+    accuracy = accuracy_score(y_test, y_pred[lab]) # type: ignore
+    
+    # ROC-AUC scores can be calculated by binarizing the data
+    auc = roc_auc_score(label_binarize(y_test, classes=[0,1]),
+                        label_binarize(y_pred[lab], classes=[0,1]), average='weighted') # type: ignore
+    
+    # Last, the confusion matrix
+    cm[lab] = confusion_matrix(y_test, y_pred[lab]) # type: ignore
+    
+    metrics.append(pd.Series({'precision':precision, 'recall':recall, 
+                              'fscore':fscore, 'accuracy':accuracy,
+                              'auc':auc}, 
+                             name=lab))
+
+model_metrics = pd.concat(metrics, axis=1)
+model_metrics

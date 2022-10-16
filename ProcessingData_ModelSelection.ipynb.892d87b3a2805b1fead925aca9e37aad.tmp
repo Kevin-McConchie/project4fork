@@ -1,0 +1,11 @@
+fig = plt.figure(figsize=(15, 7))
+plt.plot(range(1,25),score_array, color = '#ec838a')
+plt.ylabel('Range\n',horizontalalignment="center",fontstyle = "normal", fontsize = "large", fontfamily = "sans-serif")
+plt.xlabel('Score\n',horizontalalignment="center",fontstyle = "normal", fontsize = "large", fontfamily = "sans-serif")
+
+plt.title('Optimal Number of K Neighbors \n',horizontalalignment="center", fontstyle = "normal",fontsize = "22", fontfamily = "sans-serif")
+#plt.legend(loc='top right', fontsize = "medium")
+
+plt.xticks(rotation=0, horizontalalignment="center")
+plt.yticks(rotation=0, horizontalalignment="right")
+plt.show()

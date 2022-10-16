@@ -1,0 +1,10 @@
+labels = preprocessing_df['paymentmethod'].unique()
+values = preprocessing_df['paymentmethod'].value_counts()
+
+fig = go.Figure(data=[go.Pie(labels=labels, values=values, hole=.3)])
+fig.update_layout(title_text="<b>Payment Method Distribution</b>")
+fig.show()
+
+fig = px.histogram(preprocessing_df, x="customerstatus", color="paymentmethod", title="<b>Customer Payment Method distribution w.r.t. Churn</b>")
+fig.update_layout(width=700, height=500, bargap=0.1)
+fig.show()

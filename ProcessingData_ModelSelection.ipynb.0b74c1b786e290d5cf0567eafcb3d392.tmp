@@ -1,0 +1,12 @@
+plt.figure(6)
+ds_corr = processed_df[['internetservice','totallongdistancecharges','gender','totalcharges','number_of_dependents','multiplelines','onlinesecurity','onlinebackup','deviceprotectionplan','avgmonthlygbdownload','avgmonthlylongdistancecharges','age','premiumtechsupport','streamingtv','streamingmovies','streamingmusic','unlimiteddata','married','tenureinmonths', 'phoneservice','numberofreferrals','offer','contract','paymentmethod','internettype']]
+
+correlations = ds_corr.corrwith(processed_df['monthlycharge'])
+correlations = correlations[correlations!=1]
+correlations.plot.bar(
+        figsize = (20, 6),
+        fontsize = 12,
+        color = 'green',
+        rot = 90, grid = True)
+
+plt.title('Correlation with Monthly Rate \n', horizontalalignment="center", fontstyle = "normal", fontsize = "22", fontfamily = "sans-serif")

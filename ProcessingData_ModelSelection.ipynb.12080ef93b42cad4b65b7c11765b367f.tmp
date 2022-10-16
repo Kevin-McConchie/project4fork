@@ -1,0 +1,6 @@
+
+bins = [19,30,45,60,80]
+names = ['19-30','30-45','45-60','60-80']
+df_object['AgeRange'] = pd.cut(data_df['age'],bins, labels=names,include_lowest=True)
+fig4 =px.box(df_object.join(df_num),x='AgeRange',y='avgmonthlygbdownload', color ='customerstatus')
+fig4

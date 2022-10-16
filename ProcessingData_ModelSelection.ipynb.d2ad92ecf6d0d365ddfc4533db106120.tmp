@@ -1,0 +1,27 @@
+knn_model = KNeighborsClassifier(n_neighbors = 10)
+
+t0 = time.time()
+knn_model.fit(X_train,y_train)
+t1 = time.time()
+
+accuracy_knn = knn_model.score(X_test,y_test)
+
+print("\n\n-----------------------------------------------------------")
+print("Accuracy of K-Nearest Neighbor: ", accuracy_knn)
+print("Execution time: %0.8f seconds" % (t1 - t0))
+print("-----------------------------------------------------------")
+
+knn_prediction = knn_model.predict(X_test)
+
+plt.figure(14)
+plt.figure(figsize=(4,3))
+sns.heatmap(confusion_matrix(y_test, knn_prediction),
+                annot=True, fmt = "d", linecolor="k", linewidths=3)
+
+plt.title("K-Nearest Neighbor Confusion Matrix", fontsize=16)
+plt.show()
+
+model_comparison = model_comparison.append(
+    {'Model': 'K-Nearest Neighbor',
+     'Accuracy': accuracy_knn,
+     'Execution time': '%0.8f seconds' % (t1 - t0)}, ignore_index = True)

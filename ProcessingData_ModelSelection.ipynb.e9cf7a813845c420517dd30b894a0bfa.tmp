@@ -1,0 +1,16 @@
+# Classification Feature Selection of the categorical variables against the target (categorical variable)
+fs_cat_kd = SelectKBest(score_func=chi2, k=4)
+
+# apply feature selection:
+fs_cat_kd.fit(features_encoded_kd, y_kd)
+selected_features_num_kd = fs_cat_kd.transform(features_encoded_kd)
+
+# tabulate features and view dataframe:
+categorical_features_df_kd = pd.DataFrame({'categorical_features': features_encoded_kd.columns, 
+    'KBest_to_keep': fs_cat_kd.get_support(), 'f-score': fs_cat_kd.scores_})
+categorical_features_df_kd
+
+# isolate best categorical features
+best_cat_features_kd = features_encoded_kd[['offer', 'onlinesecurity', 'premiumtechsupport', 'contract']]
+categorical_features_df_kd
+

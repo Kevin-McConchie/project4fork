@@ -1,0 +1,12 @@
+# Cross validation
+
+from sklearn.model_selection import cross_val_score
+
+# Function that will track the mean value and the standard deviation of the accuracy
+def cvDictGen(functions, scr, X_train = X, y_train = y, cv = 5):
+    cvDict = {}
+    for func in functions:
+        cvScore = cross_val_score(func, X_train, y_train, cv = cv, scoring = scr)
+        cvDict[str(func).split('(')[0]] = [cvScore.mean(), cvScore.std()]
+    
+    return cvDict

@@ -1,0 +1,6 @@
+
+# Correlation between all variables
+plt.figure(50, figsize=(50, 30))
+corr = preprocessing_df.apply(lambda x: pd.factorize(x)[0]).corr()
+mask = np.triu(np.ones_like(corr, dtype=bool))
+ax = sns.heatmap(corr, mask=mask, xticklabels=corr.columns, yticklabels=corr.columns, annot=True, linewidths=.2, cmap='coolwarm', vmin=-1, vmax=1)

@@ -1,0 +1,10 @@
+
+
+def encode_data(df):
+    if df.dtype == "object":
+        df = LabelEncoder().fit_transform(df)
+    return df
+
+processed_df = preprocessing_df.copy
+processed_df = preprocessing_df.apply(lambda x: encode_data(x))
+processed_df.head()

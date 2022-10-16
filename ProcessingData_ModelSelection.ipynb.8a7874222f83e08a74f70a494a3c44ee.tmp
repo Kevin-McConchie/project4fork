@@ -1,0 +1,3 @@
+# Plot confusion matrix for knn model with the use of GridSearch:
+plot_confusion_matrix(grid_search_knn_kd, X_n_test_kd, y_test_kd, values_format='d')
+plt.grid(False)

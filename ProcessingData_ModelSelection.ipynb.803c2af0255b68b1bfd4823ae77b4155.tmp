@@ -1,0 +1,7 @@
+# Function for calculating Variable Inflation Factors on numeric variables
+def calculate_vif_kd(X):
+    vif_kd = pd.DataFrame()
+    vif_kd['variables'] = X.columns
+    vif_kd['Variable Inflation Factors'] = [variance_inflation_factor(X.values, i)
+    for i in range(X.shape[1])] 
+    return vif_kd

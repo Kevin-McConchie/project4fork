@@ -1,0 +1,7 @@
+#LIST OF COLUMNS THAT WILL BE USED TO COMPARE THE MODELS
+
+list_of_columns = ['age','married','unlimiteddata','numberofreferrals','offer','onlinesecurity','premiumtechsupport','tenureinmonths',
+                    'contract','number_of_dependents','customerstatus','paperlessbilling','monthlycharge']
+
+
+                

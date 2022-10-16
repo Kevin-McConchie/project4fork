@@ -1,0 +1,1 @@
+preprocessing_df.internetservice.describe(include=["object", "bool"])

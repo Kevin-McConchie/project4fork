@@ -1,0 +1,13 @@
+# Correlation between churn and categorical data
+
+cols = ['multiplelines', 'internetservice','onlinesecurity',
+                'onlinebackup','deviceprotectionplan',
+                'premiumtechsupport','streamingtv','streamingmovies','streamingmusic','unlimiteddata','married']
+
+
+plt.figure(figsize=(80,20))
+
+for i, col in enumerate(cols):
+    ax = plt.subplot(1, len(cols), i+1)
+    sns.countplot(x ="customerstatus", hue = str(col), data = preprocessing_df)
+    ax.set_title(f"{col}")

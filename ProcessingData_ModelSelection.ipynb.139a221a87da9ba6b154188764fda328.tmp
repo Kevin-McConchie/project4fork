@@ -1,0 +1,2 @@
+cvD = cvDictGen(classifiers, scr = 'roc_auc')
+cvD

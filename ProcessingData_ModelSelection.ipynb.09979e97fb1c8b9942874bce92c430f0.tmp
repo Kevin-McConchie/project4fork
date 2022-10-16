@@ -1,0 +1,3 @@
+
+corr= preprocessing_df.corr()
+sns.heatmap(corr, xticklabels=corr.columns, yticklabels=corr.columns)

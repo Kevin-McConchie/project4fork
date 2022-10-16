@@ -1,0 +1,26 @@
+
+config = configparser.ConfigParser()
+config.read('../my_config.ini')
+
+config.sections()
+DBPass = config.get('rds', 'password')
+
+# AWS CONNECTION
+
+engine = psycopg2.connect(
+    database="project4",
+    user="postgres",
+    password=DBPass,
+    host="bootcampproject4.ceqr0hcm5qlq.us-east-1.rds.amazonaws.com",
+    port='5432'
+)
+
+
+Query = "select * from telecom_customer_churn"
+
+
+data_df = pd.io.sql.read_sql(Query, engine)  # type: ignore
+engine.close()
+
+
+(data_df.head(2))

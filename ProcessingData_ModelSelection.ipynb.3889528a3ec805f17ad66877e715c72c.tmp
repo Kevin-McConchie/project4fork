@@ -1,0 +1,21 @@
+#Plotting ROC AUC comparision among machine learing models
+fig = plt.figure(figsize=(25,15))
+ax = fig.add_subplot(111)
+plt.boxplot(auc_results)
+ax.set_xticklabels(names)
+
+plt.ylabel('ROC AUC Score\n',
+horizontalalignment="center",fontstyle = "normal", 
+fontsize = "large", fontfamily = "sans-serif")
+
+plt.xlabel('\n Baseline Classification Algorithms\n',
+horizontalalignment="center",fontstyle = "normal", 
+fontsize = "large", fontfamily = "sans-serif")
+
+plt.title('ROC AUC Comparison \n',
+horizontalalignment="center", fontstyle = "normal", 
+fontsize = "22", fontfamily = "sans-serif")
+
+plt.xticks(rotation=0, horizontalalignment="center")
+plt.yticks(rotation=0, horizontalalignment="right")
+plt.show()

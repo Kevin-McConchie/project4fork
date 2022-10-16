@@ -1,0 +1,5 @@
+lr  = model_evaluation(y_test, y_pred, "Logistic Regression")
+knn = model_evaluation(y_test, y_pred2, "K-Nearest Neighbours")
+dt  = model_evaluation(y_test, y_pred3, "Decision Tree")
+rf  = model_evaluation(y_test, y_pred4, "Random Forest")
+ab  = model_evaluation(y_test, y_pred5, "Adaboost")

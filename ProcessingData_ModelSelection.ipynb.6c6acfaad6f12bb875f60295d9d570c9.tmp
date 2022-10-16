@@ -1,0 +1,1 @@
+model_df = processed_df[list_of_columns]

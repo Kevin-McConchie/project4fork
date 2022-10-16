@@ -1,0 +1,13 @@
+type_ = ["No", "Yes"]
+fig = make_subplots(rows=1, cols=1)
+
+fig.add_trace(go.Pie(labels=type_, values=preprocessing_df['customerstatus'].value_counts(), name="Churn"))
+
+# Use `hole` to create a donut-like pie chart
+fig.update_traces(hole=.4, hoverinfo="label+percent+name", textfont_size=16)
+
+fig.update_layout(
+    title_text="Churn Distributions",
+    # Add annotations in the center of the donut pies.
+    annotations=[dict(text='Churn Status', x=0.5, y=0.5, font_size=20, showarrow=False)])
+fig.show()

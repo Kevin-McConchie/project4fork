@@ -1,0 +1,28 @@
+# Classification Feature Selection of the numerical variables against the target (categorical variable)
+
+# ANOVA f-test for feature selection
+    # ANOVA: analysis of variance. A test for determining whether the means from two or more samples of data come from the
+        # same distribution
+    # ANOVA is used when one variable is numeric and one is categorical
+    # The methods based on F-test estimate the degree of linear dependency between two random variables
+    # The result tells us which features are independent to the target variable
+
+# define feature selection:
+    # Select features according to the k highest scores
+    # k=5 instructs the variable function to select the (4 best) features that are the most linearly dependent with the target
+    # f_classif function computes the ANOVA f-score
+fs_num_kd = SelectKBest(score_func=f_classif, k=4)
+
+# apply feature selection:
+fs_num_kd.fit(X_num_selection_kd, y_kd)
+selected_features_num_kd = fs_num_kd.transform(X_num_selection_kd)
+
+# tabulate features and view dataframe:
+numerical_features_df_kd = pd.DataFrame({'numerical_features': X_num_selection_kd.columns, 
+    'KBest_to_keep': fs_num_kd.get_support(), 'f-score': fs_num_kd.scores_})
+numerical_features_df_kd
+
+# isolate best numerical features
+best_num_features_kd = X_numeric_kd[['number_of_dependents', 'numberofreferrals', 'totalrevenue']]
+numerical_features_df_kd
+

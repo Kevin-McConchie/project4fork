@@ -1,0 +1,30 @@
+# Importing Dependencies
+
+import psycopg2
+import configparser
+import time
+import numpy                as np
+import pandas               as pd
+import seaborn              as sns
+import plotly.express       as px
+import matplotlib.pyplot    as plt
+import tensorflow           as tf
+import plotly.graph_objects as go
+
+
+from statsmodels.stats.outliers_influence import variance_inflation_factor
+from sklearn.preprocessing      import LabelEncoder, MinMaxScaler, label_binarize
+from sklearn.linear_model       import LogisticRegression, LogisticRegressionCV
+from sklearn.metrics            import precision_recall_fscore_support as score
+from sklearn.metrics            import confusion_matrix, accuracy_score, roc_auc_score, roc_curve, auc,recall_score, precision_score, f1_score, classification_report,fbeta_score, plot_confusion_matrix
+from sklearn.model_selection    import GridSearchCV, cross_val_score, RandomizedSearchCV, RepeatedStratifiedKFold
+from sklearn.tree               import DecisionTreeClassifier
+from sklearn.ensemble           import RandomForestClassifier, AdaBoostClassifier
+from sklearn.svm                import SVC
+from sklearn.neighbors          import KNeighborsClassifier
+from tensorflow                 import keras
+from plotly.subplots            import make_subplots
+from sklearn                    import model_selection
+from scipy.stats                import randint
+from sklearn.feature_selection  import SelectKBest, f_classif, chi2
+

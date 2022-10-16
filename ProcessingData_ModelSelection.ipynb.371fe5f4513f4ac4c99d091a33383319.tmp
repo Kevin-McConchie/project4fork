@@ -1,0 +1,2 @@
+data_df = data_df[data_df['customerstatus'] != 'Joined']
+data_df.head(2)

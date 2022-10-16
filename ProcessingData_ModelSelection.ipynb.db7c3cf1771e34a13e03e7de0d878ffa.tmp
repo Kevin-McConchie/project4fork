@@ -1,0 +1,12 @@
+ABC = AdaBoostClassifier()
+
+ABC_param_grid = {"n_estimators" :[10,50,100,200,420],
+                  "learning_rate":  [0.001, 0.01, 0.1, 0.3]}
+
+gsABC = GridSearchCV(ABC, param_grid = ABC_param_grid, cv = 10, scoring = "roc_auc", n_jobs = 6, verbose = 1)
+
+gsABC.fit(X_train,y_train)
+
+ada_best = gsABC.best_estimator_
+print(ada_best)
+print(gsABC.best_score_)

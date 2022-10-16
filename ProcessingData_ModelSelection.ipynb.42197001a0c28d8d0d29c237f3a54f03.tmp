@@ -1,0 +1,8 @@
+# Compare vif before and after highly correlated features are removed
+vif_all_num_columns_kd = calculate_vif(X_numeric_kd).sort_values('Variable Inflation Factors', ascending=False)
+print(f'First Test (All Numeric Columns):\n {vif_all_num_columns_kd}')
+
+# Remove highly correlated numerical features:
+X_num_selection_kd = X_numeric_kd.drop(['totallongdistancecharges', 'totalcharges', 'monthlycharge'], axis=1)
+vif_selection_kd = calculate_vif(X_num_selection_kd).sort_values('Variable Inflation Factors', ascending=False)
+print(f'Second Test (Selected Columns):\n {vif_selection_kd}')

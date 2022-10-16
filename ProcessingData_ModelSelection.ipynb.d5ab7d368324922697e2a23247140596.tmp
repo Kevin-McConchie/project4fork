@@ -1,0 +1,2 @@
+print(preprocessing_df['customerstatus'].value_counts())
+100. * preprocessing_df['customerstatus'].value_counts() / len(preprocessing_df['customerstatus'])

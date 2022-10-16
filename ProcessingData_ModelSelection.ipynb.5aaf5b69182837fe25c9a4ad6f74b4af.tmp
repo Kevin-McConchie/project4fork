@@ -1,0 +1,6 @@
+preds = [y_pred, y_pred2,  y_pred3, y_pred4, y_pred5]
+classifiers = [classifier , classifier2, classifier3, classifier4, classifier5]
+model_names_ = ["Logistic Regression",  "K-Nearest Neighbours", "Decision Tree", "Random Forest", "Adaboost" ]
+
+for i, j, k in zip(classifiers, model_names_, predictions):
+    ROC_curve(i, j, k) 

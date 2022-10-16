@@ -1,0 +1,4 @@
+# Ada boost classifier
+feature_importances = pd.concat([pd.DataFrame(X_train.columns, columns = ["features"]),
+                                 pd.DataFrame(np.transpose(classifier5.feature_importances_), columns = ["coef"])],axis = 1)
+feature_importances.sort_values(by = "coef", ascending = False)

@@ -1,0 +1,31 @@
+#Measuring selected algorithms for ROC AUC Mean, ROC AUC STD, Accuracy Mean and Accuracy STD 
+#This output is required to determine which algorithm best fit for the churn prediction
+acc_results =[]
+auc_results =[]
+names = []
+
+result_col = ["Algorithm", "ROC AUC Mean", "ROC AUC STD", "Accuracy Mean", "Accuracy STD"]
+model_results = pd.DataFrame(columns = result_col)
+
+i=0
+# K- fold cross validation
+
+for name, model in models:
+    names.append(name)
+    kfold = model_selection.KFold(n_splits=10, random_state=None)
+    
+    cv_acc_results = model_selection.cross_val_score(model, X_train, y_train, cv = kfold, scoring="accuracy")
+    cv_auc_results = model_selection.cross_val_score(model, X_train, y_train, cv = kfold, scoring="roc_auc")
+    acc_results.append(cv_acc_results)
+    auc_results.append(cv_auc_results)
+    
+    model_results.loc[i] = [name, 
+                           round(cv_auc_results.mean()*100,2),
+                           round(cv_auc_results.std()*100,2),
+                           round(cv_acc_results.mean()*100,2),
+                           round(cv_acc_results.std()*100,2)]
+    i+=1
+
+
+
+model_results.sort_values(by = ['ROC AUC Mean'], ascending=False)

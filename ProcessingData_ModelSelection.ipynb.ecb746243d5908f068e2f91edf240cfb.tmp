@@ -1,0 +1,2 @@
+fig6 =px.box(df_object.join(df_num),x='gender',y='tenureinmonths', color ='customerstatus')
+fig6

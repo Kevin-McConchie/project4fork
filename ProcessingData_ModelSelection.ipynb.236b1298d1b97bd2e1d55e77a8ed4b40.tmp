@@ -1,0 +1,26 @@
+fig = go.Figure()
+
+fig.add_trace(go.Bar(
+  x = [['Churn:No', 'Churn:No', 'Churn:Yes', 'Churn:Yes'],
+       ["Female", "Male", "Female", "Male"]],
+  y = [965, 992, 219, 240],
+  name = 'DSL',
+))
+
+fig.add_trace(go.Bar(
+  x = [['Churn:No', 'Churn:No', 'Churn:Yes', 'Churn:Yes'],
+       ["Female", "Male", "Female", "Male"]],
+  y = [889, 910, 664, 633],
+  name = 'Fiber optic',
+))
+
+fig.add_trace(go.Bar(
+  x = [['Churn:No', 'Churn:No', 'Churn:Yes', 'Churn:Yes'],
+       ["Female", "Male", "Female", "Male"]],
+  y = [690, 717, 56, 57],
+  name = 'No Internet',
+))
+
+fig.update_layout(title_text="<b>Churn Distribution w.r.t. Internet Service and Gender</b>")
+
+fig.show()

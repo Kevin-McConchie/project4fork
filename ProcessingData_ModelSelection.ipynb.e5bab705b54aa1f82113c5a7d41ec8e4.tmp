@@ -1,0 +1,2 @@
+# type: ignore
+bestAdaModFitted2 = gsABC.best_estimator_.fit(X_train, y_train)

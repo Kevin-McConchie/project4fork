@@ -1,0 +1,2 @@
+data_df['totalcharges'] = pd.to_numeric(data_df.totalcharges, errors='coerce')
+data_df.isnull().sum()
