@@ -29,6 +29,10 @@ def dataprocessing():
 def models():
     return render_template("models.html")
 
+@app.route("/result.html")
+def result():
+    return render_template("result.html")
+
 
 
 @app.route("/form.html", methods=['POST','GET'])
@@ -61,9 +65,9 @@ def form():
         predict = model.predict(scaled_result)
         result=""
         if predict[0]==1:
-            return render_template("form.html", result= "Customer will stay.")
+            return render_template("result.html", result= "Customer will stay.")
         else:
-            return render_template("form.html", result= "Customer will churn.")
+            return render_template("result.html", result= "Customer will churn.")
         # input_df['Outcome']=result
         # input_df.to_csv("Outcome.csv")    
         # print (result)
